@@ -1,0 +1,540 @@
+pert_iname,indication
+L-citrulline,Hypertension|Erectile Dysfunction
+SN-38,Colorectal Neoplasms
+abacavir,HIV
+abiraterone-acetate,Prostatic Neoplasms
+acarbose,Diabetes Mellitus
+acebutolol,Hypertension
+acexamic-acid,Wound Healing
+acipimox,Hyperlipidemias
+aclidinium,"Bronchitis|Emphysema|Pulmonary Disease, Chronic Obstructive"
+acrivastine,"Rhinitis, Allergic"
+actarit,"Arthritis, Rheumatoid"
+adenosine,Wolff-Parkinson-White Syndrome
+afloqualone,Hypnotics and Sedatives
+alectinib,"Carcinoma, Non-Small-Cell Lung"
+alizapride,Nausea
+almitrine,"Pulmonary Disease, Chronic Obstructive"
+alpelisib,Breast Neoplasms
+alprostadil,"Heart Defects, Congenital"
+altrenogest,Estrus
+altretamine,Ovarian Neoplasms
+ambroxol,Bronchitis
+amikacin,Gram-Negative Bacterial Infections
+amiloride,Heart Failure
+aminoglutethimide,Cushing Syndrome
+amlexanox,"Asthma|Rhinitis, Allergic|Stomatitis, Aphthous|Conjunctivitis"
+amlodipine,"Angina, Stable|Coronary Artery Disease"
+ammonium-glycyrrhizinate,Cosmetics
+amoxapine,Depression
+amrinone,Heart Failure
+amsacrine,Precursor Cell Lymphoblastic Leukemia-Lymphoma
+amtolmetin-guacil,"Arthritis, Rheumatoid|Osteoarthritis"
+anecortave-acetate,Macular Degeneration
+anidulafungin,Mycoses|Candidemia
+aprepitant,Nausea|Vomiting
+artesunate,Malaria
+asenapine,Bipolar Disorder|Schizophrenia
+aspirin,Fever|Myalgia
+ataluren,"Muscular Dystrophy, Duchenne|Cystic Fibrosis"
+atovaquone,Pneumonia
+atracurium,"Intubation, Intratracheal"
+avanafil,Erectile Dysfunction
+azacitidine,"Anemia|Leukemia, Myelomonocytic, Chronic"
+azelastine,Conjunctivitis
+azithromycin,Pneumonia|Pelvic Inflammatory Disease
+baicalin,Anxiety
+bambuterol,Asthma
+baricitinib,"Arthritis, Rheumatoid"
+bazedoxifene,Menopause
+beclomethasone-dipropionate,"Rhinitis, Allergic"
+bendroflumethiazide,Hypertension
+benzthiazide,Hypertension|Edema
+benzylpenicillin,Meningitis
+bepotastine,Conjunctivitis
+betahistine,Meniere Disease
+betrixaban,Venous Thrombosis
+bezafibrate,Cholesterol
+bifemelane,Glaucoma|Alzheimer Disease
+bifonazole,Tinea cruris
+bimatoprost,Glaucoma|Intraocular Pressure|Ocular Hypertension
+binimetinib,Melanoma
+biperiden,Parkinson Disease
+blonanserin,Schizophrenia
+bopindolol,Hypertension|Coronary Artery Disease
+bortezomib,"Lymphoma, Mantle-Cell|Multiple Myeloma"
+bosutinib,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive"
+brivudine,Herpes Zoster
+bromocriptine,Parkinson Disease|Hyperprolactinemia|Acromegaly
+bucladesine,Skin Ulcer
+budipine,Parkinson Disease
+buflomedil,Peripheral Arterial Disease
+bumetanide,Edema
+cabazitaxel,Prostatic Neoplasms
+cabozantinib,"Thyroid cancer, medullary"
+caffeine,Fatigue
+calcitriol,Osteoporosis|Hypocalcemia|Hypoparathyroidism
+camostat-mesilate,Pancreatitis
+candesartan,Hypertension|Heart Failure
+capecitabine,Breast Neoplasms|Colorectal Neoplasms
+capsaicin,"Arthritis, Rheumatoid|Myalgia"
+carbachol,Intraocular Pressure
+carfilzomib,Multiple Myeloma
+carglumic-acid,Hyperammonemia
+cariprazine,Schizophrenia
+carprofen,Osteoarthritis
+carvedilol,Myocardial Infarction
+cefdinir,Bronchitis|Pneumonia|Tonsillitis|Pharyngitis|Sinusitis
+cefepime,Urinary Tract Infections|Pneumonia|Intraabdominal Infections
+cefoperazone,Gram-Negative Bacterial Infections
+cefotetan,Urinary Tract Infections|Respiratory Tract Infections|Intraabdominal Infections|Chlamydia
+cefozopran,Gram-Negative Bacterial Infections|Gram-Positive Bacterial Infections
+cevimeline,Sjogren's Syndrome
+chloramphenicol,Meningitis|Fever|Cholera
+chloroquine,Amebiasis
+chloroxine,Diarrhea|Inflammatory Bowel Diseases|Giardiasis|Dandruff
+chlorphenamine,Urticaria
+chlorpromazine,Nausea|Tetanus
+chlorprothixene,Bipolar Disorder|Schizophrenia
+chlorthalidone,"Heart Failure|Edema|Liver Cirrhosis|Nephrotic Syndrome|Kidney Failure, Chronic"
+cholic-acid,Peroxisomal Disorders|Zellweger Syndrome
+cimetidine,"Gastroesophageal Reflux|Mastocytosis, Systemic|Zollinger-Ellison Syndrome"
+cinoxacin,Urinary Tract Infections
+clarithromycin,Bronchitis|Pneumonia|Tonsillitis|Pharyngitis|Otitis|Sinusitis
+clemizole,"Rhinitis, Allergic"
+clenbuterol,"Asthma|Pulmonary Disease, Chronic Obstructive"
+climbazole,Dandruff|Eczema
+clindamycin,Respiratory Tract Infections|Pneumonia|Intraabdominal Infections
+clinofibrate,Hypertriglyceridemia
+clofazimine,Leprosy
+clofibrate,Hyperlipidemias|Cholesterol
+clofibric-acid,Hyperlipidemias
+clofoctol,Gram-Positive Bacterial Infections
+clomethiazole,Parkinson Disease|Hypnotics and Sedatives
+clomifene,Infertility
+closantel,Fasciola hepatica
+cobicistat,HIV
+cobimetinib,Melanoma
+colchicine,Gout|Fever
+cromoglicic-acid,"Asthma|Urticaria|Colitis, Ulcerative|Conjunctivitis"
+cyanocobalamin,Anemia|Celiac Disease
+cyclizine,Vertigo|Nausea|Vomiting|Motion Sickness
+cyproheptadine,"Rhinitis, Allergic|Conjunctivitis|Rhinitis, Vasomotor"
+cyproterone-acetate,Prostatic Neoplasms
+dabigatran-etexilate,Venous Thrombosis|Stroke|Pulmonary Embolism
+danazol,Endometriosis|Angioedema
+dantrolene,Spasm|Malignant Hyperthermia
+dapagliflozin,Diabetes Mellitus
+dapsone,Leprosy|Dermatitis Herpetiformis
+darifenacin,Urinary Incontinence
+darunavir,HIV
+dasabuvir,Hepatitis C
+daunorubicin,"Leukemia, Myeloid, Acute|Precursor Cell Lymphoblastic Leukemia-Lymphoma"
+dehydroepiandrosterone,Menopause
+delivert,Sepsis
+desmopressin-acetate,"Diabetes Insipidus, Neurogenic|Nocturnal Enuresis"
+dexamethasone,"Arthritis, Rheumatoid|Osteoarthritis|Rhinitis, Allergic|Psoriasis|Dermatitis Herpetiformis|Colitis, Ulcerative|Arthritis, Psoriatic|Anemia|Multiple Sclerosis|Enteritis|Nephrotic Syndrome|Hypercalcemia"
+dexamethasone-acetate,"Arthritis, Rheumatoid|Osteoarthritis|Rhinitis, Allergic|Psoriasis|Dermatitis Herpetiformis|Colitis, Ulcerative|Arthritis, Psoriatic|Anemia|Multiple Sclerosis|Enteritis|Nephrotic Syndrome|Hypercalcemia"
+dextromethorphan,Antitussive Agents
+diclofenac,Migraine Disorders
+dicoumarol,Venous Thrombosis
+dienogest,Contraceptive Agents|Endometriosis
+diflunisal,"Arthritis, Rheumatoid|Osteoarthritis"
+digoxin,Heart Failure|Atrial Fibrillation
+dihydroergocristine,Alzheimer Disease|Cerebrovascular Disorders
+dilazep,Coronary Disease
+diltiazem,Hypertension|Angina Pectoris
+dinoprost,"Labor, Induced"
+diosmin,Venous Thrombosis|Edema
+diphenidol,Vertigo
+diphenylpyraline,"Rhinitis, Allergic"
+dipyridamole,Peripheral Arterial Disease
+disopyramide,"Tachycardia, Ventricular"
+docetaxel,"Breast Neoplasms|Prostatic Neoplasms|Carcinoma, Non-Small-Cell Lung|Squamous Cell Carcinoma of Head and Neck"
+dolasetron,Nausea|Vomiting
+dolutegravir,HIV
+dopamine,Tremor
+dorzolamide,Glaucoma|Intraocular Pressure
+dosulepin,Depression
+doxepin,Depression|Anxiety
+doxifluridine,Colorectal Neoplasms
+doxofylline,Asthma
+doxycycline,Periodontitis
+drospirenone,Contraceptive Agents
+dutasteride,Prostatic Hyperplasia
+econazole,"Tinea cruris|Tinea Versicolor|Candidiasis, Cutaneous"
+edoxaban,Venous Thrombosis|Stroke|Pulmonary Embolism|Atrial Fibrillation
+edoxudine,Simplexvirus
+efavirenz,HIV
+elvitegravir,HIV
+emedastine,Conjunctivitis
+emtricitabine,HIV
+enoxacin,Urinary Tract Infections|Gonorrhea
+enoxolone,Common Cold
+enzalutamide,Prostatic Neoplasms
+epirubicin,Breast Neoplasms
+epitiostanol,Breast Neoplasms
+eptifibatide,Acute Coronary Syndrome|Percutaneous Coronary Intervention
+erythromycin,Respiratory Tract Infections|Pelvic Inflammatory Disease|Syphilis|Amebiasis|Chlamydia|Listeria|Diphtheria|Erythrasma
+erythromycin-ethylsuccinate,Respiratory Tract Infections|Pelvic Inflammatory Disease|Syphilis|Amebiasis|Chlamydia|Listeria|Diphtheria|Erythrasma
+escitalopram,Depression
+esmolol,"Tachycardia, Ventricular"
+estradiol,Contraceptive Agents
+estramustine,Prostatic Neoplasms
+estramustine-phosphate,Prostatic Neoplasms
+estriol,Urinary Tract Infections|Menopause
+estrone,Menopause
+etacrynic-acid,"Hypertension|Heart Failure|Edema|Liver Cirrhosis|Nephrotic Syndrome|Kidney Failure, Chronic"
+ethinyl-estradiol,Contraceptive Agents
+etizolam,Anxiety|Sleep Initiation and Maintenance Disorders
+etodolac,"Arthritis, Rheumatoid|Osteoarthritis"
+etofenamate,Myalgia|Arthralgia
+etofylline-clofibrate,Hyperlipidemias
+etomidate,"Anesthetics, General"
+etoricoxib,"Gout|Arthritis, Psoriatic"
+etravirine,HIV
+eugenol,Toothache
+everolimus,"Breast Neoplasms|Carcinoma, Renal Cell|Astrocytoma|Tuberous Sclerosis"
+exemestane,Breast Neoplasms
+fadrozole,Breast Neoplasms
+faropenem,Urinary Tract Infections|Bronchitis|Pneumonia|Sinusitis
+fasudil,"Vasospasm, Intracranial"
+felbamate,Epilepsy
+felbinac,"Arthritis, Rheumatoid|Myalgia"
+felodipine,Hypertension
+fentiazac,Myalgia|Arthralgia
+fenticonazole,"Candidiasis, Vulvovaginal"
+fidaxomicin,Diarrhea
+finasteride,Alopecia
+flavoxate,"Urinary Incontinence|Urethritis|Cystitis, Interstitial|Prostatitis"
+flecainide,"Tachycardia, Ventricular"
+floxuridine,Colorectal Neoplasms
+fludarabine-phosphate,"Leukemia, Lymphocytic, Chronic, B-Cell"
+fludroxycortide,Psoriasis
+flumazenil,Hypnotics and Sedatives
+fluocinolone-acetonide,"Dermatitis, Seborrheic"
+fluoxetine,Bipolar Disorder|Bulimia Nervosa|Panic Disorder
+flutrimazole,Mycoses
+folic-acid,"Anemia, Megaloblastic"
+fomocaine,"Anesthetics, Local"
+formestane,Breast Neoplasms
+formoterol,"Asthma|Pulmonary Disease, Chronic Obstructive|Bronchial Spasm"
+fosfomycin,Urinary Tract Infections
+fosinopril,Hypertension|Heart Failure
+ftorafur,Colorectal Neoplasms
+fulvestrant,Breast Neoplasms
+fusidic-acid,Acne Vulgaris
+gabapentin,Herpes Zoster|Simplexvirus
+gallopamil,"Hypertension|Arrhythmias, Cardiac"
+ganciclovir,Cytomegalovirus
+gemfibrozil,Hyperlipidemias
+gemifloxacin,Bronchitis|Pneumonia
+glasdegib,"Leukemia, Myeloid, Acute"
+glimepiride,Diabetes Mellitus
+glipizide,Hyperglycemia
+gliquidone,Diabetes Mellitus
+granisetron,Nausea|Vomiting
+griseofulvin,Tinea Pedis|Tinea
+guanaben-acetate,Hypertension
+guanadrel,Hypertension
+guanethidine,Hypertension
+halofantrine,Malaria
+haloperidol,Tourette Syndrome
+hexachlorophene,Gram-Positive Bacterial Infections
+homochlorcyclizine,"Rhinitis, Allergic"
+hydrocortisone,"Psoriasis|Pruritus|Eczema|Dermatitis, Seborrheic"
+hydroflumethiazide,"Hypertension|Heart Failure|Edema|Liver Cirrhosis|Nephrotic Syndrome|Kidney Failure, Chronic"
+ibrutinib,"Lymphoma, Mantle-Cell|Leukemia, Lymphocytic, Chronic, B-Cell|Waldenstrom Macroglobulinemia"
+ibudilast,Asthma|Stroke
+ibuprofen,"Arthritis, Rheumatoid"
+ibutilide,Atrial Fibrillation
+idebenone,"Alzheimer Disease|Friedreich Ataxia|Optic Atrophy, Hereditary, Leber"
+ifosfamide,"Cystitis, Hemorrhagic"
+iguratimod,"Arthritis, Rheumatoid"
+imatinib,Pdgfra-Associated Chronic Eosinophilic Leukemia
+imipramine,Nocturnal Enuresis
+indacaterol,"Pulmonary Disease, Chronic Obstructive"
+indapamide,Heart Failure
+indinavir,HIV
+indobufen,Thrombosis
+indoramin,Hypertension|Prostatic Hyperplasia
+ingenol-mebutate,"Keratosis, Actinic"
+ipratropium,"Bronchitis|Emphysema|Pulmonary Disease, Chronic Obstructive|Bronchial Spasm"
+ipriflavone,Osteoporosis
+isoconazole,Gram-Positive Bacterial Infections
+itopride,Nausea|Vomiting|Dyspepsia|Heartburn|Gastroparesis|Anorexia
+ivabradine,Angina Pectoris
+ivermectin,Phthiraptera|Mites|Muscidae
+ixabepilone,Breast Neoplasms
+ixazomib-citrate,Multiple Myeloma
+josamycin,Bronchitis
+ketanserin,Hypertension
+ketoconazole,"Dermatitis, Seborrheic"
+ketoprofen,"Arthritis, Rheumatoid"
+ketotifen,Pruritus
+lacitol,Constipation
+lamivudine,HIV
+laropiprant,Cholesterol
+lasalocid,Coccidiosis
+letermovir,Cytomegalovirus
+levalbuterol,Bronchial Spasm
+levobunolol,Glaucoma|Ocular Hypertension
+levocabastine,Conjunctivitis
+levofloxacin,Anthrax|Plague
+levonorgestrel,Contraceptive Agents
+levosimendan,Heart Failure
+lidamidine,Diarrhea
+lidocaine,Hemorrhage|Eczema
+lidoflazine,Coronary Artery Disease
+linsidomine,Erectile Dysfunction
+liranaftate,Mycoses
+lobenzarit,"Arthritis, Rheumatoid"
+lodoxamide,"Conjunctivitis, Allergic"
+lomerizine,Migraine Disorders
+lomitapide,Hypercholesterolemia
+lopinavir,HIV
+luliconazole,Tinea cruris
+lumacaftor,Cystic Fibrosis
+macitentan,Contraceptive Agents
+malotilate,Liver Cirrhosis
+mannitol-D,Intraocular Pressure|Intracranial Pressure
+maprotiline,Depression|Dysthymic Disorder
+maraviroc,HIV
+masitinib,Mastocytoma
+masoprocol,"Keratosis, Actinic"
+maxacalcitol,Hyperparathyroidism
+mebendazole,Ascariasis|Ancylostomatoidea|Enterobius
+mecamylamine,Hypertension
+meclizine,Nausea|Vomiting|Motion Sickness
+meclofenamic-acid,"Arthritis, Rheumatoid|Myalgia|Arthralgia"
+medetomidine,Hypnotics and Sedatives
+medroxyprogesterone-acetate,Contraceptive Agents
+medrysone,Conjunctivitis|Scleritis
+meloxicam,"Arthritis, Rheumatoid|Osteoarthritis"
+menadione,"Arthritis, Rheumatoid|Diarrhea|Headache|Colitis, Ulcerative|Varicose Veins"
+mepacrine,Giardiasis
+mephentermine,Hypotension
+mepivacaine,"Anesthetics, Local"
+mepyramine,Common Cold|Dysmenorrhea
+mestinon,Myasthenia Gravis
+mestranol,Contraceptive Agents
+metergoline,Anxiety|Hyperprolactinemia|Seasonal Affective Disorder
+methazolamide,Intraocular Pressure
+methylnaltrexone,Constipation
+methylprednisolone,"Spondylitis, Ankylosing|Osteoarthritis|Rhinitis, Allergic|Psoriasis|Colitis, Ulcerative|Arthritis, Psoriatic|Anemia|Multiple Sclerosis|Enteritis|Hypercalcemia|Thyroiditis|Dermatitis, Seborrheic|Mycoses|Bursitis"
+metixene,Parkinson Disease
+metolazone,Hypertension|Edema
+mianserin,Depression
+miconazole,Pruritus
+miglitol,Diabetes Mellitus
+miltefosine,Leishmaniasis
+minoxidil,Alopecia
+mirodenafil,Erectile Dysfunction
+mizolastine,"Rhinitis, Allergic|Urticaria"
+moclobemide,Depression|Anxiety
+molindone,Schizophrenia
+molsidomine,Coronary Artery Disease
+mozavaptan,Hyponatremia
+nafamostat,Anticoagulants
+naftifine,Tinea Pedis|Tinea cruris|Tinea
+naftopidil,Prostatic Hyperplasia
+naproxen,Fever|Myalgia|Common Cold
+nateglinide,Diabetes Mellitus
+nebivolol,Hypertension
+nelarabine,Precursor Cell Lymphoblastic Leukemia-Lymphoma
+nemonapride,Schizophrenia
+neostigmine,Myasthenia Gravis
+neratinib,Breast Neoplasms
+netupitant,Nausea|Vomiting
+nevirapine,HIV
+niacin,Hypertriglyceridemia
+nicardipine,"Angina, Stable"
+nicergoline,Migraine Disorders|Raynaud Disease|Thrombosis|Atherosclerosis
+niclosamide,Cestoda
+nicotinamide,Acne Vulgaris
+nicotine,Smoking Cessation
+nilotinib,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive"
+nimesulide,Osteoarthritis|Dysmenorrhea
+nintedanib,Idiopathic Pulmonary Fibrosis
+nizofenone,Stroke
+norethindrone,Endometriosis
+norfloxacin,Urinary Tract Infections|Gonorrhea|Prostatitis
+norgestrel,Contraceptive Agents
+noscapine,Antitussive Agents
+novobiocin,Mastitis
+ofloxacin,Respiratory Tract Infections|Intraabdominal Infections
+olmesartan-medoxomil,Hypertension
+olprinone,Heart Failure
+ornidazole,Protozoan Infections
+orphenadrine,Myalgia
+otilonium,Irritable Bowel Syndrome
+oxaprozin,"Arthritis, Rheumatoid|Osteoarthritis"
+oxatomide,"Rhinitis, Allergic"
+oxfendazole,Cestoda
+oxiconazole,Tinea cruris
+oxybuprocaine,"Anesthetics, Local"
+ozagrel,Stroke
+paclitaxel,"Breast Neoplasms|Carcinoma, Non-Small-Cell Lung|Ovarian Neoplasms"
+pantoprazole,Zollinger-Ellison Syndrome
+papaverine,Angina Pectoris|Pulmonary Embolism|Myocardial Infarction|Colitis
+paricalcitol,"Hyperthyroidism|Renal Insufficiency, Chronic"
+pazopanib,"Carcinoma, Renal Cell|Sarcoma"
+pazufloxacin,Pneumonia|Peritonitis
+penfluridol,Schizophrenia
+penicillin-v-potassium,Otitis|Cholera|Scarlet Fever
+perhexiline,Angina Pectoris
+perindopril,Coronary Artery Disease|Myocardial Infarction
+phensuximide,Seizures
+phentolamine,Pheochromocytoma
+physostigmine,Glaucoma|Hypotension|Alzheimer Disease|Gastroparesis
+picotamide,Thrombosis
+pilocarpine,Hypertension
+pimecrolimus,Eczema
+pimobendan,Heart Failure
+pinacidil,Hypertension
+pinaverium,Irritable Bowel Syndrome
+pindolol,Hypertension
+piperidolate,Spasm
+piracetam,Alzheimer Disease
+pirenoxine,Cataract
+piretanide,Hypertension|Edema
+piribedil,Dizziness
+piroxicam,"Arthritis, Rheumatoid|Osteoarthritis"
+potassium-canrenoate,Edema
+pralatrexate,"Lymphoma, T-Cell, Peripheral"
+pranlukast,Asthma|Bronchial Spasm
+pravastatin,Hyperlipidemias|Myocardial Infarction|Hypercholesterolemia
+prednisone,"Arthritis, Rheumatoid|Spondylitis, Ankylosing|Osteoarthritis|Psoriasis|Colitis, Ulcerative|Conjunctivitis|Meningitis|Arthritis, Psoriatic|Anemia|Multiple Sclerosis|Enteritis|Hypercalcemia|Mycoses|Bursitis|Adrenal Hyperplasia, Congenital|Dermatomyositis"
+pregnenolone,"Arthritis, Rheumatoid"
+primidone,Seizures
+probenecid,Gout
+probucol,Coronary Artery Disease
+procainamide,"Tachycardia, Ventricular"
+procaine,Anesthetics
+progesterone,Amenorrhea|Infertility
+propafenone,"Tachycardia, Ventricular"
+propentofylline,Stroke
+propranolol,Angina Pectoris
+propylthiouracil,Goiter
+protriptyline,Depression
+quercetin,"Fatigue|Rhinitis, Allergic"
+quinapril,Hypertension|Heart Failure|Angioedema
+quinidine,Atrial Fibrillation
+quinine,Malaria
+rabeprazole,Zollinger-Ellison Syndrome
+raltegravir,HIV
+ramatroban,Coronary Artery Disease
+ramelteon,Sleep Initiation and Maintenance Disorders
+ranitidine,Heartburn
+ranolazine,"Angina, Stable"
+reboxetine,Depression
+regadenoson,Myocardial Perfusion Imaging
+regorafenib,Colorectal Neoplasms|Gastrointestinal Stromal Tumors
+resorcinol,"Acne Vulgaris|Psoriasis|Eczema|Dermatitis, Seborrheic"
+retapamulin,Impetigo
+ribavirin,Hepatitis C
+rifabutin,HIV
+rifaximin,Diarrhea|Irritable Bowel Syndrome|Hepatic Encephalopathy
+rilmenidine,Hypertension
+rilpivirine,HIV
+rimexolone,"Uveitis, Anterior"
+ripasudil,Glaucoma|Ocular Hypertension
+ritodrine,"Obstetric Labor, Premature"
+ritonavir,HIV
+rivaroxaban,Venous Thrombosis|Stroke|Pulmonary Embolism|Atrial Fibrillation
+rocuronium,Anesthetics
+roflumilast,"Bronchitis|Pulmonary Disease, Chronic Obstructive"
+rotundine,Hypnotics and Sedatives|Anxiety
+roxithromycin,Urinary Tract Infections|Respiratory Tract Infections
+rupatadine,"Rhinitis, Allergic|Urticaria"
+rutin,"Rhinitis, Allergic|Arthralgia|Constipation"
+ruxolitinib,Primary Myelofibrosis|Polycythemia Vera
+safinamide,Parkinson Disease
+saquinavir,HIV
+sasapyrine,"Arthritis, Rheumatoid|Osteoarthritis"
+saxagliptin,Diabetes Mellitus
+scopolamine,Nausea|Vomiting|Motion Sickness
+secnidazole,Protozoan Infections
+selegiline,Parkinson Disease
+selinexor,Multiple Myeloma
+sertraline,"Depression|Obsessive-Compulsive Disorder|Stress Disorders, Post-Traumatic|Panic Disorder|Phobia, Social|Premenstrual Syndrome"
+setiptiline,Depression
+simeprevir,Hepatitis C
+sirolimus,Lymphangioleiomyomatosis
+sodium-gualenate,Pharyngitis
+spironolactone,Hypertension|Heart Failure|Liver Cirrhosis|Nephrotic Syndrome|Hyperaldosteronism|Hypokalemia
+stavudine,HIV
+sulbactam,Intraabdominal Infections
+sulbutiamine,Asthenia
+sulfafurazole,Urinary Tract Infections
+sulfasalazine,"Colitis, Ulcerative"
+tacrine,Alzheimer Disease
+tafamidis-meglumine,"Amyloid Neuropathies, Familial"
+talinolol,Hypertension
+taltirelin,Spinocerebellar Ataxias
+tamibarotene,"Leukemia, Promyelocytic, Acute"
+tazarotene,Cosmetics
+tazobactam,Pneumonia
+tebipenem,Pneumonia|Otitis
+telmesteine,Antitussive Agents
+telotristat,Diarrhea
+temsirolimus,"Carcinoma, Renal Cell"
+teneligliptin,Diabetes Mellitus
+terbinafine,Tinea cruris
+teriflunomide,Multiple Sclerosis
+tetrabenazine,Cholera|Huntington Disease
+tetracaine,Anesthetics
+thioctic-acid,Diabetic Nephropathies
+thiothixene,Schizophrenia
+tiabendazole,Ancylostomatoidea
+tiagabine,Seizures
+tiapride,Psychotic Disorders|Dyskinesias
+tibolone,Endometriosis
+ticagrelor,Myocardial Infarction|Acute Coronary Syndrome
+ticlopidine,Stroke|Thrombosis
+timolol,Glaucoma|Ocular Hypertension
+tioguanine,"Leukemia, Myeloid, Acute|Precursor Cell Lymphoblastic Leukemia-Lymphoma|Leukemia, Myelogenous, Chronic, BCR-ABL Positive"
+tipiracil,Colorectal Neoplasms
+tipranavir,HIV
+tivozanib,"Carcinoma, Renal Cell"
+tizanidine,Spasm
+tobramycin,Urinary Tract Infections|Respiratory Tract Infections|Meningitis
+tolfenamic-acid,Migraine Disorders
+tolnaftate,Tinea Pedis|Tinea
+tolperisone,"Spondylitis, Ankylosing|Raynaud Disease|Atherosclerosis|Encephalomyelitis"
+tolvaptan,Heart Failure|Liver Cirrhosis|Hyponatremia
+topiroxostat,Gout|Hyperuricemia
+torasemide,Edema
+tranilast,Asthma
+tranylcypromine,Depression
+trapidil,Coronary Artery Disease
+tretinoin,"Leukemia, Promyelocytic, Acute"
+triamterene,Edema|Hypokalemia
+triclabendazole,Cestoda
+trifluoperazine,Schizophrenia
+triflupromazine,Psychotic Disorders|Nausea|Vomiting
+trifluridine,Simplexvirus
+trilostane,Cushing Syndrome
+trimethobenzamide,Nausea|Vomiting|Gastroenteritis
+trimethoprim,Diarrhea|Otitis
+trimipramine,Depression
+triptorelin,Myoma|Gender Dysphoria
+ubenimex,"Leukemia, Myeloid, Acute"
+ulipristal,Contraceptive Agents
+umeclidinium,"Bronchitis|Emphysema|Pulmonary Disease, Chronic Obstructive"
+urea,Psoriasis|Dermatitis|Ichthyosis Vulgaris|Eczema|Keratosis
+ursodiol,Gallstones
+vandetanib,"Thyroid cancer, medullary"
+varenicline,Smoking Cessation
+vernakalant,Atrial Fibrillation
+verteporfin,Macular Degeneration
+vidarabine,"Simplexvirus|Herpesvirus 3, Human"
+vinburnine,Stroke
+vinpocetine,Alzheimer Disease
+vismodegib,"Carcinoma, Basal Cell"
+voglibose,Diabetes Mellitus|Hyperglycemia
+yohimbine,"Arrhythmias, Cardiac|Bradycardia"
+zafirlukast,Asthma
+zalcitabine,HIV
+zidovudine,HIV|Acquired Immunodeficiency Syndrome
+zofenopril-calcium,Hypertension

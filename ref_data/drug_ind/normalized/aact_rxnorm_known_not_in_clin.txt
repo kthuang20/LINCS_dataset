@@ -1,0 +1,5575 @@
+indication,pert_iname
+Angina Pectoris,acebutolol
+Hypertension,acebutolol
+Myocardial Infarction,acebutolol
+Ventricular Fibrillation,acebutolol
+"Tachycardia, Ventricular",acebutolol
+Seizures,acetazolamide
+Bronchial Spasm,aclidinium
+"Pulmonary Disease, Chronic Obstructive",aclidinium
+"Rhinitis, Allergic, Perennial",acrivastine
+Urticaria,acrivastine
+Herpes Zoster Ophthalmicus,acyclovir
+AIDS-Related Opportunistic Infections,acyclovir
+Epstein-Barr Virus Infections,acyclovir
+"Encephalitis, Herpes Simplex",acyclovir
+"Tachycardia, Atrioventricular Nodal Reentry",adenosine
+"Tachycardia, Paroxysmal",adenosine
+Wolff-Parkinson-White Syndrome,adenosine
+Nutritional and Metabolic Diseases,adenosine
+Clonorchiasis,albendazole
+Echinococcosis,albendazole
+Giardiasis,albendazole
+Hymenolepiasis,albendazole
+Necatoriasis,albendazole
+Opisthorchiasis,albendazole
+Enterobiasis,albendazole
+"Carcinoma, Non-Small-Cell Lung",alectinib
+Hypertension,aliskiren
+Breast Neoplasms,alpelisib
+"Breast Neoplasms, Male",alpelisib
+Ovarian Neoplasms,altretamine
+Postoperative Complications,alvimopan
+Dystonia,amantadine
+"Parkinson Disease, Secondary",amantadine
+"Akathisia, Drug-Induced",amantadine
+Obesity,amfepramone
+Ascites,amiloride
+Edema,amiloride
+Heart Failure,amiloride
+Hypokalemia,amiloride
+Polyuria,amiloride
+Cushing Syndrome,aminoglutethimide
+"Neoplasms, Hormone-Dependent",aminoglutethimide
+Pain,amitriptyline
+"Dermatitis, Atopic",amlexanox
+Rhinitis,amlexanox
+Ulcer,amlexanox
+Coronary Artery Disease,amlodipine
+Depressive Disorder,amoxapine
+Psychophysiologic Disorders,amoxapine
+"Cardiac Output, Low",amrinone
+"Cardiomyopathy, Dilated",amrinone
+Heart Failure,amrinone
+"Shock, Cardiogenic",amrinone
+Sleep Wake Disorders,armodafinil
+Prostatic Neoplasms,ARN-509
+"Arthritis, Rheumatoid",aspirin
+Fever,aspirin
+Gout,aspirin
+Pain,aspirin
+Rheumatic Fever,aspirin
+Atrial Fibrillation,atenolol-(+/-)
+Atrial Flutter,atenolol-(+/-)
+Heart Failure,atenolol-(+/-)
+Myocardial Infarction,atenolol-(+/-)
+"Tachycardia, Supraventricular",atenolol-(+/-)
+Ventricular Fibrillation,atenolol-(+/-)
+"Tachycardia, Ventricular",atenolol-(+/-)
+Erectile Dysfunction,avanafil
+Graft vs Host Disease,azathioprine
+Multiple Sclerosis,azathioprine
+"Purpura, Thrombocytopenic, Idiopathic",azathioprine
+"Conjunctivitis, Allergic",azelastine
+"Rhinitis, Vasomotor",azelastine
+Asthma,bambuterol
+Bronchial Spasm,bambuterol
+Bronchitis,bambuterol
+Emphysema,bambuterol
+"Arthritis, Rheumatoid",baricitinib
+Menopause,bazedoxifene
+Diabetic Nephropathies,benazepril
+Heart Failure,benazepril
+"Hypertrophy, Left Ventricular",benazepril
+"Ventricular Dysfunction, Left",benazepril
+Edema,bendroflumethiazide
+Heart Failure,bendroflumethiazide
+Hypertension,bendroflumethiazide
+Nephrotic Syndrome,bendroflumethiazide
+Edema,benzthiazide
+Heart Failure,benzthiazide
+Hypertension,benzthiazide
+Nephrotic Syndrome,benzthiazide
+Actinomycosis,benzylpenicillin
+Anthrax,benzylpenicillin
+Botulism,benzylpenicillin
+Diphtheria,benzylpenicillin
+Empyema,benzylpenicillin
+Erysipelothrix Infections,benzylpenicillin
+Escherichia coli Infections,benzylpenicillin
+Gonorrhea,benzylpenicillin
+Listeriosis,benzylpenicillin
+Meningococcal Infections,benzylpenicillin
+Pasteurella Infections,benzylpenicillin
+Pericarditis,benzylpenicillin
+Pneumococcal Infections,benzylpenicillin
+Rat-Bite Fever,benzylpenicillin
+Respiratory Tract Infections,benzylpenicillin
+Salmonella Infections,benzylpenicillin
+Staphylococcal Infections,benzylpenicillin
+Tetanus,benzylpenicillin
+Urinary Tract Infections,benzylpenicillin
+"Skin Diseases, Bacterial",benzylpenicillin
+Rheumatic Fever,benzylpenicillin
+"Endocarditis, Subacute Bacterial",benzylpenicillin
+Mycoses,bifonazole
+Melanoma,binimetinib
+Parkinson Disease,biperiden
+Drug-Related Side Effects and Adverse Reactions,biperiden
+Angina Pectoris,bisoprolol
+Myocardial Infarction,bisoprolol
+"Tachycardia, Supraventricular",bisoprolol
+Migraine Disorders,BMS-927711
+Migraine with Aura,BMS-927711
+Migraine without Aura,BMS-927711
+Atrial Fibrillation,bopindolol
+Edema,bopindolol
+Hypertension,bopindolol
+"Tachycardia, Ventricular",bopindolol
+"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",bosutinib
+Parkinson Disease,budipine
+Peripheral Arterial Disease,buflomedil
+Ascites,bumetanide
+Edema,bumetanide
+Hypertension,bumetanide
+"Kidney Failure, Chronic",bumetanide
+Liver Cirrhosis,bumetanide
+Nephrotic Syndrome,bumetanide
+Pulmonary Edema,bumetanide
+Acute Kidney Injury,bumetanide
+Pain,bupivacaine
+Intellectual Disability,buspirone
+"Carcinoma, Renal Cell",cabozantinib
+Fatigue,caffeine
+Diabetic Nephropathies,candesartan
+Heart Failure,candesartan
+Hypertension,candesartan
+"Ventricular Dysfunction, Left",candesartan
+"Epilepsy, Tonic-Clonic",carbamazepine
+Psychotic Disorders,carbamazepine
+Restless Legs Syndrome,carbamazepine
+"Stress Disorders, Post-Traumatic",carbamazepine
+Substance Withdrawal Syndrome,carbamazepine
+"Epilepsy, Complex Partial",carbamazepine
+Multiple Myeloma,carfilzomib
+Hyperammonemia,carglumic-acid
+Muscle Cramp,carisoprodol
+Muscle Rigidity,carisoprodol
+Muscle Spasticity,carisoprodol
+Myositis,carisoprodol
+Pain,carisoprodol
+Spasm,carisoprodol
+Osteoarthritis,carprofen
+"Pain, Postoperative",carprofen
+Angina Pectoris,carvedilol
+Myocardial Infarction,carvedilol
+Bronchitis,cefdinir
+Escherichia coli Infections,cefdinir
+Haemophilus Infections,cefdinir
+Klebsiella Infections,cefdinir
+Proteus Infections,cefdinir
+Sinusitis,cefdinir
+Staphylococcal Infections,cefdinir
+Streptococcal Infections,cefdinir
+Tonsillitis,cefdinir
+"Skin Diseases, Bacterial",cefdinir
+"Pneumonia, Bacterial",cefdinir
+Moraxellaceae Infections,cefdinir
+"Bone Diseases, Infectious",cefoperazone
+Escherichia coli Infections,cefoperazone
+"Genital Diseases, Female",cefoperazone
+Haemophilus Infections,cefoperazone
+Klebsiella Infections,cefoperazone
+Proteus Infections,cefoperazone
+Pseudomonas Infections,cefoperazone
+Salmonella Infections,cefoperazone
+Staphylococcal Infections,cefoperazone
+Streptococcal Infections,cefoperazone
+Serratia Infections,cefoperazone
+"Skin Diseases, Bacterial",cefoperazone
+"Pneumonia, Bacterial",cefoperazone
+Soft Tissue Infections,cefoperazone
+Dysmenorrhea,celecoxib
+Breast Neoplasms,chlorambucil
+Choriocarcinoma,chlorambucil
+Ovarian Neoplasms,chlorambucil
+Testicular Neoplasms,chlorambucil
+Thrombocytosis,chlorambucil
+Anxiety Disorders,chlormezanone
+Muscle Spasticity,chlormezanone
+Amebiasis,chloroquine
+"Lupus Erythematosus, Discoid",chloroquine
+"Malaria, Avian",chloroquine
+Pemphigus,chloroquine
+"Scleroderma, Systemic",chloroquine
+Scalp Dermatoses,chloroxine
+"Dermatitis, Seborrheic",chloroxine
+"Rhinitis, Allergic, Perennial",chlorphenamine
+Urticaria,chlorphenamine
+Anxiety Disorders,chlorpromazine
+Child Behavior Disorders,chlorpromazine
+Hiccup,chlorpromazine
+Nausea,chlorpromazine
+Tetanus,chlorpromazine
+Attention Deficit and Disruptive Behavior Disorders,chlorpromazine
+Edema,chlorthalidone
+Glomerulonephritis,chlorthalidone
+Heart Failure,chlorthalidone
+Liver Cirrhosis,chlorthalidone
+Nephrotic Syndrome,chlorthalidone
+Zellweger Syndrome,cholic-acid
+"Graft Occlusion, Vascular",cilostazol
+Duodenal Ulcer,cimetidine
+Dyspepsia,cimetidine
+"Esophagitis, Peptic",cimetidine
+Gastroesophageal Reflux,cimetidine
+Heartburn,cimetidine
+Stomach Ulcer,cimetidine
+Urticaria,cimetidine
+Zollinger-Ellison Syndrome,cimetidine
+Helicobacter Infections,cimetidine
+Escherichia coli Infections,cinoxacin
+Klebsiella Infections,cinoxacin
+Proteus Infections,cinoxacin
+Urinary Tract Infections,cinoxacin
+Bacteroides Infections,ciprofloxacin
+Campylobacter Infections,ciprofloxacin
+Haemophilus Infections,ciprofloxacin
+Klebsiella Infections,ciprofloxacin
+Proteus Infections,ciprofloxacin
+Staphylococcal Infections,ciprofloxacin
+Typhoid Fever,ciprofloxacin
+"Skin Diseases, Bacterial",ciprofloxacin
+Diabetic Neuropathies,citalopram
+Tobacco Use Disorder,citalopram
+Dermatitis,clioquinol
+Folliculitis,clioquinol
+Tinea Pedis,clioquinol
+Acneiform Eruptions,clioquinol
+Lichenoid Eruptions,clioquinol
+Coronary Artery Disease,clofibrate
+Hypercholesterolemia,clofibrate
+Hyperlipoproteinemias,clofibrate
+Hypertriglyceridemia,clofibrate
+Sleep Initiation and Maintenance Disorders,clomethiazole
+Parkinson Disease,clomethiazole
+Psychomotor Agitation,clomethiazole
+Substance Withdrawal Syndrome,clomethiazole
+Depressive Disorder,clomipramine
+Pain,clomipramine
+Panic Disorder,clomipramine
+Bipolar Disorder,clonazepam
+Dysarthria,clonazepam
+"Epilepsies, Myoclonic",clonazepam
+"Epilepsy, Absence",clonazepam
+Restless Legs Syndrome,clonazepam
+Tic Disorders,clonazepam
+Lennox Gastaut Syndrome,clonazepam
+Diarrhea,clonidine
+Dysmenorrhea,clonidine
+Tourette Syndrome,clonidine
+Glaucoma,clonidine
+"Pain, Intractable",clonidine
+Sialorrhea,clonidine
+"Alcohol-Induced Disorders, Nervous System",clonidine
+"Candidiasis, Cutaneous",clotrimazole
+Melanoma,cobimetinib
+Asthma,cromoglicic-acid
+"Asthma, Exercise-Induced",cromoglicic-acid
+Bronchial Spasm,cromoglicic-acid
+Conjunctivitis,cromoglicic-acid
+Food Hypersensitivity,cromoglicic-acid
+"Rhinitis, Allergic, Perennial",cromoglicic-acid
+Inflammatory Bowel Diseases,cromoglicic-acid
+Dizziness,cyclizine
+Motion Sickness,cyclizine
+Nausea,cyclizine
+Vertigo,cyclizine
+Vomiting,cyclizine
+Muscle Rigidity,cyclobenzaprine
+Muscle Spasticity,cyclobenzaprine
+Myositis,cyclobenzaprine
+Pain,cyclobenzaprine
+Tetanus,cyclobenzaprine
+Blepharospasm,cyproheptadine
+Cluster Headache,cyproheptadine
+Nelson Syndrome,cyproheptadine
+Pruritus,cyproheptadine
+"Rhinitis, Allergic, Perennial",cyproheptadine
+Schizophrenia,cyproheptadine
+"Paraparesis, Spastic",cyproheptadine
+Dyskinesias,cyproheptadine
+Meningeal Neoplasms,cytarabine
+Pulmonary Embolism,dabigatran-etexilate
+Venous Thrombosis,dabigatran-etexilate
+Stroke,dabigatran-etexilate
+Fibrosarcoma,dacarbazine
+Rhabdomyosarcoma,dacarbazine
+"Carcinoma, Islet Cell",dacarbazine
+"Carcinoma, Medullary",dacarbazine
+"Carcinoma, Non-Small-Cell Lung",dacomitinib
+"Gait Disorders, Neurologic",dalfampridine
+Cerebral Infarction,dantrolene
+Cerebral Palsy,dantrolene
+Malignant Hyperthermia,dantrolene
+Muscle Spasticity,dantrolene
+Neuroleptic Malignant Syndrome,dantrolene
+Spinal Cord Injuries,dantrolene
+Dermatitis Herpetiformis,dapsone
+"Polychondritis, Relapsing",dapsone
+Toxoplasmosis,dapsone
+"Leprosy, Lepromatous",dapsone
+AIDS-Related Opportunistic Infections,dapsone
+"Urinary Incontinence, Urge",darifenacin
+"Hepatitis C, Chronic",dasabuvir
+Obesity,dexfenfluramine
+Alcohol Withdrawal Delirium,diazepam
+Muscle Spasticity,diazepam
+Panic Disorder,diazepam
+"Hypertension, Malignant",diazoxide
+"Arthritis, Juvenile",diclofenac
+Photophobia,diclofenac
+Cellulitis,dicloxacillin
+Postoperative Complications,dicloxacillin
+Staphylococcal Skin Infections,dicloxacillin
+Urinary Tract Infections,dicloxacillin
+Wound Infection,dicloxacillin
+"Pneumonia, Bacterial",dicloxacillin
+Soft Tissue Infections,dicloxacillin
+Pulmonary Embolism,dicoumarol
+Thromboembolism,dicoumarol
+Venous Thrombosis,dicoumarol
+Parasitic Diseases,diethylcarbamazine
+Pulmonary Eosinophilia,diethylcarbamazine
+"Abortion, Spontaneous",diethylstilbestrol
+Breast Neoplasms,diethylstilbestrol
+Carcinoma,diethylstilbestrol
+"Arthritis, Rheumatoid",diflunisal
+Osteoarthritis,diflunisal
+Pain,diflunisal
+Postpartum Hemorrhage,dihydroergocristine
+Cluster Headache,dihydroergotamine
+Postpartum Hemorrhage,dihydroergotamine
+"Hypotension, Orthostatic",dihydroergotamine
+Xerostomia,dihydroergotamine
+Motion Sickness,diphenidol
+Nausea,diphenidol
+Vertigo,diphenidol
+Vomiting,diphenidol
+Coronary Thrombosis,dipyridamole
+"Graft Occlusion, Vascular",dipyridamole
+Atrial Fibrillation,disopyramide
+Atrial Flutter,disopyramide
+"Tachycardia, Ventricular",disopyramide
+Ventricular Premature Complexes,disopyramide
+Atrial Premature Complexes,disopyramide
+Bradycardia,dopamine
+"Cardiac Output, Low",dopamine
+Heart Block,dopamine
+Kidney Diseases,dopamine
+Depressive Disorder,dosulepin
+Hypercapnia,doxapram
+Respiratory Hypersensitivity,doxapram
+Substance-Related Disorders,doxapram
+Urinary Retention,doxazosin
+Depressive Disorder,doxepin
+"Dermatitis, Atopic",doxepin
+Pain,doxepin
+Pruritus,doxepin
+Testicular Neoplasms,doxorubicin
+Pain,droperidol
+"Candidiasis, Cutaneous",econazole
+Tinea Versicolor,econazole
+Hypertrichosis,eflornithine
+"Conjunctivitis, Allergic",emedastine
+Cardiovascular Diseases,empagliflozin
+Bartter Syndrome,enalapril
+Edema,enalapril
+"Hypertension, Malignant",enalapril
+"Hypertrophy, Left Ventricular",enalapril
+Escherichia coli Infections,enoxacin
+Gonorrhea,enoxacin
+Haemophilus Infections,enoxacin
+Klebsiella Infections,enoxacin
+Proteus Infections,enoxacin
+Pseudomonas Infections,enoxacin
+Staphylococcal Infections,enoxacin
+Urinary Tract Infections,enoxacin
+Prostatic Neoplasms,enzalutamide
+Airway Obstruction,epinephrine
+Bradycardia,epinephrine
+"Glaucoma, Open-Angle",epinephrine
+Heart Block,epinephrine
+"Heart Failure, Systolic",eplerenone
+Acne Vulgaris,erythromycin
+Campylobacter Infections,erythromycin
+Chancroid,erythromycin
+Erythrasma,erythromycin
+Gastroenteritis,erythromycin
+Gonorrhea,erythromycin
+Legionnaires' Disease,erythromycin
+Mycoplasma Infections,erythromycin
+Staphylococcal Infections,erythromycin
+Streptococcal Infections,erythromycin
+Syphilis,erythromycin
+Urethritis,erythromycin
+Whooping Cough,erythromycin
+"Eye Infections, Bacterial",erythromycin
+"Depressive Disorder, Major",escitalopram
+Angina Pectoris,esmolol
+Heart Failure,esmolol
+"Tachycardia, Supraventricular",esmolol
+Ventricular Fibrillation,esmolol
+"Tachycardia, Ventricular",esmolol
+Zollinger-Ellison Syndrome,omeprazole
+Prostatic Neoplasms,estramustine-phosphate
+Ascites,etacrynic-acid
+Edema,etacrynic-acid
+Heart Failure,etacrynic-acid
+Hypertension,etacrynic-acid
+"Kidney Failure, Chronic",etacrynic-acid
+Liver Cirrhosis,etacrynic-acid
+Nephrotic Syndrome,etacrynic-acid
+Pulmonary Edema,etacrynic-acid
+Acute Kidney Injury,etacrynic-acid
+Hypercalcemia,ethylenediaminetetraacetic-acid
+Lead Poisoning,ethylenediaminetetraacetic-acid
+"Tachycardia, Ventricular",ethylenediaminetetraacetic-acid
+Manganese Poisoning,ethylenediaminetetraacetic-acid
+Drug-Related Side Effects and Adverse Reactions,ethylenediaminetetraacetic-acid
+Ventricular Fibrillation,ethylenediaminetetraacetic-acid
+"Arthritis, Rheumatoid",etodolac
+Osteoarthritis,etodolac
+Pain,etodolac
+Uterine Neoplasms,etoposide
+Histiocytosis,etoposide
+Toothache,eugenol
+AIDS-Related Opportunistic Infections,famciclovir
+Duodenal Ulcer,famotidine
+Dyspepsia,famotidine
+Stomach Ulcer,famotidine
+Urticaria,famotidine
+Zollinger-Ellison Syndrome,famotidine
+Helicobacter Infections,famotidine
+Seizures,felbamate
+"Epilepsy, Complex Partial",felbamate
+Lennox Gastaut Syndrome,felbamate
+"Angina Pectoris, Variant",felodipine
+Hypertension,felodipine
+Heart Failure,fenoldopam
+"Hypertension, Malignant",fenoldopam
+"Hypertension, Renovascular",fenoldopam
+Urinary Incontinence,flavoxate
+Nocturia,flavoxate
+Dysuria,flavoxate
+"Tachycardia, Ventricular",flecainide
+"Candidiasis, Chronic Mucocutaneous",fluconazole
+Pneumonia,fluconazole
+Urinary Tract Infections,fluconazole
+Drug Overdose,flumazenil
+Drug-Related Side Effects and Adverse Reactions,flumazenil
+Bulimia,fluoxetine
+Panic Disorder,fluoxetine
+Psychotic Disorders,fluphenazine
+Hirsutism,flutamide
+Asthma,fluticasone-propionate
+Nasal Polyps,fluticasone-propionate
+"Rhinitis, Allergic, Perennial",fluticasone-propionate
+Dermatomycoses,flutrimazole
+Panic Disorder,fluvoxamine
+"Anemia, Megaloblastic",folic-acid
+Acidosis,fomepizole
+Vision Disorders,fomepizole
+Renal Insufficiency,fomepizole
+Drug-Related Side Effects and Adverse Reactions,fomepizole
+Pulmonary Edema,furosemide
+Phobic Disorders,gabapentin
+"Arrhythmias, Cardiac",gallopamil
+AIDS-Related Opportunistic Infections,ganciclovir
+Bronchitis,gatifloxacin
+Cystitis,gatifloxacin
+Escherichia coli Infections,gatifloxacin
+Gonorrhea,gatifloxacin
+Haemophilus Infections,gatifloxacin
+Klebsiella Infections,gatifloxacin
+Proteus Infections,gatifloxacin
+Pyelonephritis,gatifloxacin
+Salmonella Infections,gatifloxacin
+Sinusitis,gatifloxacin
+Staphylococcal Infections,gatifloxacin
+Streptococcal Infections,gatifloxacin
+Urinary Tract Infections,gatifloxacin
+"Pneumonia, Bacterial",gatifloxacin
+Hypercholesterolemia,gemfibrozil
+Hyperlipoproteinemias,gemfibrozil
+Hypertriglyceridemia,gemfibrozil
+Bronchitis,gemifloxacin
+"Pneumonia, Pneumococcal",gemifloxacin
+Urinary Tract Infections,gemifloxacin
+Gram-Negative Bacterial Infections,gemifloxacin
+Community-Acquired Infections,gemifloxacin
+"Leukemia, Myeloid, Acute",glasdegib
+"Abnormalities, Drug-Induced",glycopyrrolate
+Peptic Ulcer,glycopyrrolate
+Respiratory Tract Diseases,glycopyrrolate
+Hypertension,guanadrel
+Hypertension,guanethidine
+"Malaria, Falciparum",halofantrine
+"Malaria, Vivax",halofantrine
+Child Behavior Disorders,haloperidol
+Tourette Syndrome,haloperidol
+Substance Withdrawal Syndrome,haloperidol
+Acne Vulgaris,hexachlorophene
+Staphylococcal Skin Infections,hexachlorophene
+Urticaria,histamine
+Edema,hydroflumethiazide
+Glomerulonephritis,hydroflumethiazide
+Heart Failure,hydroflumethiazide
+Hypertension,hydroflumethiazide
+Liver Cirrhosis,hydroflumethiazide
+Nephrotic Syndrome,hydroflumethiazide
+Renal Insufficiency,hydroflumethiazide
+"Carcinoma, Renal Cell",hydroxyurea
+Leukocytosis,hydroxyurea
+Melanoma,hydroxyurea
+Ovarian Neoplasms,hydroxyurea
+Prostatic Neoplasms,hydroxyurea
+Psoriasis,hydroxyurea
+Uterine Neoplasms,hydroxyurea
+Hypereosinophilic Syndrome,hydroxyurea
+Waldenstrom Macroglobulinemia,ibrutinib
+"Leukemia, Lymphocytic, Chronic, B-Cell",ibrutinib
+"Lymphoma, B-Cell",ibrutinib
+"Lymphoma, Mantle-Cell",ibrutinib
+"Arthritis, Juvenile",ibuprofen
+"Arthritis, Rheumatoid",ibuprofen
+Bursitis,ibuprofen
+Gout,ibuprofen
+Menorrhagia,ibuprofen
+Pain,ibuprofen
+Premenstrual Syndrome,ibuprofen
+"Spondylitis, Ankylosing",ibuprofen
+Atrial Fibrillation,ibutilide
+Atrial Flutter,ibutilide
+Stomach Neoplasms,ifosfamide
+Gastrointestinal Neoplasms,imatinib
+Attention Deficit Disorder with Hyperactivity,imipramine
+Pain,imipramine
+Panic Disorder,imipramine
+Pulmonary Emphysema,indacaterol
+"Bronchitis, Chronic",indacaterol
+Edema,indapamide
+Heart Failure,indapamide
+Nephrotic Syndrome,indapamide
+"Arthritis, Rheumatoid",indometacin
+Bursitis,indometacin
+Osteoarthritis,indometacin
+Pain,indometacin
+Tendinopathy,indometacin
+"Keratosis, Actinic",ingenol-mebutate
+"Leukemia, Lymphocytic, Chronic, B-Cell",IPI-145
+"Ventricular Dysfunction, Left",irbesartan
+Foot Dermatoses,isoconazole
+Mycoses,isoconazole
+Vaginitis,isoconazole
+Cyanosis,isosorbide-mononitrate
+Gastroesophageal Reflux,isosorbide-mononitrate
+Poisoning,isosorbide-mononitrate
+"Esophageal Spasm, Diffuse",isosorbide-mononitrate
+"Angina Pectoris, Variant",isradipine
+"Candidiasis, Chronic Mucocutaneous",itraconazole
+"Candidiasis, Oral",itraconazole
+"Candidiasis, Vulvovaginal",itraconazole
+Cryptococcosis,itraconazole
+Leishmaniasis,itraconazole
+Paracoccidioidomycosis,itraconazole
+AIDS-Related Opportunistic Infections,itraconazole
+Zygomycosis,itraconazole
+Breast Neoplasms,ixabepilone
+"Arthritis, Rheumatoid",ketoprofen
+Dysmenorrhea,ketoprofen
+Photophobia,ketorolac
+Angina Pectoris,labetalol
+Heart Failure,labetalol
+"Hypertension, Malignant",labetalol
+Myocardial Infarction,labetalol
+"Epilepsy, Tonic-Clonic",lacosamide
+Lennox Gastaut Syndrome,lacosamide
+Lennox Gastaut Syndrome,lamotrigine
+Bronchial Spasm,levalbuterol
+"Myoclonic Epilepsy, Juvenile",levetiracetam
+"Glaucoma, Open-Angle",levobunolol
+Chlamydia Infections,levofloxacin
+Haemophilus Infections,levofloxacin
+Klebsiella Infections,levofloxacin
+Legionnaires' Disease,levofloxacin
+Mycoplasma Infections,levofloxacin
+Proteus Infections,levofloxacin
+Pseudomonas Infections,levofloxacin
+Salmonella Infections,levofloxacin
+Staphylococcal Infections,levofloxacin
+Streptococcal Infections,levofloxacin
+"Eye Infections, Bacterial",levofloxacin
+Soft Tissue Infections,levofloxacin
+"Rhinitis, Allergic, Seasonal",levomequitazine
+Urticaria,levomequitazine
+"Rhinitis, Allergic",levomequitazine
+Pregnancy,levonorgestrel
+Goiter,levothyroxine
+Hypothyroidism,levothyroxine
+Myxedema,levothyroxine
+Thyroid Neoplasms,levothyroxine
+"Thyroiditis, Autoimmune",levothyroxine
+Thyrotoxicosis,levothyroxine
+Esophageal Diseases,lidocaine
+"Tachycardia, Paroxysmal",lidocaine
+"Tachycardia, Ventricular",lidocaine
+Ventricular Premature Complexes,lidocaine
+Drug-Related Side Effects and Adverse Reactions,lidocaine
+Myocardial Infarction,lidocaine
+Ventricular Dysfunction,lidocaine
+Myocardial Infarction,lisinopril
+"Ventricular Dysfunction, Left",lisinopril
+Keratoconjunctivitis,lodoxamide
+Hypercholesterolemia,lomitapide
+"Colonic Diseases, Functional",loperamide
+"Dysentery, Bacillary",loperamide
+"Epilepsies, Partial",lorazepam
+Sleep Initiation and Maintenance Disorders,lorazepam
+Obesity,lorcaserin
+"Ventricular Dysfunction, Left",losartan
+Cystic Fibrosis,lumacaftor
+Poisoning,mannitol-D
+Bipolar Disorder,maprotiline
+Bulimia,maprotiline
+Duodenal Ulcer,maprotiline
+Enuresis,maprotiline
+Pain,maprotiline
+Panic Disorder,maprotiline
+Dysthymic Disorder,maprotiline
+Cocaine-Related Disorders,maprotiline
+Obesity,mazindol
+"Muscular Dystrophy, Duchenne",mazindol
+Ascariasis,mebendazole
+Trichuriasis,mebendazole
+Enterobiasis,mebendazole
+Tourette Syndrome,mecamylamine
+"Hypertension, Malignant",mecamylamine
+Motion Sickness,meclizine
+"Malaria, Vivax",mefloquine
+Seasonal Affective Disorder,melatonin
+Hypoprothrombinemias,menadione
+Giardiasis,mepacrine
+Pneumothorax,mepacrine
+"Malaria, Falciparum",mepacrine
+Pain,mepivacaine
+"Conjunctivitis, Allergic",mepyramine
+"Rhinitis, Allergic, Seasonal",mepyramine
+Pruritus,mepyramine
+"Rhinitis, Allergic, Perennial",mepyramine
+"Leukemia, Lymphocytic, Chronic, B-Cell",mercaptopurine
+"Abnormalities, Drug-Induced",mestinon
+Myasthenia Gravis,mestinon
+"Glaucoma, Open-Angle",methazolamide
+"Glaucoma, Angle-Closure",methazolamide
+Goiter,methimazole
+Thyroid Crisis,methimazole
+Muscle Rigidity,methocarbamol
+Myositis,methocarbamol
+Pain,methocarbamol
+Tetanus,methocarbamol
+Vitiligo,methoxsalen
+Edema,metolazone
+Hypertension,metolazone
+Nephrotic Syndrome,metolazone
+"Tachycardia, Supraventricular",metoprolol
+Amebiasis,metronidazole
+Bacteroides Infections,metronidazole
+"Endocarditis, Bacterial",metronidazole
+"Meningitis, Bacterial",metronidazole
+Depression,mianserin
+Angina Pectoris,mibefradil
+Hypertension,mibefradil
+"Candidiasis, Cutaneous",miconazole
+Tinea Versicolor,miconazole
+Urinary Incontinence,midodrine
+Hematologic Neoplasms,midostaurin
+Drug-Related Side Effects and Adverse Reactions,milrinone
+Pain,mitoxantrone
+Psychotic Disorders,molindone
+Schizophrenia,molindone
+Ventricular Fibrillation,moracizine
+"Tachycardia, Ventricular",moracizine
+Bacteroides Infections,moxifloxacin
+Cystitis,moxifloxacin
+Escherichia coli Infections,moxifloxacin
+Haemophilus Infections,moxifloxacin
+Klebsiella Infections,moxifloxacin
+Proteus Infections,moxifloxacin
+Pseudomonas Infections,moxifloxacin
+Pyelonephritis,moxifloxacin
+Salmonella Infections,moxifloxacin
+Staphylococcal Infections,moxifloxacin
+Streptococcal Infections,moxifloxacin
+Urinary Tract Infections,moxifloxacin
+Graft vs Host Disease,mycophenolate-mofetil
+Psoriasis,mycophenolate-mofetil
+Anemia,nandrolone
+Breast Neoplasms,nandrolone
+Rhinitis,naphazoline
+Sinusitis,naphazoline
+Bursitis,naproxen
+Common Cold,naproxen
+Fever,naproxen
+Pain,naproxen
+Depressive Disorder,nefazodone
+"Stress Disorders, Post-Traumatic",nefazodone
+Cholecystitis,nefopam
+"Leukemia, T-Cell",nelarabine
+"Abnormalities, Drug-Induced",neostigmine
+Urinary Bladder Diseases,neostigmine
+Myasthenia Gravis,neostigmine
+Urinary Retention,neostigmine
+Eye Pain,nepafenac
+Breast Neoplasms,neratinib
+Nausea,netupitant
+Vomiting,netupitant
+Pellagra,niacin
+Hypertriglyceridemia,niacin
+"Angina Pectoris, Variant",nicardipine
+"Angina, Stable",nicardipine
+Helminthiasis,niclosamide
+Pellagra,nicotinamide
+Hypertriglyceridemia,nicotinamide
+Peripheral Vascular Diseases,nicotinamide
+"Colitis, Ulcerative",nicotine
+Substance Withdrawal Syndrome,nicotine
+"Leukemia, Myeloid, Accelerated Phase",nilotinib
+"Leukemia, Myeloid, Chronic-Phase",nilotinib
+"Conjunctivitis, Bacterial",norfloxacin
+Escherichia coli Infections,norfloxacin
+Gonorrhea,norfloxacin
+Haemophilus Infections,norfloxacin
+Prostatitis,norfloxacin
+Pseudomonas Infections,norfloxacin
+Staphylococcal Infections,norfloxacin
+Urinary Tract Infections,norfloxacin
+Attention Deficit Disorder with Hyperactivity,nortriptyline
+Enuresis,nortriptyline
+Pain,nortriptyline
+Chlamydia Infections,ofloxacin
+Corneal Ulcer,ofloxacin
+Cystitis,ofloxacin
+Epididymitis,ofloxacin
+Gonorrhea,ofloxacin
+Haemophilus Infections,ofloxacin
+Klebsiella Infections,ofloxacin
+Otitis Externa,ofloxacin
+"Otitis Media, Suppurative",ofloxacin
+Proteus Infections,ofloxacin
+Salmonella Infections,ofloxacin
+Staphylococcal Infections,ofloxacin
+Soft Tissue Infections,ofloxacin
+Amebiasis,ornidazole
+Protozoan Infections,ornidazole
+Trichomonas Infections,ornidazole
+Muscle Rigidity,orphenadrine
+Myositis,orphenadrine
+Pain,orphenadrine
+Tetanus,orphenadrine
+Emaciation,oxandrolone
+Growth Disorders,oxandrolone
+"Arthritis, Juvenile",oxaprozin
+"Arthritis, Rheumatoid",oxaprozin
+Osteoarthritis,oxaprozin
+"Candidiasis, Cutaneous",oxiconazole
+Tinea Versicolor,oxiconazole
+Photosensitivity Disorders,oxybenzone
+Sunburn,oxybenzone
+Pain,oxybuprocaine
+Dysuria,oxybutynin
+Sinusitis,oxymetazoline
+Extensively Drug-Resistant Tuberculosis,PA-824
+Heartburn,pantoprazole
+Zollinger-Ellison Syndrome,pantoprazole
+Angina Pectoris,papaverine
+"Arrhythmias, Cardiac",papaverine
+Arterial Occlusive Diseases,papaverine
+Brain Ischemia,papaverine
+Colic,papaverine
+Pulmonary Embolism,papaverine
+Raynaud Disease,papaverine
+Thromboembolism,papaverine
+Pain,paracetamol
+Hyperparathyroidism,paricalcitol
+Feeding and Eating Disorders,paroxetine
+"Carcinoma, Renal Cell",pazopanib
+Soft Tissue Neoplasms,pazopanib
+"Conjunctivitis, Allergic",pemirolast
+Epstein-Barr Virus Infections,penciclovir
+Psychotic Disorders,penfluridol
+Schizophrenia Spectrum and Other Psychotic Disorders,penfluridol
+Bacterial Infections,penicillin-v-potassium
+Diphtheria,penicillin-v-potassium
+"Meningitis, Meningococcal",penicillin-v-potassium
+Pasteurella Infections,penicillin-v-potassium
+Pneumococcal Infections,penicillin-v-potassium
+Gram-Positive Bacterial Infections,penicillin-v-potassium
+Actinomycosis,penicillin-v-potassium
+Anthrax,penicillin-v-potassium
+Botulism,penicillin-v-potassium
+Escherichia coli Infections,penicillin-v-potassium
+Gonorrhea,penicillin-v-potassium
+Meningococcal Infections,penicillin-v-potassium
+Otitis Media,penicillin-v-potassium
+Rheumatic Fever,penicillin-v-potassium
+Salmonella Infections,penicillin-v-potassium
+Sinusitis,penicillin-v-potassium
+Spirochaetales Infections,penicillin-v-potassium
+Staphylococcal Infections,penicillin-v-potassium
+Tetanus,penicillin-v-potassium
+Urinary Tract Infections,penicillin-v-potassium
+"Skin Diseases, Bacterial",penicillin-v-potassium
+Sepsis,penicillin-v-potassium
+Brain Ischemia,pentoxifylline
+Diabetic Angiopathies,pentoxifylline
+Diabetic Neuropathies,pentoxifylline
+Gangrene,pentoxifylline
+Thrombosis,pentoxifylline
+Vasculitis,pentoxifylline
+"Malaria, Cerebral",pentoxifylline
+"Impotence, Vasculogenic",pentoxifylline
+Stroke,pentoxifylline
+"Epilepsies, Partial",perampanel
+"Epilepsy, Tonic-Clonic",perampanel
+Seizures,perampanel
+Diabetic Nephropathies,perindopril
+Myocardial Infarction,perindopril
+"Hypertrophy, Left Ventricular",perindopril
+"Ventricular Dysfunction, Left",perindopril
+Pain,phenazone
+"Epilepsy, Absence",phensuximide
+Extravasation of Diagnostic and Therapeutic Materials,phentolamine
+"Hypertension, Malignant",phentolamine
+Necrosis,phentolamine
+"Arthritis, Gouty",phenylbutazone
+Fissure in Ano,phenylephrine
+"Glaucoma, Open-Angle",phenylephrine
+Pruritus Ani,phenylephrine
+"Tachycardia, Supraventricular",phenylephrine
+"Epilepsy, Tonic-Clonic",phenytoin
+"Epilepsy, Temporal Lobe",phenytoin
+"Abnormalities, Drug-Induced",physostigmine
+Glaucoma,physostigmine
+Drug-Related Side Effects and Adverse Reactions,physostigmine
+Diabetes Mellitus,picolinic-acid
+Nutritional and Metabolic Diseases,picolinic-acid
+"Glaucoma, Angle-Closure",pilocarpine
+Mydriasis,pilocarpine
+Huntington Disease,pimozide
+Hypertension,pinacidil
+Angina Pectoris,pindolol
+Hypertension,pindolol
+Myocardial Infarction,pindolol
+Duodenal Ulcer,pirenzepine
+Motion Sickness,pirenzepine
+Nausea,pirenzepine
+Peptic Ulcer,pirenzepine
+Stomach Ulcer,pirenzepine
+Vomiting,pirenzepine
+Hypertriglyceridemia,pitavastatin
+"Lymphoma, T-Cell, Peripheral",pralatrexate
+Clonorchiasis,praziquantel
+"Intestinal Diseases, Parasitic",praziquantel
+Opisthorchiasis,praziquantel
+Prostatic Hyperplasia,prazosin
+Raynaud Disease,prazosin
+Urinary Retention,prazosin
+"Epilepsies, Partial",primidone
+"Epilepsy, Tonic-Clonic",primidone
+Tremor,primidone
+Gonorrhea,probenecid
+Gout,probenecid
+Neurosyphilis,probenecid
+Coronary Artery Disease,probucol
+Hypercholesterolemia,probucol
+Atrial Flutter,procainamide
+"Tachycardia, Supraventricular",procainamide
+"Tachycardia, Ventricular",procainamide
+Ventricular Premature Complexes,procainamide
+Pain,procaine
+Substance Withdrawal Syndrome,procaine
+Anxiety Disorders,prochlorperazine
+Dementia,prochlorperazine
+Psychotic Disorders,prochlorperazine
+Schizophrenia,prochlorperazine
+"Tachycardia, Supraventricular",propafenone
+Angina Pectoris,propranolol
+Heart Failure,propranolol
+Myocardial Infarction,propranolol
+Pheochromocytoma,propranolol
+Ventricular Fibrillation,propranolol
+"Tachycardia, Ventricular",propranolol
+Essential Tremor,propranolol
+Goiter,propylthiouracil
+Thyroid Crisis,propylthiouracil
+Depressive Disorder,protriptyline
+AIDS-Related Opportunistic Infections,pyrimethamine
+Diarrhea,quercetin
+Fatigue,quercetin
+Food Hypersensitivity,quercetin
+Headache,quercetin
+Autistic Disorder,quetiapine
+Diabetic Nephropathies,quinapril
+Heart Failure,quinapril
+Hypertension,quinapril
+"Hypertrophy, Left Ventricular",quinapril
+"Ventricular Dysfunction, Left",quinapril
+Atrial Fibrillation,quinidine
+Atrial Flutter,quinidine
+"Tachycardia, Supraventricular",quinidine
+"Malaria, Falciparum",quinidine
+"Tachycardia, Ventricular",quinidine
+Zollinger-Ellison Syndrome,rabeprazole
+Helicobacter Infections,rabeprazole
+Sleep Initiation and Maintenance Disorders,ramelteon
+"Carcinoma, Hepatocellular",regorafenib
+Colorectal Neoplasms,regorafenib
+Gastrointestinal Stromal Tumors,regorafenib
+Schizophrenia,reserpine
+Dyskinesias,reserpine
+Acne Vulgaris,resorcinol
+Rosacea,resorcinol
+Herpes Labialis,resveratrol
+"Influenza, Human",rimantadine
+Inflammation,rimexolone
+"Uveitis, Anterior",rimexolone
+"Pulmonary Disease, Chronic Obstructive",roflumilast
+Polycythemia Vera,ruxolitinib
+Primary Myelofibrosis,ruxolitinib
+Parkinson Disease,safinamide
+Arthritis,sasapyrine
+Fever,sasapyrine
+Pain,sasapyrine
+Multiple Myeloma,selinexor
+Neurofibromatosis 1,selumetinib
+"Impotence, Vasculogenic",sildenafil
+Ventricular Fibrillation,sotalol
+Pain,sufentanil
+Chlamydia Infections,sulfafurazole
+Nocardia Infections,sulfafurazole
+Otitis Media,sulfafurazole
+Urinary Tract Infections,sulfafurazole
+Respiratory Tract Fistula,sulfafurazole
+Corneal Ulcer,sulfafurazole
+Trachoma,sulfafurazole
+Miosis,suprofen
+Alzheimer Disease,tacrine
+"Impotence, Vasculogenic",tadalafil
+Pancreatic Neoplasms,tamoxifen
+"Puberty, Precocious",tamoxifen
+Staphylococcal Infections,tedizolid
+Streptococcal Infections,tedizolid
+"Ventricular Dysfunction, Left",telmisartan
+Diarrhea,telotristat
+Malignant Carcinoid Syndrome,telotristat
+Depressive Disorder,temazepam
+Sleep Initiation and Maintenance Disorders,temazepam
+Panic Disorder,temazepam
+"Candidiasis, Chronic Mucocutaneous",terbinafine
+Tinea Versicolor,terbinafine
+Pain,tetracaine
+Primary Myelofibrosis,TG-101348
+Behcet Syndrome,thalidomide
+Erythema Multiforme,thalidomide
+Erythema Nodosum,thalidomide
+Leprosy,thalidomide
+Anxiety Disorders,theobromine
+Bradycardia,theophylline
+Bronchial Spasm,theophylline
+Bronchitis,theophylline
+Pulmonary Emphysema,theophylline
+Psoriasis,thioguanine
+"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",thioguanine
+"Leukemia, Neutrophilic, Chronic",thioguanine
+Psychotic Disorders,thioridazine
+Dracunculiasis,tiabendazole
+Larva Migrans,tiabendazole
+Strongyloidiasis,tiabendazole
+Trichinellosis,tiabendazole
+Bipolar Disorder,tiagabine
+"Epilepsies, Partial",tiagabine
+Intracranial Embolism and Thrombosis,ticlopidine
+Ischemia,ticlopidine
+Thromboembolism,ticlopidine
+Venous Thrombosis,ticlopidine
+Stroke,ticlopidine
+"Candidiasis, Vulvovaginal",tioconazole
+Colorectal Neoplasms,tipiracil
+Thromboembolism,tirofiban
+Reperfusion Injury,tirofiban
+"Carcinoma, Renal Cell",tivozanib
+Muscle Cramp,tizanidine
+Muscle Rigidity,tizanidine
+Myositis,tizanidine
+Spasm,tizanidine
+Trigeminal Neuralgia,tizanidine
+Parkinson Disease,tolcapone
+Tinea Pedis,tolnaftate
+Tinea Versicolor,tolnaftate
+Pain,topiramate
+"Spasms, Infantile",topiramate
+Ascites,torasemide
+Edema,torasemide
+"Kidney Failure, Chronic",torasemide
+Liver Cirrhosis,torasemide
+Nephrotic Syndrome,torasemide
+Pulmonary Edema,torasemide
+Acute Kidney Injury,torasemide
+"Angina, Stable",trapidil
+Edema,triamterene
+Hypokalemia,triamterene
+Fascioliasis,triclabendazole
+Bacterial Infections and Mycoses,triclosan
+"Heavy Metal Poisoning, Nervous System",trientine
+Anxiety Disorders,trifluoperazine
+Schizophrenia,trifluoperazine
+Hiccup,triflupromazine
+Nausea,triflupromazine
+Pain,triflupromazine
+Psychotic Disorders,triflupromazine
+Vomiting,triflupromazine
+Nausea,trimethobenzamide
+Vomiting,trimethobenzamide
+Bronchitis,trimethoprim
+Escherichia coli Infections,trimethoprim
+Klebsiella Infections,trimethoprim
+Proteus Infections,trimethoprim
+"Eye Infections, Bacterial",trimethoprim
+AIDS-Related Opportunistic Infections,trimethoprim
+Depressive Disorder,trimipramine
+Pulmonary Emphysema,umeclidinium
+"Bronchitis, Chronic",umeclidinium
+Ocular Hypertension,urea
+"Hyperkeratosis, Epidermolytic",urea
+Intracranial Hypertension,urea
+"Arthritis, Rheumatoid",valdecoxib
+Dysmenorrhea,valdecoxib
+"Epilepsy, Complex Partial",valproic-acid
+Thyroid Neoplasms,vandetanib
+"Impotence, Vasculogenic",vardenafil
+Attention Deficit Disorder with Hyperactivity,venlafaxine
+Autistic Disorder,venlafaxine
+Pain,venlafaxine
+"Fatigue Syndrome, Chronic",venlafaxine
+"Angina Pectoris, Variant",verapamil
+Atrial Flutter,verapamil
+Myocardial Infarction,verapamil
+"Tachycardia, Supraventricular",verapamil
+Chickenpox,vidarabine
+Herpes Zoster,vidarabine
+"Keratoconjunctivitis, Infectious",vidarabine
+"Keratitis, Herpetic",vidarabine
+Skin Neoplasms,vismodegib
+Fusariosis,voriconazole
+Coronary Thrombosis,warfarin
+Postoperative Complications,warfarin
+Erectile Dysfunction,yohimbine
+Miosis,yohimbine
+Asthma,zafirlukast
+Tourette Syndrome,ziprasidone
+Hypertension,zofenopril-calcium
+Rosacea,5-aminolevulinic-acid
+Hutchinson's Melanotic Freckle,5-aminolevulinic-acid
+Lentigo,5-aminolevulinic-acid
+Foot Diseases,fluorouracil
+Bowen's Disease,fluorouracil
+"Neoplasms, Basal Cell",fluorouracil
+Keloid,fluorouracil
+Pterygium,fluorouracil
+Cicatrix,fluorouracil
+Hypopigmentation,fluorouracil
+Photosensitivity Disorders,fluorouracil
+"Glaucoma, Open-Angle",fluorouracil
+Heart Failure,acebutolol
+Heart Diseases,acebutolol
+"Heart Failure, Diastolic",acebutolol
+Hemostatic Disorders,acenocoumarol
+Blood Coagulation Disorders,acenocoumarol
+"Aneurysm, Dissecting",acenocoumarol
+Stroke,acenocoumarol
+Pulmonary Edema,acetazolamide
+"Vasospasm, Intracranial",acetazolamide
+Respiratory Insufficiency,acetazolamide
+Hyperalgesia,acetazolamide
+Opioid-Related Disorders,acetazolamide
+Aneurysm,acetazolamide
+"Aortic Aneurysm, Thoracic",acetazolamide
+Drug-Related Side Effects and Adverse Reactions,acetazolamide
+Fatigue,acetazolamide
+Nephrotic Syndrome,acetazolamide
+Nephrosis,acetazolamide
+Respiration Disorders,acetazolamide
+Respiratory Tract Diseases,acetazolamide
+Meningitis,acyclovir
+"Meningitis, Viral",acyclovir
+Keratitis,acyclovir
+Recurrence,acyclovir
+"Pneumonia, Viral",acyclovir
+Warts,acyclovir
+Foot Diseases,acyclovir
+"Multiple Sclerosis, Relapsing-Remitting",acyclovir
+Hypersensitivity,adapalene
+No-Reflow Phenomenon,adenosine
+"Cardiomyopathy, Hypertrophic",adenosine
+"Cardiomyopathy, Dilated",adenosine
+Emergencies,adenosine
+Asthma,adenosine
+Premature Birth,adenosine
+Ventricular Premature Complexes,adenosine
+Ischemic Stroke,agomelatine
+Recurrence,agomelatine
+Parkinson Disease,agomelatine
+Sleep Wake Disorders,agomelatine
+Parasomnias,agomelatine
+Chronobiology Disorders,agomelatine
+Psychotic Disorders,agomelatine
+"Schizophrenia, Paranoid",agomelatine
+Parasitic Diseases,albendazole
+Nematode Infections,albendazole
+Intestinal Diseases,albendazole
+Schistosomiasis,albendazole
+"Intestinal Diseases, Parasitic",albendazole
+Ascaridiasis,albendazole
+Periodontitis,albendazole
+Chronic Periodontitis,albendazole
+Diarrhea,albendazole
+Breast Neoplasms,alizapride
+Vomiting,alizapride
+Nausea,alizapride
+Peripheral Arterial Disease,allopurinol
+Peripheral Vascular Diseases,allopurinol
+Acute Coronary Syndrome,allopurinol
+"Angina, Stable",allopurinol
+Sarcopenia,allopurinol
+Bipolar Disorder,allopurinol
+Disease,allopurinol
+"Kidney Failure, Chronic",allopurinol
+"Hypertrophy, Left Ventricular",allopurinol
+Hypertrophy,allopurinol
+Microvascular Angina,allopurinol
+Renal Insufficiency,allopurinol
+Schizophrenia,allopurinol
+Psychotic Disorders,allopurinol
+"Diabetes Mellitus, Type 1",allopurinol
+Urolithiasis,allopurinol
+Stroke,allopurinol
+Ischemic Stroke,allopurinol
+"Pain, Postoperative",alvimopan
+Acute Pain,alvimopan
+Ataxia,amantadine
+Cerebellar Ataxia,amantadine
+Parkinsonian Disorders,amantadine
+Ataxia Telangiectasia,amantadine
+Telangiectasis,amantadine
+Paralysis,amantadine
+Cerebral Palsy,amantadine
+Postoperative Cognitive Complications,amantadine
+Cognitive Dysfunction,amantadine
+Dementia,amantadine
+Frontotemporal Dementia,amantadine
+"Aphasia, Primary Progressive",amantadine
+Pick Disease of the Brain,amantadine
+Problem Behavior,amantadine
+Delirium,amantadine
+Confusion,amantadine
+Depression,amantadine
+Depressive Disorder,amantadine
+"Depressive Disorder, Treatment-Resistant",amantadine
+Heart Failure,ambrisentan
+Connective Tissue Diseases,ambrisentan
+Dyspnea,ambrisentan
+Polycystic Kidney Diseases,amiloride
+"Polycystic Kidney, Autosomal Dominant",amiloride
+Diabetes Insipidus,amiloride
+"Diabetes Insipidus, Nephrogenic",amiloride
+Bipolar Disorder,amiloride
+Coronary Vasospasm,amiloride
+Arthritis,aminocaproic-acid
+Osteoarthritis,aminocaproic-acid
+Scoliosis,aminocaproic-acid
+Oral Hemorrhage,aminocaproic-acid
+Infections,aminosalicylic-acid
+Communicable Diseases,aminosalicylic-acid
+Acquired Immunodeficiency Syndrome,aminosalicylic-acid
+Sexually Transmitted Diseases,aminosalicylic-acid
+Lentivirus Infections,aminosalicylic-acid
+Immunologic Deficiency Syndromes,aminosalicylic-acid
+Immune System Diseases,aminosalicylic-acid
+Myocardial Infarction,amiodarone
+Infarction,amiodarone
+"Cardiac Complexes, Premature",amiodarone
+"Shock, Septic",amiodarone
+Shock,amiodarone
+Respiratory Insufficiency,amiodarone
+Toxemia,amiodarone
+Sepsis,amiodarone
+"Cardiomyopathy, Dilated",amiodarone
+Chronic Pain,amitriptyline
+Back Pain,amitriptyline
+Syndrome,amitriptyline
+"Amputation, Traumatic",amitriptyline
+Spinal Cord Injuries,amitriptyline
+Neck Pain,amitriptyline
+Gastrointestinal Diseases,amitriptyline
+Digestive System Diseases,amitriptyline
+Abdominal Pain,amitriptyline
+Irritable Bowel Syndrome,amitriptyline
+Diarrhea,amitriptyline
+Myalgia,amitriptyline
+Facial Pain,amitriptyline
+Cerebral Palsy,amitriptyline
+Atrial Fibrillation,amlodipine
+"Hypertension, Pregnancy-Induced",amlodipine
+COVID-19,amlodipine
+Coronavirus Infections,amlodipine
+Aortic Valve Stenosis,amlodipine
+"Kidney Failure, Chronic",amlodipine
+"Hypertension, Renal",amlodipine
+Heart Diseases,amlodipine
+Myocardial Ischemia,amlodipine
+Albuminuria,amlodipine
+Metabolic Diseases,amlodipine
+Lipid Metabolism Disorders,amlodipine
+"Angina, Stable",amlodipine
+Ischemia,amlodipine
+Inflammation,amlodipine
+Systolic Murmurs,amlodipine
+Diabetic Nephropathies,amlodipine
+Hypoxia,amlodipine
+Anxiety Disorders,amlodipine
+Fatty Liver,amlodipine
+Ischemic Stroke,amlodipine
+Cerebral Infarction,amlodipine
+Carotid Stenosis,amlodipine
+"Constriction, Pathologic",amlodipine
+Liver Diseases,amlodipine
+Non-alcoholic Fatty Liver Disease,amlodipine
+"Anemia, Sickle Cell",amodiaquine
+Malnutrition,amodiaquine
+Severe Acute Malnutrition,amodiaquine
+Breast Carcinoma In Situ,anastrozole
+"Obesity, Morbid",anastrozole
+Weight Loss,anastrozole
+Antiphospholipid Syndrome,apixaban
+Short Bowel Syndrome,apixaban
+Ankle Fractures,apixaban
+Ankle Injuries,apixaban
+Cognitive Dysfunction,apixaban
+Calcinosis,apixaban
+Pulmonary Infarction,apixaban
+Ventricular Dysfunction,apixaban
+"Ventricular Dysfunction, Right",apixaban
+Pulmonary Heart Disease,apixaban
+Alopecia,apremilast
+Alopecia Areata,apremilast
+Erythema,apremilast
+Erythema Nodosum,apremilast
+Parapsoriasis,apremilast
+Cardiovascular Diseases,apremilast
+Inflammation,apremilast
+Weight Gain,aripiprazole
+Agnosia,aripiprazole
+Hyperprolactinemia,aripiprazole
+Drug-Related Side Effects and Adverse Reactions,aripiprazole
+Mood Disorders,aripiprazole
+Parkinson Disease,aripiprazole
+Cardiovascular Diseases,aripiprazole
+Hyperlipidemias,aripiprazole
+Insulin Resistance,aripiprazole
+Weight Loss,aripiprazole
+Aggression,aripiprazole
+Attention Deficit and Disruptive Behavior Disorders,aripiprazole
+"Phobia, Social",aripiprazole
+Conduct Disorder,aripiprazole
+Feeding and Eating Disorders,aripiprazole
+Dyskinesias,aripiprazole
+Tardive Dyskinesia,aripiprazole
+Dysthymic Disorder,aripiprazole
+Cognition Disorders,aripiprazole
+"Dyskinesia, Drug-Induced",aripiprazole
+Pericarditis,aspirin
+Carotid Artery Diseases,aspirin
+Intracranial Hemorrhages,aspirin
+Brain Ischemia,aspirin
+Renal Artery Obstruction,aspirin
+Essential Hypertension,aspirin
+Gastroesophageal Reflux,aspirin
+"Esophagitis, Peptic",aspirin
+Ovarian Hyperstimulation Syndrome,aspirin
+Tachycardia,aspirin
+"Tachycardia, Ventricular",aspirin
+Ventricular Premature Complexes,aspirin
+Mood Disorders,aspirin
+"Multiple Sclerosis, Relapsing-Remitting",aspirin
+"Scleroderma, Systemic",aspirin
+"Scleroderma, Diffuse",aspirin
+Glucosephosphate Dehydrogenase Deficiency,aspirin
+Coronary Restenosis,aspirin
+"Kidney Failure, Chronic",aspirin
+Respiratory Tract Infections,aspirin
+Dementia,aspirin
+Aortic Valve Disease,aspirin
+Aortic Valve Insufficiency,aspirin
+Insulin Resistance,aspirin
+"Diabetes Mellitus, Type 1",aspirin
+Brain Injuries,aspirin
+"Brain Injuries, Traumatic",aspirin
+"Hematoma, Subdural",aspirin
+"Hematoma, Subdural, Chronic",aspirin
+Craniocerebral Trauma,aspirin
+Hematoma,aspirin
+Gastrointestinal Hemorrhage,aspirin
+Dental Caries,aspirin
+Microvascular Angina,aspirin
+Diabetic Nephropathies,aspirin
+Intracranial Embolism,aspirin
+Chagas Disease,aspirin
+Drug-Related Side Effects and Adverse Reactions,aspirin
+Respiration Disorders,aspirin
+Respiratory Tract Diseases,aspirin
+"Asthma, Aspirin-Induced",aspirin
+"Stroke, Lacunar",aspirin
+Cerebral Small Vessel Diseases,aspirin
+"Hypertension, Portal",aspirin
+Fibrosis,aspirin
+Musculoskeletal Pain,aspirin
+Endometriosis,aspirin
+Pelvic Pain,aspirin
+Arthritis,aspirin
+Placenta Diseases,aspirin
+Proteinuria,aspirin
+Thyroiditis,aspirin
+"Thyroiditis, Autoimmune",aspirin
+Opioid-Related Disorders,aspirin
+Myocardial Stunning,aspirin
+Urinary Bladder Neoplasms,aspirin
+Hematuria,aspirin
+Sarcoma,aspirin
+Coronary Vessel Anomalies,aspirin
+Hypersplenism,aspirin
+Sick Sinus Syndrome,atenolol-(+/-)
+"Angina, Stable",atenolol-(+/-)
+Coronary Artery Disease,atenolol-(+/-)
+Myocardial Ischemia,atenolol-(+/-)
+Coronary Disease,atenolol-(+/-)
+Overweight,atenolol-(+/-)
+Insulin Resistance,atenolol-(+/-)
+Metabolic Syndrome,atenolol-(+/-)
+Intracranial Arteriosclerosis,atenolol-(+/-)
+Arteriosclerosis,atenolol-(+/-)
+Stroke,atenolol-(+/-)
+Diabetes Mellitus,atenolol-(+/-)
+Infarction,atenolol-(+/-)
+Kidney Diseases,atenolol-(+/-)
+Diabetic Nephropathies,atenolol-(+/-)
+"Diabetes Mellitus, Type 2",atenolol-(+/-)
+Aneurysm,atenolol-(+/-)
+Aortic Aneurysm,atenolol-(+/-)
+"Aortic Aneurysm, Abdominal",atenolol-(+/-)
+Rupture,atenolol-(+/-)
+Hypotension,atenolol-(+/-)
+Postoperative Cognitive Complications,atenolol-(+/-)
+Cognitive Dysfunction,atenolol-(+/-)
+"Renal Insufficiency, Chronic",atenolol-(+/-)
+"Heart Failure, Diastolic",atenolol-(+/-)
+Ischemic Stroke,atenolol-(+/-)
+Cerebral Infarction,atenolol-(+/-)
+Ischemia,atenolol-(+/-)
+Spinal Cord Neoplasms,atenolol-(+/-)
+Spinal Neoplasms,atenolol-(+/-)
+"Stress Disorders, Traumatic",atomoxetine
+"Stress Disorders, Post-Traumatic",atomoxetine
+Depression,atomoxetine
+Depressive Disorder,atomoxetine
+Psychotic Disorders,atomoxetine
+Dyslexia,atomoxetine
+Sleep Initiation and Maintenance Disorders,atomoxetine
+Autism Spectrum Disorder,atomoxetine
+Asperger Syndrome,atomoxetine
+"Child Development Disorders, Pervasive",atomoxetine
+Problem Behavior,atomoxetine
+Impulsive Behavior,atomoxetine
+"Plaque, Atherosclerotic",atorvastatin
+"Arrhythmias, Cardiac",atorvastatin
+Osteoporosis,atorvastatin
+Intracranial Hemorrhages,atorvastatin
+"Angina Pectoris, Variant",atorvastatin
+"Pulmonary Disease, Chronic Obstructive",atorvastatin
+Prediabetic State,atorvastatin
+Glucose Intolerance,atorvastatin
+Metabolic Diseases,atorvastatin
+Glucose Metabolism Disorders,atorvastatin
+Lipid Metabolism Disorders,atorvastatin
+Disease,atorvastatin
+Alagille Syndrome,atorvastatin
+Xanthomatosis,atorvastatin
+"Aortic Aneurysm, Abdominal",atorvastatin
+Mood Disorders,atorvastatin
+Dementia,atorvastatin
+Neurodegenerative Diseases,atorvastatin
+Hyperparathyroidism,atorvastatin
+"Hyperparathyroidism, Secondary",atorvastatin
+Bronchiectasis,atorvastatin
+Pseudomonas Infections,atorvastatin
+Muscular Diseases,atorvastatin
+Retroperitoneal Fibrosis,atorvastatin
+Cerebral Small Vessel Diseases,atorvastatin
+Myotoxicity,atorvastatin
+Ventricular Remodeling,atorvastatin
+Infections,atorvastatin
+Liver Diseases,atorvastatin
+Intracranial Arteriosclerosis,atorvastatin
+Acute Kidney Injury,atorvastatin
+Aortic Coarctation,atorvastatin
+Anterior Wall Myocardial Infarction,atorvastatin
+AIDS Dementia Complex,atorvastatin
+Systolic Murmurs,atorvastatin
+Myocardial Stunning,atorvastatin
+Mitochondrial Diseases,atorvastatin
+Respiratory Insufficiency,atracurium
+Paralysis,atracurium
+Postoperative Complications,atracurium
+Syndrome,atracurium
+Delayed Emergence from Anesthesia,atracurium
+Lung Injury,atracurium
+Myoclonus,atracurium
+Agnosia,atracurium
+Intracranial Hypertension,atracurium
+Brain Injuries,atracurium
+"Brain Injuries, Traumatic",atracurium
+Hypertension,atracurium
+Postoperative Cognitive Complications,atracurium
+Cognitive Dysfunction,atracurium
+Pancreatitis,azathioprine
+Skin Neoplasms,azathioprine
+Cholangitis,azathioprine
+"Liver Cirrhosis, Biliary",azathioprine
+Skin Manifestations,azelaic-acid
+Hyperpigmentation,azelaic-acid
+Asthma,azelastine
+Inflammation,azelastine
+Cough,bambuterol
+Acute Disease,bambuterol
+Disease,bazedoxifene
+Schizophrenia,bazedoxifene
+Mood Disorders,bazedoxifene
+Psychotic Disorders,bazedoxifene
+Depression,bazedoxifene
+Depressive Disorder,bazedoxifene
+Endometriosis,bazedoxifene
+"Arthritis, Rheumatoid",bazedoxifene
+COVID-19,benazepril
+Coronavirus Infections,benazepril
+Albuminuria,benazepril
+Hypertrophy,benazepril
+Proteinuria,benazepril
+Cardiomyopathies,benazepril
+"Cardiomyopathy, Dilated",benazepril
+Hypotension,benazepril
+COVID-19,bendroflumethiazide
+Coronavirus Infections,bendroflumethiazide
+"Ventricular Dysfunction, Left",benzbromarone
+Metabolic Syndrome,benzbromarone
+Syndrome,benzbromarone
+"Tooth, Impacted",benzydamine
+Postoperative Complications,benzydamine
+Pericoronitis,benzydamine
+Nausea,benzydamine
+Vomiting,benzydamine
+Postoperative Nausea and Vomiting,benzydamine
+Bacteremia,benzylpenicillin
+"Lung Diseases, Obstructive",benzylpenicillin
+"Pulmonary Disease, Chronic Obstructive",benzylpenicillin
+Meniere Disease,betahistine
+Myocardial Infarction,bezafibrate
+Infarction,bezafibrate
+Acute Coronary Syndrome,bezafibrate
+Coronary Artery Disease,bezafibrate
+Myocardial Ischemia,bezafibrate
+Hypercholesterolemia,bezafibrate
+"Plaque, Atherosclerotic",bezafibrate
+Skin Diseases,bifonazole
+Foot Dermatoses,bifonazole
+ST Elevation Myocardial Infarction,bisoprolol
+Non-ST Elevated Myocardial Infarction,bisoprolol
+Infarction,bisoprolol
+"Kidney Failure, Chronic",bisoprolol
+"Hypertension, Renal",bisoprolol
+"Angina, Stable",bisoprolol
+Vascular Remodeling,bisoprolol
+Heart Diseases,bisoprolol
+Atherosclerosis,bisoprolol
+Coronary Disease,bisoprolol
+Myocardial Ischemia,bisoprolol
+Insulin Resistance,bisoprolol
+Metabolic Syndrome,bisoprolol
+"Arrhythmias, Cardiac",bisoprolol
+Tachycardia,bisoprolol
+"Tachycardia, Ventricular",bisoprolol
+"Cardiomyopathy, Hypertrophic",bisoprolol
+"Hypertrophy, Left Ventricular",bisoprolol
+Hypertrophy,bisoprolol
+"Pathological Conditions, Anatomical",bisoprolol
+Aortic Valve Stenosis,bisoprolol
+"Constriction, Pathologic",bisoprolol
+Ventricular Dysfunction,bisoprolol
+"Ventricular Dysfunction, Left",bisoprolol
+Microvascular Angina,bisoprolol
+"Angina Pectoris, Variant",bisoprolol
+Coronary Vasospasm,bisoprolol
+Diabetes Mellitus,bisoprolol
+"Diabetes Mellitus, Type 2",bisoprolol
+"Heart Failure, Systolic",bisoprolol
+Systolic Murmurs,bisoprolol
+"Heart Failure, Diastolic",bisoprolol
+Postural Orthostatic Tachycardia Syndrome,bisoprolol
+Pneumonia,bosentan
+Substance-Related Disorders,brexpiprazole
+Psychotic Disorders,brexpiprazole
+"Depressive Disorder, Treatment-Resistant",brexpiprazole
+Drug-Related Side Effects and Adverse Reactions,bumetanide
+Diabetes Mellitus,bumetanide
+Arthritis,bupivacaine
+"Hernia, Abdominal",bupivacaine
+Internal Hernia,bupivacaine
+Facies,bupivacaine
+Retinal Detachment,bupivacaine
+"Vitreoretinopathy, Proliferative",bupivacaine
+Retinoschisis,bupivacaine
+Rupture,bupivacaine
+Diverticulitis,bupivacaine
+Nausea,bupivacaine
+Drug Overdose,bupivacaine
+Pituitary Diseases,bupivacaine
+"Stress Disorders, Traumatic",bupivacaine
+Depression,bupivacaine
+Depressive Disorder,bupivacaine
+"Depressive Disorder, Major",bupivacaine
+"Depressive Disorder, Treatment-Resistant",bupivacaine
+Arteriovenous Fistula,bupivacaine
+Urinary Incontinence,bupivacaine
+Enuresis,bupivacaine
+"Urinary Incontinence, Stress",bupivacaine
+Uterine Cervical Incompetence,bupivacaine
+Tennis Elbow,bupivacaine
+Inflammation,bupivacaine
+Rectal Diseases,bupivacaine
+Colic,bupivacaine
+Renal Colic,bupivacaine
+Tonsillitis,bupivacaine
+Rectocele,bupivacaine
+Hypertension,bupivacaine
+Meningioma,bupivacaine
+Paralysis,bupivacaine
+Fibromyalgia,bupivacaine
+Somatoform Disorders,bupivacaine
+Arm Injuries,bupivacaine
+Adenocarcinoma,bupivacaine
+Intervertebral Disc Degeneration,bupivacaine
+Intervertebral Disc Displacement,bupivacaine
+Spondylolisthesis,bupivacaine
+Spondylosis,bupivacaine
+Hematoma,bupivacaine
+Tibial Fractures,bupivacaine
+"Tooth, Impacted",bupivacaine
+Kidney Neoplasms,bupivacaine
+"Carcinoma, Renal Cell",bupivacaine
+"Arrhythmias, Cardiac",bupivacaine
+Musculoskeletal Pain,bupivacaine
+Rheumatic Diseases,bupivacaine
+Spondylolysis,bupivacaine
+Joint Diseases,bupivacaine
+Femoracetabular Impingement,bupivacaine
+Infertility,bupivacaine
+"Infertility, Male",bupivacaine
+Gastrointestinal Neoplasms,bupivacaine
+Crohn Disease,bupivacaine
+Intestinal Diseases,bupivacaine
+Inflammatory Bowel Diseases,bupivacaine
+Gastrointestinal Diseases,bupivacaine
+Digestive System Diseases,bupivacaine
+Radius Fractures,bupivacaine
+Heart Diseases,bupivacaine
+Intestinal Obstruction,bupivacaine
+Neck Pain,bupivacaine
+Obesity,bupivacaine
+Ventricular Dysfunction,bupivacaine
+"Ventricular Dysfunction, Right",bupivacaine
+Hand Injuries,bupivacaine
+Forearm Injuries,bupivacaine
+Colonic Neoplasms,bupivacaine
+Rectal Neoplasms,bupivacaine
+Ileus,bupivacaine
+Diverticulum,bupivacaine
+"Diverticulitis, Colonic",bupivacaine
+Constipation,bupivacaine
+Knee Injuries,bupivacaine
+Ehlers-Danlos Syndrome,bupivacaine
+Urinary Retention,bupivacaine
+Dwarfism,bupivacaine
+Breakthrough Pain,bupivacaine
+"Pain, Intractable",bupivacaine
+Trigger Finger Disorder,bupivacaine
+Uterine Diseases,bupivacaine
+Prostatic Hyperplasia,bupivacaine
+Hyperplasia,bupivacaine
+Arthralgia,bupivacaine
+Rectal Fistula,bupivacaine
+Pruritus,bupivacaine
+Dyspareunia,bupivacaine
+Wrist Injuries,bupivacaine
+Finger Injuries,bupivacaine
+Cystitis,bupivacaine
+"Cystitis, Interstitial",bupivacaine
+Urologic Diseases,bupivacaine
+Cryptorchidism,bupivacaine
+Uterine Prolapse,bupivacaine
+Bradycardia,bupivacaine
+"Fractures, Multiple",bupivacaine
+Lymphedema,bupivacaine
+Scoliosis,bupivacaine
+Bursitis,bupivacaine
+"Blood Loss, Surgical",bupivacaine
+Failed Back Surgery Syndrome,bupivacaine
+"Fractures, Compression",bupivacaine
+Leg Injuries,bupivacaine
+Delirium,bupivacaine
+Hip Injuries,bupivacaine
+"Fractures, Closed",bupivacaine
+Apnea,bupivacaine
+Sleep Apnea Syndromes,bupivacaine
+Neuroma,bupivacaine
+Hyperalgesia,bupivacaine
+Cervical Intraepithelial Neoplasia,bupivacaine
+Gallstones,bupivacaine
+Cholelithiasis,bupivacaine
+Cholecystolithiasis,bupivacaine
+Shoulder Impingement Syndrome,bupivacaine
+"Hernia, Hiatal",bupivacaine
+Food Addiction,bupropion
+Dyssomnias,bupropion
+Intestinal Diseases,bupropion
+Inflammatory Bowel Diseases,bupropion
+Parasomnias,bupropion
+"Kidney Failure, Chronic",bupropion
+Cognitive Dysfunction,bupropion
+"Obesity, Morbid",bupropion
+Mental Disorders,bupropion
+Seizures,bupropion
+Cardiovascular Diseases,bupropion
+Disease Susceptibility,bupropion
+Genetic Predisposition to Disease,bupropion
+Cerebrovascular Disorders,bupropion
+Sleep Wake Disorders,bupropion
+"Angina, Unstable",bupropion
+Psychotic Disorders,bupropion
+"Behavior, Addictive",bupropion
+Sleep Initiation and Maintenance Disorders,bupropion
+Problem Behavior,bupropion
+"Lung Diseases, Obstructive",bupropion
+"Pulmonary Disease, Chronic Obstructive",bupropion
+Acquired Immunodeficiency Syndrome,bupropion
+Immunologic Deficiency Syndromes,bupropion
+Suicidal Ideation,bupropion
+Body Weight,bupropion
+Ataxia,bupropion
+Cerebellar Ataxia,bupropion
+Friedreich Ataxia,bupropion
+Williams Syndrome,buspirone
+Syndrome,buspirone
+Hypothermia,buspirone
+"Infertility, Female",cabergoline
+Acromegaly,cabergoline
+Prostatic Neoplasms,cabergoline
+Melanoma,cabergoline
+Neuroendocrine Tumors,cabergoline
+Dumping Syndrome,cabergoline
+Hernia,caffeine
+"Hernia, Inguinal",caffeine
+Kidney Diseases,caffeine
+"Renal Insufficiency, Chronic",caffeine
+Scoliosis,caffeine
+Bronchopulmonary Dysplasia,caffeine
+Post-Dural Puncture Headache,caffeine
+"Carcinoma, Renal Cell",caffeine
+Gastrointestinal Stromal Tumors,caffeine
+Reperfusion Injury,caffeine
+Cardiovascular Diseases,caffeine
+Brain Injuries,caffeine
+Hemorrhage,caffeine
+Atherosclerosis,caffeine
+Vertigo,caffeine
+Vestibular Diseases,caffeine
+Anxiety Disorders,caffeine
+Hypertension,canagliflozin
+Albuminuria,canagliflozin
+Weight Loss,canagliflozin
+COVID-19,canagliflozin
+Insulin Resistance,canagliflozin
+Hypersensitivity,canagliflozin
+Hyperuricemia,canagliflozin
+"Heart Failure, Systolic",canagliflozin
+Systolic Murmurs,canagliflozin
+Glomerulonephritis,canagliflozin
+"Glomerulonephritis, IGA",canagliflozin
+Motor Disorders,capsaicin
+Syndrome,capsaicin
+Diabetes Complications,capsaicin
+Alopecia,capsaicin
+Alopecia Areata,capsaicin
+Renal Insufficiency,capsaicin
+"Kidney Failure, Chronic",capsaicin
+"Rhinitis, Allergic",capsaicin
+Psoriasis,capsaicin
+Labor Pain,capsaicin
+Erythromelalgia,carbamazepine
+"Epilepsy, Rolandic",carbamazepine
+Mood Disorders,carbamazepine
+Asthma,carbamazepine
+Lung Diseases,carvedilol
+"Pulmonary Disease, Chronic Obstructive",carvedilol
+"Cardiomyopathy, Dilated",carvedilol
+Ascites,carvedilol
+Peritonitis,carvedilol
+Hepatic Encephalopathy,carvedilol
+Brain Diseases,carvedilol
+Infarction,carvedilol
+Sprains and Strains,carvedilol
+Univentricular Heart,carvedilol
+Varicose Veins,carvedilol
+Heart Diseases,carvedilol
+Coronary Artery Disease,carvedilol
+Myocardial Ischemia,carvedilol
+Ischemia,carvedilol
+Chagas Cardiomyopathy,carvedilol
+"Lung Diseases, Obstructive",carvedilol
+Alzheimer Disease,carvedilol
+Muscular Dystrophies,carvedilol
+"Muscular Dystrophy, Duchenne",carvedilol
+Premature Birth,carvedilol
+Tachycardia,carvedilol
+"Tachycardia, Ventricular",carvedilol
+Ventricular Premature Complexes,carvedilol
+ST Elevation Myocardial Infarction,carvedilol
+Non-ST Elevated Myocardial Infarction,carvedilol
+Hypoxia,carvedilol
+"Renal Insufficiency, Chronic",carvedilol
+"Heart Failure, Diastolic",carvedilol
+Acute Coronary Syndrome,carvedilol
+Syndrome,carvedilol
+Pneumonia,cefdinir
+"Bronchitis, Chronic",cefdinir
+Adenoma,cefdinir
+Pituitary Neoplasms,cefdinir
+Pituitary Diseases,cefdinir
+Infections,cefdinir
+Communicable Diseases,cefdinir
+Pancreatitis,cefoperazone
+"Pancreatitis, Acute Necrotizing",cefoperazone
+Spondylarthropathies,celecoxib
+Bile Duct Neoplasms,celecoxib
+Cholangiocarcinoma,celecoxib
+Wounds and Injuries,celecoxib
+Necrosis,celecoxib
+Leiomyoma,celecoxib
+Sprains and Strains,celecoxib
+Crohn Disease,celecoxib
+Urethral Stricture,celecoxib
+Arteriosclerosis,celecoxib
+Coronary Artery Disease,celecoxib
+Myocardial Ischemia,celecoxib
+Ankle Injuries,celecoxib
+Ureteral Calculi,celecoxib
+Ureterolithiasis,celecoxib
+Calculi,celecoxib
+Renal Colic,celecoxib
+Radius Fractures,celecoxib
+Coronary Disease,celecoxib
+Nausea,celecoxib
+Constipation,celecoxib
+Coronary Restenosis,celecoxib
+Heart Diseases,celecoxib
+Spinal Stenosis,celecoxib
+"Constriction, Pathologic",celecoxib
+Kidney Calculi,celecoxib
+Nephrolithiasis,celecoxib
+Intestinal Diseases,celecoxib
+Inflammatory Bowel Diseases,celecoxib
+Nasal Polyps,celecoxib
+Uveitis,chlorambucil
+Asymptomatic Diseases,chloroquine
+Hepatitis A,chloroquine
+"Hepatitis, Autoimmune",chloroquine
+Hepatitis,chloroquine
+Rabies,chloroquine
+Recurrence,chloroquine
+Hepatitis C,chloroquine
+Fetal Growth Retardation,chloroquine
+Osteoarthritis,chloroquine
+"Osteoarthritis, Knee",chloroquine
+Bronchitis,chlorphenamine
+Hypotension,chlorphenamine
+Mania,chlorpromazine
+Disease,chlorpromazine
+Bipolar Disorder,chlorpromazine
+Emergencies,chlorpromazine
+Aggression,chlorpromazine
+COVID-19,chlorthalidone
+Coronavirus Infections,chlorthalidone
+Aortic Valve Stenosis,chlorthalidone
+"Hypertrophy, Left Ventricular",chlorthalidone
+Aortic Valve Insufficiency,chlorthalidone
+Hypertrophy,chlorthalidone
+Drug-Related Side Effects and Adverse Reactions,chlorthalidone
+Obesity,chlorthalidone
+Metabolic Syndrome,chlorthalidone
+Overweight,chlorthalidone
+Carotid Artery Diseases,cilostazol
+Diabetes Mellitus,cilostazol
+"Diabetes Mellitus, Type 2",cilostazol
+Myocardial Infarction,cilostazol
+Ischemic Stroke,cilostazol
+Intracranial Hemorrhages,cilostazol
+Cerebral Hemorrhage,cilostazol
+Brain Ischemia,cilostazol
+Ischemia,cilostazol
+Hemorrhage,cilostazol
+Polyneuropathies,cilostazol
+Acute Coronary Syndrome,cilostazol
+Intracranial Aneurysm,cilostazol
+Aneurysm,cilostazol
+Raynaud Disease,cilostazol
+Myocardial Ischemia,cilostazol
+Coronary Disease,cilostazol
+Dementia,cilostazol
+"Dementia, Vascular",cilostazol
+"Constriction, Pathologic",cilostazol
+Kidney Diseases,cilostazol
+Diabetic Nephropathies,cilostazol
+Heart Diseases,cilostazol
+Hyperlipidemias,cilostazol
+Hyperlipoproteinemias,cilostazol
+"Renal Insufficiency, Chronic",cilostazol
+"Angina, Stable",cilostazol
+Diabetes Complications,cilostazol
+Syndrome,cilostazol
+Hypercholesterolemia,cilostazol
+Metabolic Syndrome,cilostazol
+Subarachnoid Hemorrhage,cilostazol
+Alzheimer Disease,cilostazol
+Arteriosclerosis,cilostazol
+Arteriosclerosis Obliterans,cilostazol
+Intracranial Arteriosclerosis,cilostazol
+Osteoarthritis,cimetidine
+Respiratory Aspiration of Gastric Contents,cimetidine
+"Meningitis, Meningococcal",ciprofloxacin
+Meningitis,ciprofloxacin
+Suppuration,ciprofloxacin
+"Otitis Media, Suppurative",ciprofloxacin
+"Endocarditis, Bacterial",ciprofloxacin
+Endocarditis,ciprofloxacin
+Respiratory Tract Infections,ciprofloxacin
+Hypoglycemia,ciprofloxacin
+Hyperglycemia,ciprofloxacin
+Appendicitis,ciprofloxacin
+Pouchitis,ciprofloxacin
+Liver Cirrhosis,ciprofloxacin
+Kidney Calculi,ciprofloxacin
+Nephrolithiasis,ciprofloxacin
+Calculi,ciprofloxacin
+Bacteriuria,ciprofloxacin
+Asthma,ciprofloxacin
+"Angioedemas, Hereditary",ciprofloxacin
+Prostatic Hyperplasia,ciprofloxacin
+Hyperplasia,ciprofloxacin
+"Liver Abscess, Pyogenic",ciprofloxacin
+"Colitis, Ulcerative",ciprofloxacin
+Cholelithiasis,ciprofloxacin
+Cholecystolithiasis,ciprofloxacin
+Gallstones,ciprofloxacin
+"Dysentery, Bacillary",ciprofloxacin
+Periapical Abscess,ciprofloxacin
+Surgical Wound Infection,ciprofloxacin
+Ascites,ciprofloxacin
+Chronic Periodontitis,ciprofloxacin
+"Urinary Bladder, Overactive",ciprofloxacin
+Wound Infection,ciprofloxacin
+Surgical Wound,ciprofloxacin
+Ureteral Calculi,ciprofloxacin
+Ureterolithiasis,ciprofloxacin
+Frailty,citalopram
+Amyloidosis,citalopram
+Compulsive Behavior,citalopram
+Psychotic Disorders,citalopram
+Hearing Loss,citalopram
+Deafness,citalopram
+Epilepsy,citalopram
+HIV Seropositivity,citalopram
+Facies,citalopram
+Sinusitis,citalopram
+Facial Pain,citalopram
+"Disruptive, Impulse Control, and Conduct Disorders",citalopram
+"Pain, Postoperative",citalopram
+"Dementia, Vascular",citalopram
+Vascular Diseases,citalopram
+Coronary Artery Disease,citalopram
+Sleep Wake Disorders,citalopram
+Panic Disorder,citalopram
+"Brain Injuries, Traumatic",citalopram
+Brain Injuries,citalopram
+Polyneuropathies,citalopram
+Diabetes Mellitus,citalopram
+Gastroesophageal Reflux,citalopram
+Premenstrual Syndrome,citalopram
+Head and Neck Neoplasms,citalopram
+Ischemia,citalopram
+Myocardial Ischemia,citalopram
+Frontotemporal Dementia,citalopram
+"Aphasia, Primary Progressive",citalopram
+Pick Disease of the Brain,citalopram
+Asthma,citalopram
+Coronary Disease,citalopram
+"Depression, Postpartum",citalopram
+Polycystic Ovary Syndrome,citalopram
+Agoraphobia,citalopram
+"Multiple Sclerosis, Relapsing-Remitting",citalopram
+Internet Addiction Disorder,citalopram
+Inflammation,citalopram
+"Epilepsy, Temporal Lobe",citalopram
+Heartburn,citalopram
+Myocardial Infarction,citalopram
+Infarction,citalopram
+Chest Pain,citalopram
+Ataxia,citalopram
+Cerebellar Ataxia,citalopram
+Friedreich Ataxia,citalopram
+Post-Cardiac Arrest Syndrome,clonazepam
+Heart Arrest,clonazepam
+Hypothermia,clonazepam
+"Stress Disorders, Traumatic",clonazepam
+"Stress Disorders, Post-Traumatic",clonazepam
+Psychotic Disorders,clonazepam
+Phobic Disorders,clonazepam
+"Phobia, Social",clonazepam
+Agoraphobia,clonazepam
+Depression,clonazepam
+Depressive Disorder,clonazepam
+"Depressive Disorder, Major",clonazepam
+Cerebral Palsy,clonazepam
+Labor Pain,clonidine
+Breakthrough Pain,clonidine
+Hip Dislocation,clonidine
+Developmental Dysplasia of the Hip,clonidine
+"Hip Dislocation, Congenital",clonidine
+Femoracetabular Impingement,clonidine
+Frailty,clonidine
+Cognitive Dysfunction,clonidine
+Ataxia,clonidine
+Cerebellar Ataxia,clonidine
+Ataxia Telangiectasia,clonidine
+Telangiectasis,clonidine
+Failure to Thrive,clonidine
+Pulpitis,clonidine
+Catatonia,clonidine
+Depressive Disorder,clonidine
+"Depressive Disorder, Major",clonidine
+Bipolar Disorder,clonidine
+Emergencies,clonidine
+"Fractures, Closed",clonidine
+Osteomyelitis,clonidine
+Tarsal Coalition,clonidine
+Bursitis,clonidine
+Clubfoot,clonidine
+Talipes,clonidine
+Equinus Deformity,clonidine
+Flatfoot,clonidine
+Foot Deformities,clonidine
+"Foot Deformities, Congenital",clonidine
+Exostoses,clonidine
+Leg Length Inequality,clonidine
+Syndactyly,clonidine
+Hand Deformities,clonidine
+Polydactyly,clonidine
+"Hand Deformities, Congenital",clonidine
+Congenital Abnormalities,clonidine
+Synovial Cyst,clonidine
+Spinal Stenosis,clonidine
+Intervertebral Disc Degeneration,clonidine
+Intervertebral Disc Displacement,clonidine
+Spondylolisthesis,clonidine
+Spondylosis,clonidine
+"Osteoarthritis, Knee",clonidine
+Anterior Cruciate Ligament Injuries,clonidine
+Endometriosis,clonidine
+Vomiting,clonidine
+Tic Disorders,clonidine
+Heart Diseases,clonidine
+Kidney Diseases,clonidine
+Diabetic Nephropathies,clonidine
+"Diabetes Mellitus, Type 2",clonidine
+Ankle Fractures,clonidine
+Osteoarthritis,clonidine
+Joint Diseases,clonidine
+Arterial Occlusive Diseases,clonidine
+Heart Failure,clonidine
+Agnosia,clonidine
+Retinal Diseases,clonidine
+Retinopathy of Prematurity,clonidine
+Premature Birth,clonidine
+"Infant, Premature, Diseases",clonidine
+"Pain, Procedural",clonidine
+"Dermatitis, Atopic",clotrimazole
+Eczema,clotrimazole
+Skin Diseases,clotrimazole
+"Skin Diseases, Eczematous",clotrimazole
+Recurrence,clotrimazole
+Diaper Rash,clotrimazole
+Renal Insufficiency,clotrimazole
+"Kidney Failure, Chronic",clotrimazole
+Depression,clozapine
+Depressive Disorder,clozapine
+"Depressive Disorder, Major",clozapine
+"Schizophrenia, Childhood",clozapine
+Substance-Related Disorders,clozapine
+Panic Disorder,clozapine
+Alcoholism,clozapine
+Marijuana Abuse,clozapine
+Congenital Abnormalities,clozapine
+Metabolic Syndrome,clozapine
+HIV-Associated Lipodystrophy Syndrome,cobicistat
+Cardiovascular Diseases,cobicistat
+Vascular Diseases,cobicistat
+Cardiovascular Abnormalities,cobicistat
+Congenital Abnormalities,cobicistat
+Lipodystrophy,cobicistat
+Body Weight,cobicistat
+Body Weight Changes,cobicistat
+Drug-Related Side Effects and Adverse Reactions,cobicistat
+Cognitive Dysfunction,cobicistat
+"Hepatitis C, Chronic",cobicistat
+Coinfection,cobicistat
+Bone Diseases,cobicistat
+"Bone Diseases, Metabolic",cobicistat
+Metabolic Diseases,cobicistat
+Opioid-Related Disorders,cobicistat
+Neurotoxicity Syndromes,cobicistat
+AIDS Dementia Complex,cobicistat
+HIV Seropositivity,cobicistat
+Dyspepsia,cromoglicic-acid
+Esophagitis,cromoglicic-acid
+Eosinophilic Esophagitis,cromoglicic-acid
+Prediabetic State,curcumin
+Glucose Intolerance,curcumin
+Cardiovascular Abnormalities,curcumin
+Metrorrhagia,curcumin
+Hemorrhage,curcumin
+Hypersensitivity,curcumin
+Depressive Disorder,curcumin
+Irritable Bowel Syndrome,curcumin
+Polycystic Kidney Diseases,curcumin
+"Polycystic Kidney, Autosomal Dominant",curcumin
+Migraine Disorders,curcumin
+Alveolar Bone Loss,curcumin
+Syndrome,cyclobenzaprine
+Somatoform Disorders,cyclobenzaprine
+Myalgia,cyclobenzaprine
+Hyperkinesis,cyclobenzaprine
+Fatigue,cyclobenzaprine
+"Obesity, Morbid",cyclobenzaprine
+Feeding and Eating Disorders,cyproheptadine
+Failure to Thrive,cyproheptadine
+Hyperkinesis,cyproheptadine
+Disease,cyproheptadine
+Attention Deficit Disorder with Hyperactivity,cyproheptadine
+Mental Disorders,cyproheptadine
+Problem Behavior,cyproheptadine
+Attention Deficit and Disruptive Behavior Disorders,cyproheptadine
+Neurodevelopmental Disorders,cyproheptadine
+Mediastinal Neoplasms,cytarabine
+Neoplasm Metastasis,dacarbazine
+Optic Nerve Diseases,dalfampridine
+"Optic Neuropathy, Ischemic",dalfampridine
+Dermatitis,dapsone
+Tuberculosis,dapsone
+Leprosy,dapsone
+Obesity,dapsone
+"Vasculitis, Leukocytoclastic, Cutaneous",dapsone
+Urticaria,dapsone
+Hypersensitivity,dapsone
+Nocturia,darifenacin
+Urinary Incontinence,darifenacin
+Spinal Cord Injuries,darifenacin
+Asymptomatic Infections,darunavir
+HIV-Associated Lipodystrophy Syndrome,darunavir
+Cardiovascular Diseases,darunavir
+Vascular Diseases,darunavir
+Cardiovascular Abnormalities,darunavir
+Congenital Abnormalities,darunavir
+Lipodystrophy,darunavir
+Body Weight,darunavir
+Body Weight Changes,darunavir
+Drug-Related Side Effects and Adverse Reactions,darunavir
+Papilloma,darunavir
+Cytomegalovirus Infections,darunavir
+Coinfection,darunavir
+Epstein-Barr Virus Infections,darunavir
+Inflammation,darunavir
+Cognitive Dysfunction,darunavir
+Proteinuria,darunavir
+Neurotoxicity Syndromes,darunavir
+AIDS Dementia Complex,darunavir
+HIV Seropositivity,darunavir
+Renal Insufficiency,deferiprone
+Anemia,deferiprone
+Liver Diseases,deferiprone
+Lipid Metabolism Disorders,deoxycholic-acid
+Candidiasis,dequalinium
+"Candidiasis, Vulvovaginal",dequalinium
+Anxiety Disorders,desvenlafaxine
+"Phobia, Social",desvenlafaxine
+Dysthymic Disorder,desvenlafaxine
+Anhedonia,desvenlafaxine
+Breast Neoplasms,desvenlafaxine
+Hot Flashes,desvenlafaxine
+Opioid-Related Disorders,desvenlafaxine
+Brain Injuries,dextromethorphan
+"Brain Injuries, Traumatic",dextromethorphan
+Bronchitis,dextromethorphan
+Acute Disease,dextromethorphan
+"Pain, Postoperative",dextromethorphan
+"Anemia, Sickle Cell",dextromethorphan
+Atherosclerosis,dextromethorphan
+Inflammation,dextromethorphan
+Inflammation,diacerein
+Gout,diacerein
+Psychomotor Agitation,diazepam
+Emergencies,diazepam
+"Pain, Postoperative",diazepam
+Infertility,diazepam
+Pain,diazepam
+Anus Diseases,diazepam
+Crigler-Najjar Syndrome,diazepam
+Substance Withdrawal Syndrome,diazepam
+"Stress Disorders, Traumatic",diazepam
+"Stress Disorders, Post-Traumatic",diazepam
+Depression,diazepam
+Depressive Disorder,diazepam
+Substance-Related Disorders,diazepam
+Psychotic Disorders,diazepam
+Mental Disorders,diazepam
+Shared Paranoid Disorder,diazepam
+"Seizures, Febrile",diazepam
+Hyperthermia,diazepam
+Fever,diazepam
+Cerebral Palsy,diazepam
+Alcoholism,diazepam
+Wounds and Injuries,diazepam
+Whiplash Injuries,diazepam
+"Diabetes Mellitus, Type 1",diazoxide
+Neuroendocrine Tumors,diazoxide
+Pure Autonomic Failure,diazoxide
+Athletic Injuries,diclofenac
+Kidney Calculi,diclofenac
+Nephrolithiasis,diclofenac
+Infections,diclofenac
+Communicable Diseases,diclofenac
+Urinary Tract Infections,diclofenac
+Migraine Disorders,diclofenac
+Migraine without Aura,diclofenac
+Migraine with Aura,diclofenac
+Facial Pain,diclofenac
+Post-Dural Puncture Headache,diclofenac
+Hallux Valgus,diclofenac
+Bunion,diclofenac
+Respiratory Tract Infections,diclofenac
+Prostatic Hyperplasia,diclofenac
+Hyperplasia,diclofenac
+Pericardial Effusion,diclofenac
+Graves Disease,diclofenac
+Graves Ophthalmopathy,diclofenac
+Glaucoma,diclofenac
+Hemorrhoids,diclofenac
+Rectal Fistula,diclofenac
+Fistula,diclofenac
+"Infertility, Female",diclofenac
+Photosensitivity Disorders,diclofenac
+Pericoronitis,diclofenac
+Thrombophlebitis,diclofenac
+Postoperative Complications,diclofenac
+Hypopituitarism,diclofenac
+Breakthrough Pain,diclofenac
+Multiple Sclerosis,diclofenac
+Sclerosis,diclofenac
+"Seizures, Febrile",diclofenac
+Recurrence,diclofenac
+Fever,diclofenac
+Seizures,diclofenac
+Hyperthermia,diclofenac
+Macular Edema,diclofenac
+Edema,diclofenac
+Rupture,diclofenac
+Hyperemia,diclofenac
+Paresthesia,diclofenac
+Chest Pain,diclofenac
+Urinary Calculi,diclofenac
+Urolithiasis,diclofenac
+Calculi,diclofenac
+Opioid-Related Disorders,diclofenac
+Drug-Related Side Effects and Adverse Reactions,diclofenac
+Delirium,diclofenac
+Hip Fractures,diclofenac
+"Tooth, Impacted",diclofenac
+Shoulder Pain,diclofenac
+Respiratory Insufficiency,diclofenac
+Lung Neoplasms,diclofenac
+Pleural Neoplasms,diclofenac
+Pleural Effusion,diclofenac
+Pneumothorax,diclofenac
+Respiratory Aspiration,diclofenac
+Pharyngitis,diclofenac
+Laryngitis,diclofenac
+"Endocarditis, Bacterial",dicloxacillin
+Endocarditis,dicloxacillin
+"Dermatitis, Atopic",dicloxacillin
+Dermatitis,dicloxacillin
+Eczema,dicloxacillin
+"Arthritis, Infectious",dicloxacillin
+Substance-Related Disorders,dicloxacillin
+"Substance Abuse, Intravenous",dicloxacillin
+HIV Infections,diflunisal
+Postpartum Hemorrhage,dinoprost
+Uterine Inertia,dinoprost
+Hemorrhage,dinoprost
+Ganglion Cysts,diphenidol
+Meniere Disease,diphenidol
+Endotoxemia,dipyridamole
+Arteriosclerosis,dipyridamole
+Cardiovascular Diseases,dipyridamole
+Reperfusion Injury,dipyridamole
+Ischemia,dipyridamole
+"Ischemic Attack, Transient",dipyridamole
+Brain Ischemia,dipyridamole
+Wounds and Injuries,dipyridamole
+Atherosclerosis,dipyridamole
+"Hypertension, Portal",dipyridamole
+Thrombosis,dipyridamole
+Venous Thrombosis,dipyridamole
+Fibrosis,dipyridamole
+Mania,dipyridamole
+Coronary Disease,dipyridamole
+Hypersplenism,dipyridamole
+Alcohol Drinking,disulfiram
+Anxiety Disorders,disulfiram
+Sleepiness,donepezil
+Neurocognitive Disorders,donepezil
+Apnea,donepezil
+Sleep Apnea Syndromes,donepezil
+"Sleep Apnea, Obstructive",donepezil
+Kidney Diseases,donepezil
+"Kidney Failure, Chronic",donepezil
+Mania,donepezil
+Bipolar Disorder,donepezil
+Depressive Disorder,donepezil
+Postoperative Complications,donepezil
+Mental Disorders,donepezil
+Psychotic Disorders,donepezil
+Amnesia,donepezil
+"Multiple Sclerosis, Relapsing-Remitting",donepezil
+Low Back Pain,donepezil
+Diabetic Neuropathies,donepezil
+Back Pain,donepezil
+"Heart Failure, Diastolic",dopamine
+Pituitary Neoplasms,dopamine
+Prolactinoma,dopamine
+Cardio-Renal Syndrome,dopamine
+Acute Kidney Injury,dopamine
+Delirium,dopamine
+Emergencies,dopamine
+"Disruptive, Impulse Control, and Conduct Disorders",dopamine
+Sepsis,dopamine
+Toxemia,dopamine
+Acromegaly,dopamine
+Head and Neck Neoplasms,dopamine
+Premature Birth,doxapram
+Hypoxia,doxapram
+Cardiomyopathies,doxazosin
+"Cardiomyopathy, Dilated",doxazosin
+"Urinary Bladder, Overactive",doxazosin
+Essential Hypertension,doxazosin
+Kidney Diseases,doxazosin
+Diabetic Nephropathies,doxazosin
+"Diabetes Mellitus, Type 2",doxazosin
+Rhinitis,doxazosin
+"Rhinitis, Allergic",doxazosin
+Inflammation,doxazosin
+"Renal Insufficiency, Chronic",doxazosin
+Cardiovascular Diseases,doxazosin
+Urinary Bladder Neck Obstruction,doxazosin
+Mediastinal Neoplasms,doxorubicin
+Obesity,doxorubicin
+Fibrosis,dronedarone
+Disease Progression,dronedarone
+Recurrence,dronedarone
+Hallux Valgus,droperidol
+Bunion,droperidol
+"Pain, Postoperative",droperidol
+Cholecystolithiasis,droperidol
+Cholelithiasis,droperidol
+Gallstones,droperidol
+Breast Neoplasms,droperidol
+Dysthymic Disorder,duloxetine
+Frailty,duloxetine
+Acute Pain,duloxetine
+Intervertebral Disc Degeneration,duloxetine
+Bipolar Disorder,duloxetine
+Neck Pain,duloxetine
+"Neuralgia, Postherpetic",duloxetine
+Hearing Loss,duloxetine
+Deafness,duloxetine
+Joint Diseases,duloxetine
+Psychotic Disorders,duloxetine
+Dementia,duloxetine
+Irritable Bowel Syndrome,duloxetine
+Panic Disorder,duloxetine
+Migraine Disorders,duloxetine
+Compulsive Personality Disorder,duloxetine
+Obsessive-Compulsive Disorder,duloxetine
+Feeding and Eating Disorders,duloxetine
+Binge-Eating Disorder,duloxetine
+Bulimia,duloxetine
+Headache,duloxetine
+Headache Disorders,duloxetine
+Pelvic Pain,duloxetine
+Ulcer,ecabet
+Nervous System Diseases,efavirenz
+Central Nervous System Diseases,efavirenz
+Hepatitis B,efavirenz
+HIV-Associated Lipodystrophy Syndrome,efavirenz
+Cardiovascular Diseases,efavirenz
+Fatty Liver,efavirenz
+"Meningitis, Cryptococcal",efavirenz
+Meningitis,efavirenz
+"Hepatitis C, Chronic",efavirenz
+Hirsutism,eflornithine
+Hepatitis C,elvitegravir
+"Hepatitis C, Chronic",elvitegravir
+Coinfection,elvitegravir
+Bone Diseases,elvitegravir
+"Bone Diseases, Metabolic",elvitegravir
+Hepatitis,elvitegravir
+Metabolic Diseases,elvitegravir
+Opioid-Related Disorders,elvitegravir
+Crush Injuries,elvitegravir
+Rhinitis,emedastine
+"Rhinitis, Allergic",emedastine
+"Arrhythmias, Cardiac",empagliflozin
+Coronary Artery Disease,empagliflozin
+Myocardial Ischemia,empagliflozin
+Coronary Disease,empagliflozin
+Wounds and Injuries,empagliflozin
+"Hypertrophy, Left Ventricular",empagliflozin
+Dumping Syndrome,empagliflozin
+Diabetic Retinopathy,empagliflozin
+Albuminuria,empagliflozin
+Atrial Fibrillation,empagliflozin
+"Obesity, Abdominal",empagliflozin
+Amyloidosis,empagliflozin
+Hepatitis A,empagliflozin
+Hepatitis B,empagliflozin
+"Hepatitis B, Chronic",empagliflozin
+Hepatitis,empagliflozin
+"Hepatitis, Chronic",empagliflozin
+Macular Edema,empagliflozin
+Overweight,empagliflozin
+Diabetes Complications,empagliflozin
+Sarcopenia,empagliflozin
+Weight Loss,empagliflozin
+Frailty,empagliflozin
+"Glomerulonephritis, IGA",empagliflozin
+Neurocognitive Disorders,emtricitabine
+Sexually Transmitted Diseases,emtricitabine
+Opportunistic Infections,emtricitabine
+AIDS-Related Opportunistic Infections,emtricitabine
+Weight Gain,emtricitabine
+Cardiovascular Diseases,emtricitabine
+Dyslipidemias,emtricitabine
+Proteinuria,emtricitabine
+"Bone Diseases, Metabolic",emtricitabine
+Bone Diseases,emtricitabine
+Opioid-Related Disorders,emtricitabine
+Neurotoxicity Syndromes,emtricitabine
+Syphilis,emtricitabine
+Osteoporosis,emtricitabine
+Fibrosis,emtricitabine
+Coronavirus Infections,enalapril
+"Hypertension, Pregnancy-Induced",enalapril
+"Kidney Failure, Chronic",enalapril
+Chagas Disease,enalapril
+"Glomerulonephritis, IGA",enalapril
+Metabolic Syndrome,enalapril
+Syndrome,enalapril
+Hyperhomocysteinemia,enalapril
+Atherosclerosis,enalapril
+Recurrence,enalapril
+Hypotension,enalapril
+Inflammation,entecavir
+Fatty Liver,entecavir
+Nephrotic Syndrome,entecavir
+Nephrosis,entecavir
+Glomerulonephritis,entecavir
+"Hypertension, Portal",entecavir
+Hypertension,entecavir
+Viremia,entecavir
+Tuberculosis,entecavir
+"Arthritis, Rheumatoid",entecavir
+Acidosis,entecavir
+"Acidosis, Lactic",entecavir
+Recurrence,entecavir
+Hypersensitivity,epinastine
+Stomatognathic Diseases,epinephrine
+Dental Pulp Diseases,epinephrine
+Drug-Related Side Effects and Adverse Reactions,epinephrine
+Periodontitis,epinephrine
+Hip Dislocation,epinephrine
+Developmental Dysplasia of the Hip,epinephrine
+"Hip Dislocation, Congenital",epinephrine
+Femoracetabular Impingement,epinephrine
+Drug Overdose,epinephrine
+"Cardiac Output, High",epinephrine
+Pulmonary Arterial Hypertension,epinephrine
+Familial Primary Pulmonary Hypertension,epinephrine
+Brain Neoplasms,epinephrine
+"Osteoarthritis, Hip",epinephrine
+Acute Pain,epinephrine
+"Aneurysm, Dissecting",epinephrine
+Varicose Veins,epinephrine
+Meningioma,epinephrine
+Paralysis,epinephrine
+Cerebral Palsy,epinephrine
+Acute Coronary Syndrome,epinephrine
+Syndrome,epinephrine
+No-Reflow Phenomenon,epinephrine
+Synovial Cyst,epinephrine
+Spinal Stenosis,epinephrine
+Spondylosis,epinephrine
+Radiculopathy,epinephrine
+Cataract,epinephrine
+"Tooth, Impacted",epinephrine
+Kidney Neoplasms,epinephrine
+"Carcinoma, Renal Cell",epinephrine
+"Arrhythmias, Cardiac",epinephrine
+Nasal Polyps,epinephrine
+"Pain, Procedural",epinephrine
+Trigger Finger Disorder,epinephrine
+Gastrointestinal Neoplasms,epinephrine
+Crohn Disease,epinephrine
+Intestinal Diseases,epinephrine
+Inflammatory Bowel Diseases,epinephrine
+Gastrointestinal Diseases,epinephrine
+Digestive System Diseases,epinephrine
+Neuralgia,epinephrine
+Shoulder Pain,epinephrine
+Abscess,epinephrine
+Rib Fractures,epinephrine
+Blepharoptosis,epinephrine
+Colonic Polyps,epinephrine
+Mouth Neoplasms,epinephrine
+Laryngitis,epinephrine
+Croup,epinephrine
+Joint Diseases,epinephrine
+Papilloma,epinephrine
+Postoperative Hemorrhage,epinephrine
+Shoulder Impingement Syndrome,epinephrine
+Liver Diseases,epinephrine
+End Stage Liver Disease,epinephrine
+Liver Cirrhosis,epinephrine
+Acute Kidney Injury,epinephrine
+Mydriasis,epinephrine
+Bacteremia,epinephrine
+Colonic Neoplasms,epinephrine
+Critical Illness,epinephrine
+Pancreatitis,epinephrine
+Nervous System Diseases,epinephrine
+Peripheral Nervous System Diseases,epinephrine
+Hip Injuries,epinephrine
+Cicatrix,epinephrine
+Nausea,epinephrine
+Vomiting,epinephrine
+Postoperative Nausea and Vomiting,epinephrine
+Gingival Recession,epinephrine
+Cervical Intraepithelial Neoplasia,epinephrine
+Urinary Incontinence,epinephrine
+"Urinary Incontinence, Stress",epinephrine
+Urinary Retention,epinephrine
+Oral Hemorrhage,epinephrine
+Heart Diseases,eplerenone
+"Heart Defects, Congenital",eplerenone
+Univentricular Heart,eplerenone
+Tetralogy of Fallot,eplerenone
+Transposition of Great Vessels,eplerenone
+Sleep Apnea Syndromes,eplerenone
+"Sleep Apnea, Obstructive",eplerenone
+"Hypertrophy, Left Ventricular",eplerenone
+Hypertrophy,eplerenone
+Systolic Murmurs,eplerenone
+Obesity,eplerenone
+Intervertebral Disc Degeneration,eplerenone
+Radiculopathy,eplerenone
+Back Pain,eplerenone
+Low Back Pain,eplerenone
+"Heart Failure, Diastolic",eplerenone
+Ventricular Remodeling,eplerenone
+Myocardial Ischemia,eplerenone
+Coronary Artery Disease,eplerenone
+Ischemia,eplerenone
+Chest Pain,eplerenone
+Ventricular Dysfunction,eplerenone
+"Ventricular Dysfunction, Left",eplerenone
+Insulin Resistance,eplerenone
+"Obesity, Abdominal",eplerenone
+Hyperaldosteronism,eplerenone
+Cardiovascular Diseases,eplerenone
+Overweight,eplerenone
+Aneurysm,eplerenone
+Aortic Aneurysm,eplerenone
+"Aortic Aneurysm, Abdominal",eplerenone
+Surgical Wound Infection,erythromycin
+Wound Infection,erythromycin
+Eyelid Diseases,erythromycin
+Wounds and Injuries,erythromycin
+Surgical Wound,erythromycin
+Blepharitis,erythromycin
+Nasopharyngeal Neoplasms,erythromycin
+Adenomatous Polyposis Coli,erythromycin
+Intraoperative Awareness,esmolol
+"Pain, Postoperative",esmolol
+Acute Coronary Syndrome,esmolol
+Vascular Diseases,esmolol
+Heart Diseases,esmolol
+Hemorrhagic Stroke,esmolol
+Myocardial Ischemia,esmolol
+Constipation,esmolol
+Vomiting,esmolol
+Tinnitus,esmolol
+"Reflex, Abnormal",esmolol
+"Shock, Cardiogenic",esmolol
+Drug Overdose,esmolol
+Gallstones,esmolol
+Cholelithiasis,esmolol
+Cholecystolithiasis,esmolol
+Cardiomyopathies,esmolol
+"Cardiomyopathy, Hypertrophic",esmolol
+Hypertrophy,esmolol
+Depression,omeprazole
+Myocardial Ischemia,omeprazole
+Coronary Disease,omeprazole
+Heart Diseases,omeprazole
+Tinea,omeprazole
+Tinea Pedis,omeprazole
+Tinea cruris,omeprazole
+Gout,omeprazole
+Eosinophilic Esophagitis,omeprazole
+Laryngopharyngeal Reflux,omeprazole
+Sinusitis,omeprazole
+"Obesity, Morbid",omeprazole
+Osteoarthritis,omeprazole
+Back Pain,omeprazole
+Low Back Pain,omeprazole
+Gastroparesis,omeprazole
+Osteoporosis,omeprazole
+Hip Fractures,omeprazole
+Hypoalbuminemia,omeprazole
+Stomach Diseases,omeprazole
+"Anemia, Iron-Deficiency",omeprazole
+Inflammation,omeprazole
+Hypothyroidism,omeprazole
+Intestinal Diseases,omeprazole
+Inflammatory Bowel Diseases,omeprazole
+Laryngitis,omeprazole
+Rotator Cuff Injuries,omeprazole
+Opioid-Related Disorders,omeprazole
+Respiratory Aspiration of Gastric Contents,omeprazole
+Hypersensitivity,omeprazole
+Food Hypersensitivity,omeprazole
+Liver Cirrhosis,ethylenediaminetetraacetic-acid
+Fibrosis,ethylenediaminetetraacetic-acid
+Heavy Metal Poisoning,ethylenediaminetetraacetic-acid
+Hypersensitivity,etodolac
+Cytokine Release Syndrome,etoposide
+Sprains and Strains,etoricoxib
+Headache,etoricoxib
+Hallux Valgus,etoricoxib
+Bunion,etoricoxib
+Rupture,etoricoxib
+"Ossification, Heterotopic",etoricoxib
+Ankle Injuries,etoricoxib
+Contusions,etoricoxib
+Appendicitis,etoricoxib
+Ovarian Cysts,etoricoxib
+Cholecystitis,etoricoxib
+Fibromyalgia,etoricoxib
+Myofascial Pain Syndromes,etoricoxib
+Tendinopathy,etoricoxib
+Periodontitis,etoricoxib
+Gout,etoricoxib
+Hepatitis A,etravirine
+Hepatitis C,etravirine
+Hepatitis B,etravirine
+"Hepatitis C, Chronic",etravirine
+Hepatitis,etravirine
+Heart Diseases,famotidine
+Coronary Disease,famotidine
+Coronary Artery Disease,famotidine
+Myocardial Ischemia,famotidine
+Myocardial Infarction,famotidine
+Acute Coronary Syndrome,famotidine
+Infarction,famotidine
+"Heart Defects, Congenital",famotidine
+Ulcer,famotidine
+Esophageal Motility Disorders,famotidine
+"Esophageal Spasm, Diffuse",famotidine
+"Pneumonia, Aspiration",famotidine
+Peptic Ulcer,famotidine
+Syndrome,famotidine
+Arthritis,famotidine
+"Arthritis, Juvenile",famotidine
+Respiratory Aspiration of Gastric Contents,famotidine
+Myocardial Infarction,fasudil
+ST Elevation Myocardial Infarction,fasudil
+Infarction,fasudil
+"Renal Insufficiency, Chronic",febuxostat
+Coronary Disease,febuxostat
+Coronary Artery Disease,febuxostat
+Myocardial Ischemia,febuxostat
+Urolithiasis,febuxostat
+Urinary Calculi,febuxostat
+Prehypertension,febuxostat
+Inflammation,febuxostat
+"Ventricular Dysfunction, Left",febuxostat
+Metabolic Syndrome,febuxostat
+Diabetes Mellitus,febuxostat
+"Diabetes Mellitus, Type 1",febuxostat
+COVID-19,felodipine
+Coronavirus Infections,felodipine
+"Hypertrophy, Left Ventricular",felodipine
+Hypertrophy,felodipine
+Coronary Artery Disease,fenoldopam
+Gout,fexofenadine
+Skin Diseases,fexofenadine
+"Arthritis, Gouty",fexofenadine
+Nerve Degeneration,fingolimod
+Diabetes Mellitus,fingolimod
+"Diabetes Mellitus, Type 2",fingolimod
+Neurobehavioral Manifestations,fingolimod
+Depression,fingolimod
+Depressive Disorder,fingolimod
+"Arrhythmias, Cardiac",flecainide
+Brugada Syndrome,flecainide
+Immunologic Deficiency Syndromes,fluconazole
+"Lung Diseases, Fungal",fluconazole
+Central Nervous System Fungal Infections,fluconazole
+Lung Diseases,fluconazole
+Bacterial Infections and Mycoses,fluconazole
+"Leukemia, Myeloid, Chronic-Phase",flumatinib
+Delirium,flumazenil
+Hypokinesia,flumazenil
+Fistula,flumazenil
+Bipolar Disorder,fluoxetine
+"Kidney Failure, Chronic",fluoxetine
+Substance-Related Disorders,fluoxetine
+Alcohol-Related Disorders,fluoxetine
+Premenstrual Dysphoric Disorder,fluoxetine
+Cytokine Release Syndrome,fluoxetine
+Sleep Initiation and Maintenance Disorders,fluoxetine
+Anorexia,fluoxetine
+Feeding and Eating Disorders,fluoxetine
+Anorexia Nervosa,fluoxetine
+Down Syndrome,fluoxetine
+Self Mutilation,fluoxetine
+Borderline Personality Disorder,fluoxetine
+Insulin Resistance,fluoxetine
+Inflammation,fluoxetine
+Weight Gain,fluoxetine
+Recurrence,fluoxetine
+Kidney Diseases,fluoxetine
+"Multiple Sclerosis, Relapsing-Remitting",fluoxetine
+Combat Disorders,fluoxetine
+Bulimia Nervosa,fluoxetine
+Schizophrenia Spectrum and Other Psychotic Disorders,fluphenazine
+Psychotic Disorders,fluspirilene
+Schizophrenia Spectrum and Other Psychotic Disorders,fluspirilene
+Premenstrual Syndrome,flutamide
+Premenstrual Dysphoric Disorder,flutamide
+"Depressive Disorder, Major",fluvoxamine
+Mental Disorders,fluvoxamine
+Cerebral Small Vessel Diseases,folic-acid
+Dyslipidemias,folic-acid
+Gout,folic-acid
+Intestinal Diseases,folic-acid
+Inflammatory Bowel Diseases,folic-acid
+Osteoarthritis,folic-acid
+Feeding and Eating Disorders,folic-acid
+Dyspepsia,folic-acid
+Infant Nutrition Disorders,folic-acid
+Hyperhomocysteinemia,folic-acid
+Retinal Diseases,folic-acid
+Diabetic Retinopathy,folic-acid
+Metabolic Syndrome,folic-acid
+Fetal Growth Retardation,folic-acid
+Essential Hypertension,folic-acid
+Hepatitis A,folic-acid
+Hepatitis C,folic-acid
+Hepatitis,folic-acid
+Urologic Diseases,folic-acid
+Acute Kidney Injury,folic-acid
+Postpartum Hemorrhage,folic-acid
+"Heart Failure, Diastolic",furosemide
+Proteinuria,furosemide
+Hypotension,furosemide
+Diabetic Nephropathies,furosemide
+"Kidney Tubular Necrosis, Acute",furosemide
+Necrosis,furosemide
+Apnea,furosemide
+Sleep Apnea Syndromes,furosemide
+"Sleep Apnea, Obstructive",furosemide
+Insulin Resistance,furosemide
+Coronary Vasospasm,furosemide
+Ventricular Dysfunction,furosemide
+"Ventricular Dysfunction, Right",furosemide
+Osteoarthritis,gabapentin
+Sensation Disorders,gabapentin
+Shoulder Pain,gabapentin
+Subarachnoid Hemorrhage,gabapentin
+Hemorrhage,gabapentin
+Headache,gabapentin
+Hand Injuries,gabapentin
+"Osteoarthritis, Knee",gabapentin
+Arthritis,gabapentin
+Necrosis,gabapentin
+Urethral Obstruction,gabapentin
+Cholecystolithiasis,gabapentin
+Cholelithiasis,gabapentin
+Gallstones,gabapentin
+"Diabetes Mellitus, Type 2",gabapentin
+Musculoskeletal Diseases,gabapentin
+Neoplasms,gabapentin
+Colonic Neoplasms,gabapentin
+Rectal Neoplasms,gabapentin
+Ileus,gabapentin
+Diverticulitis,gabapentin
+Diverticulum,gabapentin
+"Diverticulitis, Colonic",gabapentin
+Constipation,gabapentin
+Facial Pain,gabapentin
+Asthma,gabapentin
+Failed Back Surgery Syndrome,gabapentin
+Urethral Stricture,gabapentin
+Tissue Adhesions,gabapentin
+Abdominal Pain,gabapentin
+"Epilepsy, Complex Partial",gabapentin
+Puerperal Disorders,gabapentin
+Agnosia,gabapentin
+"Dilatation, Pathologic",gabapentin
+Tonsillitis,gabapentin
+"Fractures, Bone",gabapentin
+"Fractures, Multiple",gabapentin
+Kidney Calculi,gabapentin
+Nephrolithiasis,gabapentin
+Calculi,gabapentin
+Paresthesia,gabapentin
+Chest Pain,gabapentin
+Keratoconus,gabapentin
+Alzheimer Disease,gabapentin
+Radiculopathy,gabapentin
+Hernia,gabapentin
+Tarlov Cysts,gabapentin
+Cerebral Palsy,gabapentin
+Colitis,gabapentin
+"Colitis, Ulcerative",gabapentin
+Irritable Bowel Syndrome,gabapentin
+Cystitis,gabapentin
+"Cystitis, Interstitial",gabapentin
+Prostatitis,gabapentin
+Ulcer,gabapentin
+Herpes Simplex,gabapentin
+Herpes Zoster,gabapentin
+Complex Regional Pain Syndromes,gabapentin
+Reflex Sympathetic Dystrophy,gabapentin
+Viremia,ganciclovir
+Hematologic Diseases,ganciclovir
+Acute Kidney Injury,ganciclovir
+Multiple Organ Failure,ganciclovir
+DNA Virus Infections,ganciclovir
+Herpesviridae Infections,ganciclovir
+"Pneumonia, Viral",ganciclovir
+Fever,gatifloxacin
+Typhoid Fever,gatifloxacin
+Hyperthermia,gatifloxacin
+"Lymphohistiocytosis, Hemophagocytic",gemcitabine
+Atherosclerosis,gemfibrozil
+"Plaque, Atherosclerotic",gemfibrozil
+Gonorrhea,gemifloxacin
+Toxemia,genistein
+Sepsis,genistein
+Subarachnoid Hemorrhage,glibenclamide
+Hemorrhage,glibenclamide
+Pregnancy in Diabetics,glibenclamide
+Cardiomegaly,glibenclamide
+Obesity,glibenclamide
+Hypertrophy,glibenclamide
+Carotid Artery Diseases,glibenclamide
+Coronary Artery Disease,glibenclamide
+Myocardial Ischemia,glibenclamide
+Coronary Disease,glibenclamide
+Hypertension,glibenclamide
+Diabetic Nephropathies,gliclazide
+Liver Diseases,gliclazide
+Fatty Liver,gliclazide
+Non-alcoholic Fatty Liver Disease,gliclazide
+Angina Pectoris,gliclazide
+Osteoporosis,gliclazide
+"Bone Diseases, Metabolic",gliclazide
+Inflammation,glipizide
+"Diabetes Mellitus, Type 1",glipizide
+Hyperglycemia,glipizide
+Coronary Artery Disease,glipizide
+Myocardial Ischemia,glipizide
+Coronary Disease,glipizide
+Diabetes Mellitus,gliquidone
+"Diabetes Mellitus, Type 2",gliquidone
+Hypotension,glycopyrrolate
+Appendicitis,glycopyrrolate
+Critical Illness,glycopyrrolate
+Nausea,glycopyrrolate
+Vomiting,glycopyrrolate
+Postoperative Nausea and Vomiting,glycopyrrolate
+Coronary Artery Disease,glycopyrrolate
+Neoplasms,glycopyrrolate
+Urinary Bladder Neoplasms,glycopyrrolate
+Urologic Neoplasms,glycopyrrolate
+Delirium,glycopyrrolate
+Emergence Delirium,glycopyrrolate
+Body Weight,glycopyrrolate
+Abdominal Neoplasms,glycopyrrolate
+Seizures,glycopyrrolate
+Hydrocephalus,glycopyrrolate
+Epilepsy,glycopyrrolate
+Headache,glycopyrrolate
+Neurofibromatoses,glycopyrrolate
+Urinary Retention,glycopyrrolate
+Gallstones,glycopyrrolate
+Cholelithiasis,glycopyrrolate
+Cholecystolithiasis,glycopyrrolate
+Myofibroma,goserelin-acetate
+"Bulbo-Spinal Atrophy, X-Linked",goserelin-acetate
+Atrophy,goserelin-acetate
+Cross Infection,grazoprevir
+Substance-Related Disorders,grazoprevir
+"Substance Abuse, Intravenous",grazoprevir
+Cardiovascular Diseases,grazoprevir
+Coinfection,grazoprevir
+Metabolic Diseases,grazoprevir
+Hyperkinesis,haloperidol
+Depression,haloperidol
+"Stress Disorders, Traumatic",haloperidol
+"Stress Disorders, Post-Traumatic",haloperidol
+Abdominal Pain,haloperidol
+Gastroparesis,haloperidol
+Migraine Disorders,haloperidol
+Headache,haloperidol
+Behavioral Symptoms,haloperidol
+Alzheimer Disease,haloperidol
+Marijuana Abuse,haloperidol
+Postoperative Nausea and Vomiting,haloperidol
+Breast Neoplasms,haloperidol
+Labor Pain,haloperidol
+Anxiety Disorders,ibuprofen
+Knee Injuries,ibuprofen
+Gallbladder Diseases,ibuprofen
+Leiomyoma,ibuprofen
+Myofibroma,ibuprofen
+Adenomyosis,ibuprofen
+"Pain, Procedural",ibuprofen
+Intervertebral Disc Displacement,ibuprofen
+Radiculopathy,ibuprofen
+Drug-Related Side Effects and Adverse Reactions,ibuprofen
+Pituitary Neoplasms,ibuprofen
+Pituitary Diseases,ibuprofen
+Syndrome,ibuprofen
+Severe Acute Respiratory Syndrome,ibuprofen
+Rib Fractures,ibuprofen
+"Osteoarthritis, Hip",ibuprofen
+Lower Urinary Tract Symptoms,ibuprofen
+Myofascial Pain Syndromes,ibuprofen
+Fibromyalgia,ibuprofen
+Somatoform Disorders,ibuprofen
+Toxemia,ibuprofen
+"Hypertension, Pregnancy-Induced",ibuprofen
+Kidney Calculi,ibuprofen
+Otorhinolaryngologic Diseases,ibuprofen
+Intracranial Hemorrhages,ibuprofen
+Hematologic Diseases,ibuprofen
+Humeral Fractures,ibuprofen
+Urinary Tract Infections,ibuprofen
+Pelvic Pain,ibuprofen
+"Cardiac Complexes, Premature",ibuprofen
+HELLP Syndrome,ibuprofen
+Arthritis,ibuprofen
+Urethral Stricture,ibuprofen
+Shoulder Pain,ibuprofen
+Migraine without Aura,ibuprofen
+Obesity,ibuprofen
+Cystitis,ibuprofen
+"Hernia, Inguinal",ibuprofen
+"Influenza, Human",ibuprofen
+Birth Weight,ibuprofen
+Nausea,ibuprofen
+Constipation,ibuprofen
+Depression,ibuprofen
+Mycoses,ibuprofen
+Bacterial Infections,ibuprofen
+Bacterial Infections and Mycoses,ibuprofen
+Streptococcal Infections,ibuprofen
+Infertility,ibuprofen
+"Infertility, Female",ibuprofen
+Heart Diseases,ibuprofen
+Myocardial Ischemia,ibuprofen
+Coronary Artery Disease,ibuprofen
+"Seizures, Febrile",ibuprofen
+Postoperative Complications,ibuprofen
+"Fractures, Multiple",ibuprofen
+Intestinal Diseases,ibuprofen
+Inflammatory Bowel Diseases,ibuprofen
+Nail Diseases,ibuprofen
+"Nails, Malformed",ibuprofen
+Rotator Cuff Injuries,ibuprofen
+Diverticulitis,ibuprofen
+"Obesity, Morbid",ibuprofen
+Sciatica,ibuprofen
+Delirium,ibuprofen
+Hip Fractures,ibuprofen
+Torticollis,ibuprofen
+"Multiple Sclerosis, Relapsing-Remitting",ibuprofen
+"Abnormalities, Drug-Induced",ibutilide
+Panniculitis,ifosfamide
+Respiration Disorders,imatinib
+Respiratory Tract Diseases,imatinib
+Polyneuropathies,imipramine
+Foot Diseases,imiquimod
+Alopecia,imiquimod
+Alopecia Areata,imiquimod
+Hyperplasia,imiquimod
+COVID-19,indapamide
+Coronavirus Infections,indapamide
+Renal Insufficiency,indapamide
+Hemophilia A,indinavir
+HIV-Associated Lipodystrophy Syndrome,indinavir
+Lipodystrophy,indinavir
+Atherosclerosis,indobufen
+Coronary Artery Disease,indobufen
+Myocardial Ischemia,indobufen
+Gastroesophageal Reflux,indobufen
+"Esophagitis, Peptic",indobufen
+Stroke,indobufen
+Ischemic Stroke,indobufen
+Cerebral Infarction,indobufen
+Ischemia,indobufen
+Sprains and Strains,indometacin
+Ankle Injuries,indometacin
+Macular Edema,indometacin
+Pregnancy Complications,indometacin
+Obstetric Labor Complications,indometacin
+Uterine Cervical Incompetence,indometacin
+Enuresis,indometacin
+Urinary Incontinence,indometacin
+Nocturnal Enuresis,indometacin
+Heat Stress Disorders,indometacin
+Tennis Elbow,indometacin
+"Osteoarthritis, Knee",indometacin
+Cataract,indometacin
+Obesity,irbesartan
+Coronavirus Infections,irbesartan
+"Diabetes Mellitus, Type 2",irbesartan
+Respiration Disorders,irbesartan
+Respiratory Tract Diseases,irbesartan
+"Obesity, Abdominal",irbesartan
+Myocardial Infarction,irbesartan
+Infarction,irbesartan
+Diabetes Mellitus,irbesartan
+Albuminuria,irbesartan
+Insulin Resistance,irbesartan
+Hypersensitivity,irbesartan
+Dyslipidemias,irbesartan
+"Hypertrophy, Left Ventricular",irbesartan
+Hypertrophy,irbesartan
+Heart Diseases,irbesartan
+Metabolic Syndrome,irbesartan
+Wounds and Injuries,irsogladine
+Alcoholism,isoniazid
+"Diabetes Mellitus, Type 2",isoniazid
+Inflammation,isoniazid
+Opioid-Related Disorders,isoniazid
+"Behavior, Addictive",isoniazid
+Hepatitis A,isoniazid
+Hepatitis,isoniazid
+Immunologic Deficiency Syndromes,isoniazid
+Kidney Diseases,isoniazid
+"Kidney Failure, Chronic",isoniazid
+"Tuberculosis, Spinal",isoniazid
+Reinfection,isoniazid
+Renal Insufficiency,isoniazid
+Heart Diseases,isosorbide-mononitrate
+"Angina, Unstable",isosorbide-mononitrate
+Atherosclerosis,isosorbide-mononitrate
+Insulin Resistance,isosorbide-mononitrate
+Metabolic Syndrome,isosorbide-mononitrate
+Coronary Stenosis,isosorbide-mononitrate
+"Constriction, Pathologic",isosorbide-mononitrate
+Pre-Eclampsia,isosorbide-mononitrate
+"Obstetric Labor, Premature",isosorbide-mononitrate
+"Hypertension, Portal",isosorbide-mononitrate
+Gastrointestinal Hemorrhage,isosorbide-mononitrate
+Hemorrhage,isosorbide-mononitrate
+Pulmonary Edema,isosorbide-mononitrate
+Edema,isosorbide-mononitrate
+Bone Diseases,isosorbide-mononitrate
+Diabetes Mellitus,isosorbide-mononitrate
+"Diabetes Mellitus, Type 2",isosorbide-mononitrate
+Stillbirth,isosorbide-mononitrate
+Fetal Death,isosorbide-mononitrate
+Death,isosorbide-mononitrate
+Graft vs Host Disease,itraconazole
+Brain Neoplasms,itraconazole
+Neuroblastoma,itraconazole
+Wilms Tumor,itraconazole
+Retinoblastoma,itraconazole
+Acute Disease,ivacaftor
+Critical Illness,ketanserin
+Temporomandibular Joint Disorders,ketoprofen
+Temporomandibular Joint Dysfunction Syndrome,ketoprofen
+Neuralgia,ketoprofen
+Lymphedema,ketoprofen
+Sciatica,ketoprofen
+Agnosia,ketoprofen
+Tooth Loss,ketoprofen
+Tendinopathy,ketorolac
+Low Back Pain,ketorolac
+Hemorrhage,ketorolac
+Postpartum Hemorrhage,ketorolac
+Hemostatic Disorders,ketorolac
+Blood Coagulation Disorders,ketorolac
+Postoperative Hemorrhage,ketorolac
+Carpal Tunnel Syndrome,ketorolac
+Radius Fractures,ketorolac
+Tension-Type Headache,ketorolac
+Sleep Wake Disorders,ketorolac
+Urinary Incontinence,ketorolac
+Enuresis,ketorolac
+"Urinary Incontinence, Stress",ketorolac
+Prolapse,ketorolac
+Pelvic Organ Prolapse,ketorolac
+Brain Neoplasms,ketorolac
+Sleep Apnea Syndromes,ketorolac
+"Sleep Apnea, Obstructive",ketorolac
+Musculoskeletal Pain,ketorolac
+Hip Dislocation,ketorolac
+Developmental Dysplasia of the Hip,ketorolac
+"Hip Dislocation, Congenital",ketorolac
+Paralysis,ketorolac
+Cerebral Palsy,ketorolac
+"Heart Defects, Congenital",ketorolac
+Myofascial Pain Syndromes,ketorolac
+Fibromyalgia,ketorolac
+Syndrome,ketorolac
+Somatoform Disorders,ketorolac
+Cleft Lip,ketorolac
+Necrosis,ketorolac
+Ureteral Calculi,ketorolac
+Ureterolithiasis,ketorolac
+Blindness,ketorolac
+Retinal Detachment,ketorolac
+Premature Birth,ketorolac
+Malocclusion,ketorolac
+Coronary Artery Disease,ketorolac
+Joint Diseases,ketorolac
+Hypertrophy,ketorolac
+"Anemia, Sickle Cell",ketorolac
+Hematologic Diseases,ketorolac
+Substance Withdrawal Syndrome,ketorolac
+Pelvic Pain,ketorolac
+Neoplasms,ketorolac
+Colonic Neoplasms,ketorolac
+Rectal Neoplasms,ketorolac
+Ileus,ketorolac
+Diverticulitis,ketorolac
+Diverticulum,ketorolac
+"Diverticulitis, Colonic",ketorolac
+Constipation,ketorolac
+Vomiting,ketorolac
+Migraine with Aura,ketorolac
+Migraine without Aura,ketorolac
+Hyperopia,ketorolac
+Diabetes Mellitus,ketorolac
+"Diabetes Mellitus, Type 2",ketorolac
+Cystitis,ketorolac
+"Cystitis, Interstitial",ketorolac
+Macular Degeneration,ketorolac
+Wet Macular Degeneration,ketorolac
+Infertility,ketorolac
+"Infertility, Female",ketorolac
+Hernia,ketorolac
+Hematologic Neoplasms,ketorolac
+Rib Fractures,ketorolac
+"Fractures, Multiple",ketorolac
+"Hernia, Abdominal",ketorolac
+Internal Hernia,ketorolac
+Knee Injuries,ketorolac
+Hyperalgesia,ketorolac
+Mydriasis,ketorolac
+Opioid-Related Disorders,ketorolac
+Keratoconus,ketorolac
+Hematoma,ketorolac
+Otitis Media,ketorolac
+Pharyngitis,ketorolac
+Gallstones,ketorolac
+Cholelithiasis,ketorolac
+Cholecystolithiasis,ketorolac
+Myocardial Infarction,ketotifen
+ST Elevation Myocardial Infarction,ketotifen
+Infarction,ketotifen
+Asthma,ketotifen
+Dengue,ketotifen
+Pleural Effusion,ketotifen
+Fever,ketotifen
+Hyperthermia,ketotifen
+Emergencies,labetalol
+Heart Diseases,labetalol
+"Heart Failure, Diastolic",labetalol
+Cerebral Infarction,labetalol
+Respiratory Insufficiency,lacosamide
+Respiratory Aspiration of Gastric Contents,lafutidine
+Malnutrition,lamivudine
+HIV-Associated Lipodystrophy Syndrome,lamivudine
+Cardiovascular Diseases,lamivudine
+Vascular Diseases,lamivudine
+Cardiovascular Abnormalities,lamivudine
+Congenital Abnormalities,lamivudine
+Body Weight,lamivudine
+Body Weight Changes,lamivudine
+Drug-Related Side Effects and Adverse Reactions,lamivudine
+"Renal Insufficiency, Chronic",lamivudine
+Weight Gain,lamivudine
+Hemophilia A,lamivudine
+Nervous System Diseases,lamivudine
+Central Nervous System Diseases,lamivudine
+Coinfection,lamivudine
+Dyslipidemias,lamivudine
+Metabolic Diseases,lamivudine
+Glucose Metabolism Disorders,lamivudine
+Proteinuria,lamivudine
+Carcinoma,lamivudine
+Immune Reconstitution Inflammatory Syndrome,lamivudine
+"Meningitis, Cryptococcal",lamivudine
+Meningitis,lamivudine
+Acidosis,lamivudine
+"Acidosis, Lactic",lamivudine
+Liver Diseases,lamivudine
+Hepatitis C,lamivudine
+Cardiomyopathies,lamivudine
+Osteoporosis,lamivudine
+"Depressive Disorder, Major",lamotrigine
+Asthma,lamotrigine
+Memory Disorders,lamotrigine
+Personality Disorders,lamotrigine
+Borderline Personality Disorder,lamotrigine
+Cerebral Palsy,lamotrigine
+Retinal Diseases,latanoprost
+Diabetic Retinopathy,latanoprost
+"Glaucoma, Angle-Closure",latanoprost
+Eye Diseases,latanoprost
+Graves Ophthalmopathy,latanoprost
+Thyroid Diseases,latanoprost
+Uveitis,latanoprost
+"Uveitis, Anterior",latanoprost
+Dry Eye Syndromes,latanoprost
+Keratoconjunctivitis Sicca,latanoprost
+Alopecia,latanoprost
+Alopecia Areata,latanoprost
+Insulin Resistance,ledipasvir
+Lung Diseases,ledipasvir
+"Pulmonary Disease, Chronic Obstructive",ledipasvir
+"Lung Diseases, Interstitial",ledipasvir
+Heart Failure,ledipasvir
+Cardiovascular Diseases,ledipasvir
+"Carcinoma, Hepatocellular",ledipasvir
+Gaucher Disease,ledipasvir
+Renal Insufficiency,leflunomide
+Glomerulonephritis,leflunomide
+"Renal Insufficiency, Chronic",leflunomide
+"Glomerulonephritis, IGA",leflunomide
+Immunoglobulin G4-Related Disease,leflunomide
+COVID-19,lenalidomide
+Kidney Diseases,lesinurad
+"Renal Insufficiency, Chronic",lesinurad
+Neutropenia,letermovir
+Ovarian Diseases,letrozole
+Eunuchism,letrozole
+Ovarian Cysts,letrozole
+Ascariasis,levamisole
+Trichuriasis,levamisole
+Ascaridiasis,levamisole
+Intracranial Aneurysm,levetiracetam
+Aneurysm,levetiracetam
+"Hematoma, Subdural",levetiracetam
+"Hematoma, Subdural, Chronic",levetiracetam
+Hematoma,levetiracetam
+Mania,levetiracetam
+Memory Disorders,levetiracetam
+Body Dysmorphic Disorders,levetiracetam
+Spinal Cord Injuries,levetiracetam
+Spinal Injuries,levetiracetam
+Tourette Syndrome,levetiracetam
+Tic Disorders,levetiracetam
+Pain,levetiracetam
+Emergencies,levetiracetam
+Subarachnoid Hemorrhage,levetiracetam
+Multiple Sclerosis,levetiracetam
+Renal Insufficiency,levetiracetam
+Vitamin D Deficiency,levocetirizine
+Hypersensitivity,levocetirizine
+Pruritus,levocetirizine
+Otitis,levocetirizine
+Otitis Media,levocetirizine
+Otitis Media with Effusion,levocetirizine
+Dry Eye Syndromes,levofloxacin
+Keratoconjunctivitis Sicca,levofloxacin
+"Pneumonia, Aspiration",levofloxacin
+Cholangitis,levofloxacin
+Hypoglycemia,levofloxacin
+Hyperglycemia,levofloxacin
+Peptic Ulcer,levofloxacin
+Head and Neck Neoplasms,levofloxacin
+Mucositis,levofloxacin
+Stomatitis,levofloxacin
+Bronchiectasis,levofloxacin
+Disease Susceptibility,levofloxacin
+Substance-Related Disorders,levofloxacin
+"Substance Abuse, Intravenous",levofloxacin
+Virus Diseases,levofloxacin
+Urinary Bladder Neoplasms,levofloxacin
+Cystitis,levofloxacin
+Critical Illness,levofloxacin
+Hypersensitivity,levofloxacin
+"Pneumonia, Pneumococcal",levofloxacin
+Viremia,levofloxacin
+"Eye Injuries, Penetrating",levofloxacin
+Prostatic Neoplasms,levofloxacin
+Pleuropneumonia,levofloxacin
+"Pneumonia, Mycoplasma",levofloxacin
+Carcinoma,levofloxacin
+Mucositis,levonorgestrel
+Inflammation,levonorgestrel
+Leiomyoma,levonorgestrel
+Myofibroma,levonorgestrel
+Obesity,levonorgestrel
+Thinness,levonorgestrel
+Hot Flashes,levonorgestrel
+Body Weight,levonorgestrel
+Recurrence,levonorgestrel
+Congenital Abnormalities,lidocaine
+Stomatognathic Diseases,lidocaine
+Dental Pulp Diseases,lidocaine
+Dyssomnias,lidocaine
+Parasomnias,lidocaine
+Cardiovascular Diseases,lidocaine
+"Arrhythmias, Cardiac",lidocaine
+"Aneurysm, Dissecting",lidocaine
+Endophthalmitis,lidocaine
+Facial Pain,lidocaine
+Headache Disorders,lidocaine
+Arteriovenous Fistula,lidocaine
+Fistula,lidocaine
+Hypotension,lidocaine
+Diabetes Complications,lidocaine
+Nasopharyngeal Diseases,lidocaine
+Nausea,lidocaine
+Postoperative Nausea and Vomiting,lidocaine
+Facies,lidocaine
+Thyroid Neoplasms,lidocaine
+Trigger Finger Disorder,lidocaine
+Spondylitis,lidocaine
+Spondylarthritis,lidocaine
+Opioid-Related Disorders,lidocaine
+Peripheral Nerve Injuries,lidocaine
+Varicose Veins,lidocaine
+Cerebrospinal Fluid Leak,lidocaine
+Coronary Artery Disease,lidocaine
+Aneurysm,lidocaine
+Aortic Aneurysm,lidocaine
+"Aortic Aneurysm, Abdominal",lidocaine
+"Plaque, Atherosclerotic",lidocaine
+Toothache,lidocaine
+Keloid,lidocaine
+Cicatrix,lidocaine
+Hypertrophy,lidocaine
+"Cicatrix, Hypertrophic",lidocaine
+Peripheral Vascular Diseases,lidocaine
+Substance-Related Disorders,lidocaine
+Pneumonia,lidocaine
+Lung Injury,lidocaine
+Abdominal Neoplasms,lidocaine
+Seizures,lidocaine
+Hydrocephalus,lidocaine
+Epilepsy,lidocaine
+Neurofibromatoses,lidocaine
+Necrosis,lidocaine
+Alopecia,lidocaine
+Epidermal Cyst,lidocaine
+Granuloma,lidocaine
+Alopecia Areata,lidocaine
+Lichen Planus,lidocaine
+Prurigo,lidocaine
+Granuloma Annulare,lidocaine
+Neurodermatitis,lidocaine
+Keratoacanthoma,lidocaine
+Appendicitis,lidocaine
+Asthenia,lidocaine
+Multiple Sclerosis,lidocaine
+Sclerosis,lidocaine
+Acne Vulgaris,lidocaine
+Blepharoptosis,lidocaine
+Cholecystolithiasis,lidocaine
+Cholelithiasis,lidocaine
+Gallstones,lidocaine
+Arthralgia,lidocaine
+Retinal Detachment,lidocaine
+Urolithiasis,lidocaine
+Muscle Hypotonia,lidocaine
+Uterine Neoplasms,lidocaine
+"Reflex, Abnormal",lidocaine
+Rectal Fistula,lidocaine
+Rectal Neoplasms,lidocaine
+Ileus,lidocaine
+Diverticulum,lidocaine
+"Diverticulitis, Colonic",lidocaine
+Constipation,lidocaine
+Osteoporotic Fractures,lidocaine
+"Infertility, Female",lidocaine
+Prostatic Hyperplasia,lidocaine
+Hyperplasia,lidocaine
+Ankle Fractures,lidocaine
+Papilloma,lidocaine
+Pneumoperitoneum,lidocaine
+"Nose Deformities, Acquired",lidocaine
+Facial Paralysis,lidocaine
+Paresis,lidocaine
+Cholecystitis,lidocaine
+Hallux Valgus,lidocaine
+Psychomotor Agitation,lidocaine
+Adenocarcinoma,lidocaine
+Whiplash Injuries,lidocaine
+"Constriction, Pathologic",lidocaine
+"Hernia, Hiatal",lidocaine
+Kidney Neoplasms,lidocaine
+Joint Dislocations,lidocaine
+Shoulder Dislocation,lidocaine
+Flushing,lidocaine
+"Lymphoma, Non-Hodgkin",lidocaine
+Pudendal Neuralgia,lidocaine
+Tenosynovitis,lidocaine
+Myoclonus,lidocaine
+Bacteremia,lidocaine
+Nerve Compression Syndromes,lidocaine
+Charcot-Marie-Tooth Disease,lidocaine
+Hereditary Sensory and Motor Neuropathy,lidocaine
+Urinary Bladder Neoplasms,lidocaine
+"Tooth, Impacted",lidocaine
+Periodontal Diseases,lidocaine
+Critical Illness,lidocaine
+Cutis Laxa,lidocaine
+Clubfoot,lidocaine
+Talipes,lidocaine
+Equinus Deformity,lidocaine
+Foot Deformities,lidocaine
+Acne Keloid,lidocaine
+Pelvic Floor Disorders,lidocaine
+Cystocele,lidocaine
+Uterine Prolapse,lidocaine
+Urinary Retention,lidocaine
+Brain Injuries,lidocaine
+"Brain Injuries, Traumatic",lidocaine
+Oral Hemorrhage,lidocaine
+Hemorrhage,lidocaine
+Coronary Artery Disease,linagliptin
+Myocardial Ischemia,linagliptin
+Coronary Disease,linagliptin
+"Kidney Failure, Chronic",linagliptin
+Polycystic Ovary Syndrome,linagliptin
+Syndrome,linagliptin
+Diabetic Nephropathies,linagliptin
+Osteoporosis,linagliptin
+"Endocarditis, Bacterial",linezolid
+Endocarditis,linezolid
+Critical Illness,linezolid
+Substance-Related Disorders,linezolid
+"Substance Abuse, Intravenous",linezolid
+Connective Tissue Diseases,linezolid
+Catheter-Related Infections,linezolid
+Urinary Tract Infections,linezolid
+Coronary Artery Disease,lisinopril
+Ischemia,lisinopril
+"Heart Failure, Systolic",lisinopril
+Systolic Murmurs,lisinopril
+Coronavirus Infections,lisinopril
+Proteinuria,lisinopril
+Intracranial Arteriosclerosis,lisinopril
+Heart Diseases,lisinopril
+Arteriosclerosis,lisinopril
+Ventricular Dysfunction,lisinopril
+Glucose Intolerance,lisinopril
+Fibrosis,lisinopril
+Neoplasm Metastasis,lisinopril
+Deglutition Disorders,lisinopril
+"Glomerulonephritis, IGA",lisinopril
+Multiple Sclerosis,loperamide
+"Multiple Sclerosis, Relapsing-Remitting",loperamide
+Substance Withdrawal Syndrome,loperamide
+Dysentery,loperamide
+Malnutrition,lopinavir
+Opportunistic Infections,lopinavir
+AIDS-Related Opportunistic Infections,lopinavir
+HIV-Associated Lipodystrophy Syndrome,lopinavir
+Lipodystrophy,lopinavir
+Cardiovascular Diseases,lopinavir
+Congenital Abnormalities,lopinavir
+Dyslipidemias,lopinavir
+Metabolic Diseases,lopinavir
+Glucose Metabolism Disorders,lopinavir
+Proteinuria,lopinavir
+Coinfection,lopinavir
+Hypersensitivity,loratadine
+"Conjunctivitis, Allergic",loratadine
+Cognition Disorders,lorazepam
+Cognitive Dysfunction,lorazepam
+Alcohol Drinking,lorazepam
+Depression,lorazepam
+Alcohol Withdrawal Delirium,lorazepam
+Mental Disorders,lorazepam
+Mood Disorders,lorazepam
+Dyssomnias,lorazepam
+Parasomnias,lorazepam
+Heart Arrest,lorazepam
+Hypothermia,lorazepam
+Coronary Artery Disease,losartan
+Ischemia,losartan
+Respiratory Aspiration,losartan
+Sleep Wake Disorders,losartan
+Hypoxia,losartan
+Pulmonary Emphysema,losartan
+Emphysema,losartan
+Bronchitis,losartan
+"Bronchitis, Chronic",losartan
+Acute Disease,losartan
+Aortic Valve Stenosis,losartan
+Psychotic Disorders,losartan
+Mental Disorders,losartan
+Disease,losartan
+Schizophrenia,losartan
+Depressive Disorder,losartan
+"Depressive Disorder, Major",losartan
+Bipolar Disorder,losartan
+"Kidney Failure, Chronic",losartan
+Respiration Disorders,losartan
+Respiratory Tract Diseases,losartan
+Hyperaldosteronism,losartan
+Insulin Resistance,losartan
+Liver Cirrhosis,losartan
+"Liver Cirrhosis, Alcoholic",losartan
+Ascites,losartan
+Hepatitis A,losartan
+Hepatitis C,losartan
+"Hepatitis C, Chronic",losartan
+Hepatitis,losartan
+"Hepatitis, Chronic",losartan
+Glucose Intolerance,losartan
+Kidney Calculi,losartan
+Nephrolithiasis,losartan
+Calculi,losartan
+Hyperglycemia,losartan
+"Cardiac Output, Low",losartan
+Systolic Murmurs,losartan
+Cerebral Infarction,losartan
+Carotid Stenosis,losartan
+Atherosclerosis,losartan
+Heart Diseases,losartan
+Crohn Disease,losartan
+Colitis,losartan
+"Colitis, Ulcerative",losartan
+Ulcer,losartan
+Spondylitis,loxoprofen
+Spondylarthritis,loxoprofen
+"Spondylitis, Ankylosing",loxoprofen
+Tinea cruris,luliconazole
+Weight Gain,lurasidone
+Mania,lurasidone
+Ventricular Remodeling,macitentan
+Acquired Immunodeficiency Syndrome,mannitol-D
+HIV Infections,mannitol-D
+Communicable Diseases,mannitol-D
+Infections,mannitol-D
+Cholestasis,mannitol-D
+Parasitic Diseases,mebendazole
+"Intestinal Diseases, Parasitic",mebendazole
+Intestinal Diseases,mebendazole
+Malnutrition,mebendazole
+Amebiasis,mebendazole
+"Dysentery, Amebic",mebendazole
+Spinal Cord Injuries,mecamylamine
+Autonomic Dysreflexia,mecamylamine
+Drug-Related Side Effects and Adverse Reactions,meclizine
+Parasitic Diseases,mefloquine
+Carotid Stenosis,melatonin
+Ischemic Stroke,melatonin
+Cerebral Infarction,melatonin
+Vascular System Injuries,melatonin
+Endotoxemia,melatonin
+Arteriosclerosis,melatonin
+Coronary Artery Disease,melatonin
+Calcinosis,melatonin
+Infertility,melatonin
+Liver Diseases,melatonin
+Dementia,melatonin
+Mood Disorders,melatonin
+Bipolar Disorder,melatonin
+Lennox Gastaut Syndrome,melatonin
+Fetal Growth Retardation,melatonin
+Herpes Simplex,melatonin
+Herpes Genitalis,melatonin
+Hypokinesia,melatonin
+Psychomotor Agitation,melatonin
+Seizures,melatonin
+"Seizures, Febrile",melatonin
+Hyperthermia,melatonin
+"Epilepsy, Generalized",melatonin
+"Osteoporosis, Postmenopausal",melatonin
+Stomatognathic Diseases,mepivacaine
+Dental Pulp Diseases,mepivacaine
+Drug-Related Side Effects and Adverse Reactions,mepivacaine
+Nausea,mepivacaine
+Vomiting,mepivacaine
+Postoperative Nausea and Vomiting,mepivacaine
+Urinary Bladder Neoplasms,mepivacaine
+Hypertension,mepivacaine
+Neuroma,mepivacaine
+Morton Neuroma,mepivacaine
+Varicose Veins,mepivacaine
+"Arrhythmias, Cardiac",mepivacaine
+Uterine Diseases,mepivacaine
+Pulpitis,mepivacaine
+"Pain, Postoperative",mepivacaine
+Prostatic Neoplasms,mepivacaine
+Gingival Recession,mepivacaine
+Arthritis,mepivacaine
+Intestinal Diseases,mercaptopurine
+Inflammatory Bowel Diseases,mercaptopurine
+Pancreatitis,mercaptopurine
+Dysphonia,mestinon
+Hoarseness,mestinon
+Dystonia,mestinon
+Muscle Weakness,mestinon
+Aneurysm,metamizole
+Aortic Aneurysm,metamizole
+"Aortic Aneurysm, Abdominal",metamizole
+"Plaque, Atherosclerotic",metamizole
+Hernia,metamizole
+Pre-Eclampsia,metamizole
+Fever,metamizole
+Colic,metamizole
+Renal Colic,metamizole
+Back Pain,metamizole
+Low Back Pain,metamizole
+Stroke,metamizole
+Ischemic Stroke,metamizole
+Delirium,metamizole
+Hip Fractures,metamizole
+Shoulder Pain,metamizole
+Respiratory Insufficiency,metamizole
+Peri-Implantitis,metformin
+Hypoglycemia,metformin
+Acne Vulgaris,metformin
+Thyroid Nodule,metformin
+Nephritis,metformin
+Lupus Nephritis,metformin
+Altitude Sickness,metformin
+Acromegaly,metformin
+"Angina, Unstable",metformin
+Mood Disorders,metformin
+"Fractures, Bone",metformin
+Amenorrhea,metformin
+Albuminuria,metformin
+Heart Diseases,metformin
+Thalassemia,metformin
+beta-Thalassemia,metformin
+Thiamine Deficiency,metformin
+Beriberi,metformin
+Thrombosis,metformin
+Reperfusion Injury,metformin
+Ischemia,metformin
+Metaplasia,metformin
+"Abortion, Habitual",metformin
+Peripheral Vascular Diseases,metformin
+Mental Disorders,metformin
+Ketosis,metformin
+Gonadal Disorders,metformin
+Melanosis,metformin
+Diabetes Complications,metformin
+Carotid Artery Diseases,metformin
+Congenital Abnormalities,metformin
+"Lupus Erythematosus, Systemic",metformin
+Ataxia,metformin
+Cerebellar Ataxia,metformin
+Ataxia Telangiectasia,metformin
+Telangiectasis,metformin
+Acidosis,metformin
+"Acidosis, Lactic",metformin
+Masked Hypertension,metformin
+Hepatic Encephalopathy,metformin
+Acanthosis Nigricans,metformin
+"Hypertrophy, Left Ventricular",metformin
+Hypertrophy,metformin
+"Hypertension, Pulmonary",methazolamide
+Fatigue,methazolamide
+Substance Withdrawal Syndrome,methimazole
+"Goiter, Nodular",methimazole
+Hernia,methocarbamol
+"Hernia, Inguinal",methocarbamol
+"Hernia, Ventral",methocarbamol
+Low Back Pain,methocarbamol
+Back Pain,methocarbamol
+Acute Pain,methocarbamol
+"Fractures, Bone",methocarbamol
+Rib Fractures,methocarbamol
+Wounds and Injuries,methocarbamol
+"Lymphoma, T-Cell, Peripheral",methoxsalen
+Eclampsia,methyldopa
+Esophageal Diseases,metoclopramide
+Substance Withdrawal Syndrome,metoclopramide
+Angina Pectoris,metoclopramide
+"Angina, Unstable",metoclopramide
+Myocardial Infarction,metoclopramide
+ST Elevation Myocardial Infarction,metoclopramide
+Infarction,metoclopramide
+Psychomotor Agitation,metoclopramide
+"Pain, Postoperative",metoclopramide
+Tension-Type Headache,metoclopramide
+Breast Neoplasms,metoclopramide
+Premature Birth,metoclopramide
+Prostatic Neoplasms,metoclopramide
+Pneumonia,metoclopramide
+"Pneumonia, Aspiration",metoclopramide
+Stroke,metoclopramide
+COVID-19,metolazone
+Coronavirus Infections,metolazone
+Cardiovascular Diseases,metolazone
+"Cardiomyopathy, Dilated",metoprolol
+Hypotension,metoprolol
+Nasal Polyps,metoprolol
+ST Elevation Myocardial Infarction,metoprolol
+Non-ST Elevated Myocardial Infarction,metoprolol
+Cystitis,metoprolol
+"Cystitis, Interstitial",metoprolol
+Pelvic Pain,metoprolol
+Coronary Artery Disease,metoprolol
+Myocardial Ischemia,metoprolol
+"Angina, Unstable",metoprolol
+"Lung Diseases, Obstructive",metoprolol
+Aortic Valve Insufficiency,metoprolol
+Ventricular Remodeling,metoprolol
+"Arrhythmias, Cardiac",metoprolol
+Vascular Diseases,metoprolol
+Graves Disease,metoprolol
+Eye Diseases,metoprolol
+Graves Ophthalmopathy,metoprolol
+Drug Overdose,metoprolol
+Intracranial Arteriosclerosis,metoprolol
+Arteriosclerosis,metoprolol
+Ventricular Dysfunction,metoprolol
+"Ventricular Dysfunction, Left",metoprolol
+Metabolic Syndrome,metoprolol
+Insulin Resistance,metoprolol
+Syncope,metoprolol
+"Syncope, Vasovagal",metoprolol
+Migraine Disorders,metoprolol
+"Foramen Ovale, Patent",metoprolol
+Myocardial Stunning,metoprolol
+Puerperal Infection,metronidazole
+Parasitic Diseases,metronidazole
+Peri-Implantitis,metronidazole
+Rabies,metronidazole
+Blastocystis Infections,metronidazole
+Skin Manifestations,metronidazole
+Inflammation,metronidazole
+Dysbiosis,metronidazole
+Dientamoebiasis,metronidazole
+Digestive System Diseases,metronidazole
+Gastrointestinal Diseases,metronidazole
+Hemorrhage,metronidazole
+Asthma,metronidazole
+"Angioedemas, Hereditary",metronidazole
+Peritonitis,metronidazole
+Cholecystitis,metronidazole
+Acalculous Cholecystitis,metronidazole
+Herpes Simplex,metronidazole
+Irritable Bowel Syndrome,metronidazole
+"Abortion, Septic",metronidazole
+Dyspepsia,metronidazole
+Hypersensitivity,metronidazole
+Stomach Ulcer,metronidazole
+Duodenal Ulcer,metronidazole
+"Anemia, Iron-Deficiency",metronidazole
+Pancreatitis,metronidazole
+"Pancreatitis, Acute Necrotizing",metronidazole
+Wound Infection,metronidazole
+Mucositis,metronidazole
+"Scleroderma, Systemic",metronidazole
+"Scleroderma, Diffuse",metronidazole
+Sclerosis,metronidazole
+Periapical Abscess,metronidazole
+"Pain, Postoperative",metronidazole
+Disease Progression,metronidazole
+Thrombosis,metronidazole
+Coronary Thrombosis,metronidazole
+Surgical Wound,metronidazole
+Dyssomnias,mianserin
+Parasomnias,mianserin
+Depressive Disorder,mianserin
+"Stress Disorders, Traumatic",mianserin
+"Stress Disorders, Post-Traumatic",mianserin
+"Dermatitis, Atopic",miconazole
+Eczema,miconazole
+Skin Diseases,miconazole
+"Skin Diseases, Eczematous",miconazole
+Recurrence,miconazole
+Diaper Rash,miconazole
+Melanosis,miconazole
+Renal Insufficiency,miconazole
+"Kidney Failure, Chronic",miconazole
+Hypothermia,midodrine
+Cognitive Dysfunction,midodrine
+Quadriplegia,midodrine
+Vasoplegia,midodrine
+Hepatic Encephalopathy,midodrine
+Gastrointestinal Hemorrhage,midodrine
+Brain Diseases,midodrine
+Hyponatremia,midodrine
+"Gangliosidosis, GM1",miglustat
+Spinal Diseases,milnacipran
+Osteoarthritis,milnacipran
+Recurrence,milnacipran
+Shoulder Pain,milnacipran
+Migraine Disorders,milnacipran
+Epilepsy,milnacipran
+Migraine with Aura,milnacipran
+Migraine without Aura,milnacipran
+"Lupus Erythematosus, Systemic",milnacipran
+Arthritis,milnacipran
+"Arthritis, Rheumatoid",milnacipran
+Sleep Wake Disorders,milnacipran
+Parasomnias,milnacipran
+Dyssomnias,milnacipran
+"Osteoarthritis, Knee",milnacipran
+Joint Diseases,milnacipran
+Chronic Pain,milnacipran
+Autistic Disorder,milnacipran
+Autism Spectrum Disorder,milnacipran
+Asperger Syndrome,milnacipran
+Pulmonary Edema,milrinone
+Acute Coronary Syndrome,milrinone
+"Shock, Cardiogenic",milrinone
+Malnutrition,mirtazapine
+Headache,mirtazapine
+Post-Dural Puncture Headache,mirtazapine
+Hepatitis C,mirtazapine
+Hepatitis,mirtazapine
+Dyspepsia,mirtazapine
+Bipolar Disorder,mirtazapine
+Mood Disorders,mirtazapine
+"Stress Disorders, Post-Traumatic",mirtazapine
+Weight Gain,mirtazapine
+"Stress Disorders, Traumatic",mirtazapine
+Psychomotor Agitation,mirtazapine
+Emergence Delirium,mirtazapine
+Liver Diseases,mitiglinide
+Hypertension,mitiglinide
+Masked Hypertension,mitiglinide
+Overweight,mitiglinide
+Myelitis,mitoxantrone
+"Myelitis, Transverse",mitoxantrone
+Nervous System Diseases,mitoxantrone
+Autoimmune Diseases of the Nervous System,mitoxantrone
+"Demyelinating Autoimmune Diseases, CNS",mitoxantrone
+Autoimmune Diseases,mitoxantrone
+Premature Birth,moxifloxacin
+Periodontitis,moxifloxacin
+Aggressive Periodontitis,moxifloxacin
+Aggression,moxifloxacin
+"Endocarditis, Bacterial",moxifloxacin
+Endocarditis,moxifloxacin
+Retinal Detachment,moxifloxacin
+Body Weight,moxifloxacin
+Microvascular Angina,moxifloxacin
+Metabolic Syndrome,moxifloxacin
+Insulin Resistance,moxifloxacin
+"Eye Injuries, Penetrating",moxifloxacin
+Periodontal Pocket,moxifloxacin
+"Arrhythmias, Cardiac",moxifloxacin
+Acne Vulgaris,moxifloxacin
+Maxillary Sinusitis,moxifloxacin
+Chronic Periodontitis,moxifloxacin
+Reinfection,moxifloxacin
+Corneal Injuries,moxifloxacin
+Liver Abscess,moxifloxacin
+"Liver Abscess, Pyogenic",moxifloxacin
+Kidney Diseases,moxonidine
+Diabetic Nephropathies,moxonidine
+Metabolic Syndrome,moxonidine
+"Obesity, Abdominal",moxonidine
+Overweight,moxonidine
+Schizophrenia,moxonidine
+Polycystic Ovary Syndrome,moxonidine
+Nervous System Diseases,moxonidine
+Autonomic Nervous System Diseases,moxonidine
+Reperfusion Injury,moxonidine
+Ischemia,moxonidine
+Atrial Fibrillation,moxonidine
+Recurrence,moxonidine
+"Hypertrophy, Left Ventricular",mycophenolic-acid
+Hypertrophy,mycophenolic-acid
+"Hepatitis, Autoimmune",mycophenolic-acid
+Cholangitis,mycophenolic-acid
+"Liver Cirrhosis, Biliary",mycophenolic-acid
+Reperfusion Injury,mycophenolic-acid
+Wounds and Injuries,mycophenolic-acid
+Ischemia,mycophenolic-acid
+Gastrointestinal Diseases,mycophenolic-acid
+Digestive System Diseases,mycophenolic-acid
+"Histiocytosis, Sinus",mycophenolic-acid
+"Hepatitis C, Chronic",mycophenolic-acid
+End Stage Liver Disease,mycophenolic-acid
+Polyomavirus Infections,mycophenolic-acid
+Churg-Strauss Syndrome,mycophenolic-acid
+Polyarteritis Nodosa,mycophenolic-acid
+"Signs and Symptoms, Digestive",mycophenolic-acid
+"Diabetes Mellitus, Type 2",mycophenolic-acid
+Communicable Diseases,mycophenolic-acid
+Virus Diseases,mycophenolic-acid
+Muscular Diseases,mycophenolic-acid
+Myositis,mycophenolic-acid
+Eczema,mycophenolic-acid
+"Dermatitis, Atopic",mycophenolic-acid
+Dermatitis,mycophenolic-acid
+Syndrome,nafamostat
+Prostatic Hyperplasia,naftopidil
+Lower Urinary Tract Symptoms,naftopidil
+Kidney Calculi,naftopidil
+Nephrolithiasis,naftopidil
+Calculi,naftopidil
+Joint Diseases,nalbuphine
+Acute Pain,nalbuphine
+Shoulder Pain,nalbuphine
+Respiratory Insufficiency,nalbuphine
+Injection Site Reaction,nalbuphine
+Endometriosis,nandrolone
+"Fractures, Bone",naproxen
+Ankle Fractures,naproxen
+"Fractures, Closed",naproxen
+Leiomyoma,naproxen
+Myofibroma,naproxen
+Uterine Diseases,naproxen
+Autoimmune Diseases,naproxen
+Disease,naproxen
+Anxiety Disorders,naproxen
+Compulsive Personality Disorder,naproxen
+Obsessive-Compulsive Disorder,naproxen
+Menorrhagia,naproxen
+Sciatica,naproxen
+Wounds and Injuries,naproxen
+Temporomandibular Joint Disorders,naproxen
+Temporomandibular Joint Dysfunction Syndrome,naproxen
+Tennis Elbow,naproxen
+Tension-Type Headache,naproxen
+Headache Disorders,naproxen
+"Headache Disorders, Primary",naproxen
+Emergencies,naproxen
+Post-Traumatic Headache,naproxen
+Disease Progression,naproxen
+Premenstrual Syndrome,naproxen
+Delirium,naproxen
+Hip Fractures,naproxen
+"Tooth, Impacted",naproxen
+Anxiety Disorders,nefazodone
+"Phobia, Social",nefazodone
+Tendon Injuries,nefopam
+Colic,nefopam
+Renal Colic,nefopam
+Agnosia,nefopam
+Ureteral Calculi,nefopam
+Ureterolithiasis,nefopam
+Calculi,nefopam
+Disease,neostigmine
+Appendicitis,neostigmine
+Apnea,neostigmine
+Sleep Apnea Syndromes,neostigmine
+"Sleep Apnea, Obstructive",neostigmine
+Intestinal Diseases,neostigmine
+Postoperative Complications,neostigmine
+Paralysis,neostigmine
+Sphincter of Oddi Dysfunction,neostigmine
+Wounds and Injuries,neostigmine
+Lung Diseases,neostigmine
+"Lung Diseases, Obstructive",neostigmine
+"Pulmonary Disease, Chronic Obstructive",neostigmine
+Respiratory Insufficiency,neostigmine
+Mobility Limitation,neostigmine
+Coronary Artery Disease,neostigmine
+Neoplasms,neostigmine
+Urinary Bladder Neoplasms,neostigmine
+Urologic Neoplasms,neostigmine
+"Genital Neoplasms, Female",neostigmine
+"Genital Neoplasms, Male",neostigmine
+Shoulder Pain,neostigmine
+Delirium,neostigmine
+Emergence Delirium,neostigmine
+Body Weight,neostigmine
+Ileus,neostigmine
+Liver Cirrhosis,neostigmine
+Liver Diseases,neostigmine
+Fibrosis,neostigmine
+Spinal Curvatures,neostigmine
+Gallstones,neostigmine
+Cholelithiasis,neostigmine
+Cholecystolithiasis,neostigmine
+Colonic Pseudo-Obstruction,neostigmine
+Macular Degeneration,nepafenac
+Retinal Vein Occlusion,nepafenac
+"Pain, Postoperative",nepafenac
+Hyperopia,nepafenac
+Uveitis,nepafenac
+Pseudophakia,nepafenac
+Epiretinal Membrane,nepafenac
+Mydriasis,nepafenac
+Nervous System Diseases,nevirapine
+Central Nervous System Diseases,nevirapine
+HIV-Associated Lipodystrophy Syndrome,nevirapine
+Insulin Resistance,nevirapine
+Cardiovascular Diseases,nevirapine
+"Sarcoma, Kaposi",nevirapine
+Sarcoma,nevirapine
+Hypercholesterolemia,nevirapine
+Dyslipidemias,nevirapine
+Polycystic Ovary Syndrome,niacin
+Ganglion Cysts,niacin
+Vertigo,niacin
+Meniere Disease,niacin
+Hyperpigmentation,niacin
+Insulin Resistance,niacin
+Hypolipoproteinemias,niacin
+Hypoalphalipoproteinemias,niacin
+Acne Vulgaris,niacin
+Spinal Stenosis,nicardipine
+Hypotension,nicardipine
+COVID-19,nicardipine
+Coronavirus Infections,nicardipine
+Acute Coronary Syndrome,nicardipine
+Retrognathia,nicardipine
+Prognathism,nicardipine
+"Malocclusion, Angle Class III",nicardipine
+Emergencies,nicardipine
+Neurobehavioral Manifestations,nicotinamide
+Polycystic Ovary Syndrome,nicotinamide
+Schizophrenia,nicotinamide
+Hyperpigmentation,nicotinamide
+Arteriosclerosis,nicotinamide
+Hypolipoproteinemias,nicotinamide
+Acne Vulgaris,nicotinamide
+Atherosclerosis,nicotinamide
+Carotid Artery Diseases,nicotinamide
+Heart Diseases,nicotine
+Coronary Disease,nicotine
+Coronary Artery Disease,nicotine
+Myocardial Ischemia,nicotine
+"Pain, Postoperative",nicotine
+Alcoholic Intoxication,nicotine
+Problem Behavior,nicotine
+Impulsive Behavior,nicotine
+Cerebrovascular Disorders,nicotine
+Sleep Wake Disorders,nicotine
+Parasomnias,nicotine
+Pancreatic Neoplasms,nicotine
+Stomach Neoplasms,nicotine
+Uterine Cervical Neoplasms,nicotine
+Urinary Bladder Neoplasms,nicotine
+Esophageal Neoplasms,nicotine
+Liver Neoplasms,nicotine
+Pelvic Pain,nicotine
+Psychomotor Agitation,nicotine
+Delirium,nicotine
+Hypersensitivity,nicotine
+"Lung Diseases, Obstructive",nicotine
+Immunologic Deficiency Syndromes,nicotine
+Ileus,nicotine
+Infections,nimesulide
+Communicable Diseases,nimesulide
+Respiratory Tract Infections,nimesulide
+Osteoarthritis,nimesulide
+"Osteoarthritis, Knee",nimesulide
+Pharyngitis,nimesulide
+Laryngitis,nimesulide
+COVID-19,nimodipine
+Coronavirus Infections,nimodipine
+Hypertension,nimodipine
+Cognitive Dysfunction,nimodipine
+Depression,nimodipine
+Depressive Disorder,nimodipine
+Cerebral Infarction,nimodipine
+Infarction,nimodipine
+COVID-19,nitrendipine
+Coronavirus Infections,nitrendipine
+Kidney Diseases,nitrendipine
+"Renal Insufficiency, Chronic",nitrendipine
+Infections,norfloxacin
+Communicable Diseases,norfloxacin
+Hepatorenal Syndrome,norfloxacin
+Polyneuropathies,nortriptyline
+Dementia,nortriptyline
+Cognitive Dysfunction,nortriptyline
+"Depressive Disorder, Treatment-Resistant",nortriptyline
+Tinnitus,nortriptyline
+Migraine Disorders,nortriptyline
+Brain Injuries,nortriptyline
+"Brain Injuries, Traumatic",nortriptyline
+Brain Concussion,nortriptyline
+Post-Concussion Syndrome,nortriptyline
+Post-Traumatic Headache,nortriptyline
+Bipolar Disorder,nortriptyline
+Meniere Disease,nortriptyline
+Recurrence,nortriptyline
+Dry Eye Syndromes,ofloxacin
+Keratoconjunctivitis Sicca,ofloxacin
+"Pneumonia, Aspiration",ofloxacin
+Cholangitis,ofloxacin
+Hypoglycemia,ofloxacin
+Hyperglycemia,ofloxacin
+Peptic Ulcer,ofloxacin
+Periodontitis,ofloxacin
+Head and Neck Neoplasms,ofloxacin
+Mucositis,ofloxacin
+Stomatitis,ofloxacin
+Bronchiectasis,ofloxacin
+Disease Susceptibility,ofloxacin
+Virus Diseases,ofloxacin
+Critical Illness,ofloxacin
+Hypersensitivity,ofloxacin
+"Pneumonia, Pneumococcal",ofloxacin
+Viremia,ofloxacin
+Otitis Media with Effusion,ofloxacin
+"Eye Injuries, Penetrating",ofloxacin
+Prostatic Neoplasms,ofloxacin
+Pleuropneumonia,ofloxacin
+Mycoplasma Infections,ofloxacin
+"Pneumonia, Mycoplasma",ofloxacin
+Carcinoma,ofloxacin
+Urinary Bladder Neoplasms,ofloxacin
+Tardive Dyskinesia,olanzapine
+Schizophrenia Spectrum and Other Psychotic Disorders,olanzapine
+Emergencies,olanzapine
+Problem Behavior,olanzapine
+"Schizophrenia, Childhood",olanzapine
+Substance-Related Disorders,olanzapine
+Compulsive Personality Disorder,olanzapine
+Obsessive-Compulsive Disorder,olanzapine
+Alzheimer Disease,olanzapine
+Dementia,olanzapine
+Overweight,olanzapine
+Diabetes Mellitus,olanzapine
+Aggression,olanzapine
+Attention Deficit and Disruptive Behavior Disorders,olanzapine
+"Child Development Disorders, Pervasive",olanzapine
+Autism Spectrum Disorder,olanzapine
+Trichotillomania,olanzapine
+Recurrence,olanzapine
+Syndrome,olanzapine
+Hyperglycemia,olanzapine
+Dystonia,olanzapine
+Parkinsonian Disorders,olanzapine
+Headache,olanzapine
+Lung Neoplasms,olanzapine
+"Cardiac Output, Low",ondansetron
+Bipolar Disorder,ondansetron
+Inflammatory Bowel Diseases,ondansetron
+Eosinophilic Esophagitis,ondansetron
+Gastrointestinal Hemorrhage,ondansetron
+Weight Loss,ondansetron
+Abdominal Pain,ondansetron
+Poisoning,ondansetron
+Respiratory Distress Syndrome,ondansetron
+"Respiratory Distress Syndrome, Newborn",ondansetron
+Acute Lung Injury,ondansetron
+Dehydration,ondansetron
+Tourette Syndrome,ondansetron
+Tics,ondansetron
+Tic Disorders,ondansetron
+Headache,ondansetron
+Pruritus,ondansetron
+"Fractures, Bone",ondansetron
+Trigeminal Neuralgia,ondansetron
+Intestinal Diseases,ondansetron
+Marijuana Abuse,ondansetron
+Chronic Pain,ondansetron
+Cholelithiasis,ondansetron
+Cholecystolithiasis,ondansetron
+Gallstones,ondansetron
+Prostatic Neoplasms,ondansetron
+Body Temperature Changes,ondansetron
+Glucose Intolerance,orlistat
+Poisoning,orlistat
+Heart Diseases,orlistat
+Fatty Liver,orlistat
+Non-alcoholic Fatty Liver Disease,orlistat
+Hepatitis A,orlistat
+Hepatitis C,orlistat
+Hepatitis,orlistat
+Bulimia,orlistat
+Binge-Eating Disorder,orlistat
+Neoplasms,orphenadrine
+Colonic Neoplasms,orphenadrine
+Rectal Neoplasms,orphenadrine
+Ileus,orphenadrine
+Diverticulitis,orphenadrine
+Diverticulum,orphenadrine
+"Diverticulitis, Colonic",orphenadrine
+Constipation,orphenadrine
+"Pain, Postoperative",orphenadrine
+Muscle Hypotonia,orphenadrine
+Irritable Bowel Syndrome,otilonium
+Syndrome,otilonium
+Inflammation,oxybutynin
+"Reflex, Abnormal",oxybutynin
+Cystitis,oxybutynin
+Multiple Sclerosis,oxybutynin
+Spinal Cord Diseases,oxybutynin
+Sclerosis,oxybutynin
+Sjogren's Syndrome,oxybutynin
+Stomatognathic Diseases,oxymetazoline
+Dental Pulp Diseases,oxymetazoline
+Nasal Obstruction,oxymetazoline
+Eclampsia,oxymetazoline
+Pre-Eclampsia,oxymetazoline
+"Cardiac Output, High",oxymetazoline
+Pulmonary Arterial Hypertension,oxymetazoline
+Familial Primary Pulmonary Hypertension,oxymetazoline
+Acute Kidney Injury,oxymetazoline
+Cough,oxymetazoline
+Nasal Polyps,oxymetazoline
+Retinal Diseases,oxymetazoline
+Retinopathy of Prematurity,oxymetazoline
+Acute Coronary Syndrome,oxymetazoline
+Myocardial Ischemia,oxymetazoline
+"Angina, Stable",oxymetazoline
+Diabetes Mellitus,oxymetazoline
+"Influenza, Human",oxymetazoline
+Back Pain,oxymetazoline
+Low Back Pain,oxymetazoline
+Otitis,oxymetazoline
+Otitis Media,oxymetazoline
+Otitis Media with Effusion,oxymetazoline
+Pulpitis,oxymetazoline
+Refractive Errors,oxymetazoline
+Eye Manifestations,oxymetazoline
+Brain Neoplasms,oxymetazoline
+Horner Syndrome,oxymetazoline
+Endotoxemia,oxymetazoline
+Apnea,oxymetazoline
+Sleep Apnea Syndromes,oxymetazoline
+"Sleep Apnea, Obstructive",oxymetazoline
+Hypertrophy,oxymetazoline
+Ischemic Stroke,ozagrel
+Cerebral Infarction,ozagrel
+Infarction,ozagrel
+Fibromyalgia,palmitoylethanolamide
+Myofascial Pain Syndromes,palmitoylethanolamide
+Skin Diseases,palmitoylethanolamide
+Chronic Pain,palmitoylethanolamide
+Coronary Artery Disease,pantoprazole
+Myocardial Ischemia,pantoprazole
+Coronary Disease,pantoprazole
+Heart Diseases,pantoprazole
+Acute Pain,pantoprazole
+"Fractures, Bone",pantoprazole
+Rib Fractures,pantoprazole
+Wounds and Injuries,pantoprazole
+Disease,pantoprazole
+Stomach Ulcer,pantoprazole
+"Pain, Postoperative",pantoprazole
+Apnea,pantoprazole
+Sleep Apnea Syndromes,pantoprazole
+"Sleep Apnea, Obstructive",pantoprazole
+Sleepiness,pantoprazole
+Atrial Fibrillation,pantoprazole
+Embolism,pantoprazole
+Emergencies,pantoprazole
+Dysbiosis,pantoprazole
+Hypothyroidism,pantoprazole
+Abdominal Pain,pantoprazole
+Thrombosis,pantoprazole
+Coronary Thrombosis,pantoprazole
+Stomach Diseases,pantoprazole
+Acute Kidney Injury,pantoprazole
+"Kidney Failure, Chronic",pantoprazole
+Critical Illness,pantoprazole
+Respiratory Aspiration of Gastric Contents,pantoprazole
+Pediatric Obesity,pantoprazole
+Kidney Neoplasms,papaverine
+Dysmenorrhea,papaverine
+Myocardial Infarction,paracetamol
+ST Elevation Myocardial Infarction,paracetamol
+Infarction,paracetamol
+Lung Neoplasms,paracetamol
+Knee Injuries,paracetamol
+Prolapse,paracetamol
+Pelvic Organ Prolapse,paracetamol
+Leiomyoma,paracetamol
+Myofibroma,paracetamol
+Adenomyosis,paracetamol
+"Pain, Procedural",paracetamol
+Temporomandibular Joint Disorders,paracetamol
+Temporomandibular Joint Dysfunction Syndrome,paracetamol
+Intervertebral Disc Displacement,paracetamol
+Rib Fractures,paracetamol
+Pulmonary Embolism,paracetamol
+Atrial Fibrillation,paracetamol
+Thrombosis,paracetamol
+Embolism,paracetamol
+Venous Thrombosis,paracetamol
+Antiphospholipid Syndrome,paracetamol
+Tendon Injuries,paracetamol
+Heart Block,paracetamol
+Hypothermia,paracetamol
+Myofascial Pain Syndromes,paracetamol
+Fibromyalgia,paracetamol
+Somatoform Disorders,paracetamol
+"Hypertension, Pregnancy-Induced",paracetamol
+Stomach Diseases,paracetamol
+"Hernia, Ventral",paracetamol
+Pancreatic Diseases,paracetamol
+Post-Dural Puncture Headache,paracetamol
+Necrosis,paracetamol
+Otorhinolaryngologic Diseases,paracetamol
+Intracranial Hemorrhages,paracetamol
+Femoral Fractures,paracetamol
+Mental Disorders,paracetamol
+Urolithiasis,paracetamol
+Flank Pain,paracetamol
+Gout,paracetamol
+Myalgia,paracetamol
+Humeral Fractures,paracetamol
+"Influenza, Human",paracetamol
+Colonic Neoplasms,paracetamol
+Rectal Neoplasms,paracetamol
+Ileus,paracetamol
+Diverticulitis,paracetamol
+Diverticulum,paracetamol
+"Diverticulitis, Colonic",paracetamol
+Constipation,paracetamol
+Liver Neoplasms,paracetamol
+HELLP Syndrome,paracetamol
+Ankle Injuries,paracetamol
+Urethral Stricture,paracetamol
+Rheumatic Diseases,paracetamol
+Collagen Diseases,paracetamol
+Osteoporosis,paracetamol
+Chemical and Drug Induced Liver Injury,paracetamol
+Alcohol Drinking,paracetamol
+Alcohol-Related Disorders,paracetamol
+"Constriction, Pathologic",paracetamol
+Carotid Stenosis,paracetamol
+Acalculous Cholecystitis,paracetamol
+Cholelithiasis,paracetamol
+Cholecystolithiasis,paracetamol
+Gallstones,paracetamol
+Arthralgia,paracetamol
+Psoriasis,paracetamol
+"Urinary Bladder, Overactive",paracetamol
+Lower Urinary Tract Symptoms,paracetamol
+Myocardial Ischemia,paracetamol
+Coronary Disease,paracetamol
+Arteriosclerosis,paracetamol
+Breakthrough Pain,paracetamol
+"Seizures, Febrile",paracetamol
+Ureteral Calculi,paracetamol
+Ureterolithiasis,paracetamol
+Cerebral Palsy,paracetamol
+Goiter,paracetamol
+Thyroid Neoplasms,paracetamol
+Adenoma,paracetamol
+Thyroid Nodule,paracetamol
+Parathyroid Neoplasms,paracetamol
+Hyperplasia,paracetamol
+"Fractures, Multiple",paracetamol
+Calculi,paracetamol
+Spondylitis,paracetamol
+Spondylarthritis,paracetamol
+"Spondylitis, Ankylosing",paracetamol
+Nail Diseases,paracetamol
+"Nails, Malformed",paracetamol
+Urinary Calculi,paracetamol
+Tooth Loss,paracetamol
+Sciatica,paracetamol
+Acute Coronary Syndrome,paracetamol
+Chronic Disease,paracetamol
+Muscle Hypotonia,paracetamol
+"Fractures, Compression",paracetamol
+Gingival Recession,paracetamol
+Surgical Wound,paracetamol
+Body Weight,paracetamol
+Body Weight Changes,paracetamol
+Postoperative Hemorrhage,paracetamol
+Infertility,paracetamol
+"Infertility, Female",paracetamol
+Deglutition Disorders,paracetamol
+Airway Obstruction,paracetamol
+Oral Hemorrhage,paracetamol
+Altitude Sickness,paracetamol
+Migraine Disorders,paroxetine
+Flushing,paroxetine
+Cardiovascular Diseases,paroxetine
+Coronary Artery Disease,paroxetine
+Sleep Initiation and Maintenance Disorders,paroxetine
+Combat Disorders,paroxetine
+Substance-Related Disorders,paroxetine
+Irritable Bowel Syndrome,paroxetine
+Premenstrual Syndrome,paroxetine
+Premenstrual Dysphoric Disorder,paroxetine
+Dementia,paroxetine
+Syndrome,paroxetine
+Suicidal Ideation,paroxetine
+Pancreatic Fistula,pasireotide
+Periodontal Diseases,penicillin-v-potassium
+Peri-Implantitis,penicillin-v-potassium
+Pharyngitis,penicillin-v-potassium
+Tonsillitis,penicillin-v-potassium
+Lyme Disease,penicillin-v-potassium
+Erythema Chronicum Migrans,penicillin-v-potassium
+"Glossitis, Benign Migratory",penicillin-v-potassium
+Erythema,penicillin-v-potassium
+Wound Infection,penicillin-v-potassium
+Cellulitis,penicillin-v-potassium
+Emergencies,penicillin-v-potassium
+Erysipelas,penicillin-v-potassium
+Infections,penicillin-v-potassium
+Communicable Diseases,penicillin-v-potassium
+Intervertebral Disc Displacement,pentoxifylline
+Radiculopathy,pentoxifylline
+Hemolysis,pentoxifylline
+Lymphoma,pentoxifylline
+Hodgkin Disease,pentoxifylline
+Osteoradionecrosis,pentoxifylline
+Nephritis,pentoxifylline
+Lupus Nephritis,pentoxifylline
+Irritable Bowel Syndrome,pentoxifylline
+Hepatitis C,pentoxifylline
+"Diabetes Mellitus, Type 2",pentoxifylline
+Cerebral Small Vessel Diseases,pentoxifylline
+Kidney Diseases,perindopril
+"Renal Insufficiency, Chronic",perindopril
+Infarction,perindopril
+Coronavirus Infections,perindopril
+Hypercholesterolemia,perindopril
+Heart Diseases,perindopril
+Myocardial Ischemia,perindopril
+Coronary Artery Disease,perindopril
+Ischemia,perindopril
+Metabolic Syndrome,perindopril
+Hyperuricemia,perindopril
+Proteinuria,perindopril
+Metabolic Diseases,perindopril
+Lipid Metabolism Disorders,perindopril
+Cerebral Small Vessel Diseases,perindopril
+Renal Insufficiency,perindopril
+Hypotension,perindopril
+Liver Diseases,perindopril
+Fatty Liver,perindopril
+Non-alcoholic Fatty Liver Disease,perindopril
+Heart Diseases,phenprocoumon
+Acute Coronary Syndrome,phenprocoumon
+Atherosclerosis,phenprocoumon
+Coronary Disease,phenprocoumon
+Coronary Artery Disease,phenprocoumon
+Myocardial Ischemia,phenprocoumon
+"Aneurysm, Dissecting",phenprocoumon
+Calcinosis,phenprocoumon
+Hemorrhage,phenprocoumon
+Fatty Liver,phentermine
+Non-alcoholic Fatty Liver Disease,phentermine
+Insulin Resistance,phenylbutyrate
+Stomatognathic Diseases,phenylephrine
+Dental Pulp Diseases,phenylephrine
+Nasal Obstruction,phenylephrine
+Eclampsia,phenylephrine
+Pre-Eclampsia,phenylephrine
+"Cardiac Output, High",phenylephrine
+Pulmonary Arterial Hypertension,phenylephrine
+Familial Primary Pulmonary Hypertension,phenylephrine
+Acute Kidney Injury,phenylephrine
+Cough,phenylephrine
+Nasal Polyps,phenylephrine
+Toothache,phenylephrine
+"Pain, Postoperative",phenylephrine
+Retinopathy of Prematurity,phenylephrine
+Diabetes Mellitus,phenylephrine
+"Influenza, Human",phenylephrine
+Otitis,phenylephrine
+Otitis Media,phenylephrine
+Otitis Media with Effusion,phenylephrine
+Pulpitis,phenylephrine
+Refractive Errors,phenylephrine
+Eye Manifestations,phenylephrine
+Brain Neoplasms,phenylephrine
+Horner Syndrome,phenylephrine
+Endotoxemia,phenylephrine
+Apnea,phenylephrine
+Sleep Apnea Syndromes,phenylephrine
+"Sleep Apnea, Obstructive",phenylephrine
+Hypertrophy,phenylephrine
+Critical Illness,phenylephrine
+Cognitive Dysfunction,phenytoin
+"Meningitis, Pneumococcal",phenytoin
+Meningitis,phenytoin
+Depression,phenytoin
+Emergencies,phenytoin
+Asthma,phenytoin
+Subarachnoid Hemorrhage,phenytoin
+Hemorrhage,phenytoin
+Anisocoria,pilocarpine
+Lewy Body Disease,pimavanserin
+Disease,pimavanserin
+Schizophrenia Spectrum and Other Psychotic Disorders,pimozide
+Heart Failure,pindolol
+Heart Diseases,pindolol
+"Heart Failure, Diastolic",pindolol
+"Hepatitis B, Chronic",pioglitazone
+Liver Cirrhosis,pioglitazone
+Hepatitis B,pioglitazone
+Coronavirus Infections,pioglitazone
+Hypoxia,pioglitazone
+COVID-19,pioglitazone
+Retinal Diseases,pioglitazone
+Diabetic Retinopathy,pioglitazone
+Angina Pectoris,pioglitazone
+"Angina, Stable",pioglitazone
+"Angina, Unstable",pioglitazone
+Weight Gain,pioglitazone
+Nephrolithiasis,pioglitazone
+Kidney Calculi,pioglitazone
+Weight Loss,pioglitazone
+Apnea,pioglitazone
+Sleep Apnea Syndromes,pioglitazone
+"Sleep Apnea, Obstructive",pioglitazone
+Schizophrenia,pioglitazone
+"Hypertension, Portal",pioglitazone
+Ascites,pioglitazone
+Bipolar Disorder,pioglitazone
+Body Weight,pioglitazone
+Coronary Stenosis,pioglitazone
+Neointima,pioglitazone
+Carotid Artery Diseases,pioglitazone
+Neoplasm Metastasis,pioglitazone
+"Kidney Failure, Chronic",pioglitazone
+Mood Disorders,pioglitazone
+Ataxia Telangiectasia,pioglitazone
+Telangiectasis,pioglitazone
+Osteoporosis,pioglitazone
+Stroke,piracetam
+"Infarction, Middle Cerebral Artery",piracetam
+Ischemia,piracetam
+Vertigo,piracetam
+Dizziness,piracetam
+"Sarcoidosis, Pulmonary",pirfenidone
+Sarcoidosis,pirfenidone
+Connective Tissue Diseases,pirfenidone
+Disease Progression,pirfenidone
+Acute Kidney Injury,pirfenidone
+Myocardial Infarction,pitavastatin
+Metabolic Diseases,pitavastatin
+Glucose Metabolism Disorders,pitavastatin
+Infarction,pitavastatin
+Acute Coronary Syndrome,pitavastatin
+"Angina, Stable",pitavastatin
+Glucose Intolerance,pitavastatin
+Inflammation,pitavastatin
+Kidney Diseases,pitavastatin
+Prediabetic State,pitavastatin
+Heart Failure,pitavastatin
+Angina Pectoris,pitavastatin
+"Renal Insufficiency, Chronic",pitavastatin
+Atherosclerosis,pitavastatin
+Neointima,pitavastatin
+Parasomnias,pramipexole
+Chronobiology Disorders,pramipexole
+Dyssomnias,pramipexole
+Adrenoleukodystrophy,pramipexole
+"Depressive Disorder, Treatment-Resistant",pramipexole
+Malaria,praziquantel
+Helminthiasis,praziquantel
+Disease Susceptibility,praziquantel
+Dipetalonema Infections,praziquantel
+Acanthocheilonemiasis,praziquantel
+Suicidal Ideation,prazosin
+"Hypertension, Portal",prazosin
+Gastrointestinal Hemorrhage,prazosin
+Hemorrhage,prazosin
+Marijuana Abuse,prazosin
+Rhinitis,prazosin
+"Rhinitis, Allergic",prazosin
+Inflammation,prazosin
+Hyperplasia,prazosin
+Recurrence,primaquine
+Communicable Diseases,primaquine
+Parasitic Diseases,primaquine
+Epilepsy,probenecid
+"Influenza, Human",probenecid
+Ischemic Stroke,probucol
+Intracranial Hemorrhages,probucol
+Cerebral Hemorrhage,probucol
+Brain Ischemia,probucol
+Ischemia,probucol
+Hemorrhage,probucol
+Heart Diseases,probucol
+Coronary Disease,probucol
+Myocardial Ischemia,probucol
+"Glomerulonephritis, IGA",probucol
+Glomerulonephritis,probucol
+Stroke,probucol
+Intracranial Arteriosclerosis,probucol
+Atherosclerosis,probucol
+"Plaque, Atherosclerotic",probucol
+Coronary Restenosis,probucol
+Arteriosclerosis,probucol
+Arteriosclerosis Obliterans,probucol
+Diabetes Mellitus,probucol
+"Diabetes Mellitus, Type 2",probucol
+Cerebral Infarction,probucol
+Infarction,probucol
+"Arrhythmias, Cardiac",procainamide
+Emergencies,procainamide
+Tachycardia,procainamide
+Brugada Syndrome,procainamide
+Postoperative Nausea and Vomiting,prochlorperazine
+Rabies,proguanil
+"Shock, Septic",propafenone
+Shock,propafenone
+Hyperthyroidism,propranolol
+Muscle Cramp,propranolol
+Spasm,propranolol
+Surgical Wound Infection,propranolol
+Skin Diseases,propranolol
+Hemangioendothelioma,propranolol
+Peritonitis,propranolol
+Hepatic Encephalopathy,propranolol
+"Fractures, Stress",propranolol
+Tremor,propranolol
+Compulsive Personality Disorder,propranolol
+Obsessive-Compulsive Disorder,propranolol
+Acute Kidney Injury,propranolol
+Varicose Veins,propranolol
+"Phobia, Social",propranolol
+Inflammation,propranolol
+Graves Disease,propranolol
+Eye Diseases,propranolol
+Graves Ophthalmopathy,propranolol
+"Liver Cirrhosis, Alcoholic",propranolol
+Intracranial Arteriosclerosis,propranolol
+Heart Diseases,propranolol
+Atherosclerosis,propranolol
+Coronary Disease,propranolol
+Atrial Fibrillation,propranolol
+"Heart Failure, Diastolic",propranolol
+Post-Traumatic Headache,propranolol
+Spinal Cord Neoplasms,propranolol
+Spinal Neoplasms,propranolol
+Hepatitis A,pyrazinamide
+Hepatitis,pyrazinamide
+"Tuberculosis, Spinal",pyrazinamide
+Reinfection,pyrazinamide
+Communicable Diseases,pyrimethamine
+HIV Seropositivity,pyrimethamine
+Stillbirth,pyrimethamine
+Perinatal Death,pyrimethamine
+Pregnancy Complications,pyrimethamine
+Fetal Growth Retardation,pyrimethamine
+Altitude Sickness,quercetin
+Flushing,quercetin
+Weight Gain,quetiapine
+Fibromyalgia,quetiapine
+Myofascial Pain Syndromes,quetiapine
+Lewy Body Disease,quetiapine
+Schizophrenia Spectrum and Other Psychotic Disorders,quetiapine
+Parkinsonian Disorders,quetiapine
+Opioid-Related Disorders,quetiapine
+COVID-19,quetiapine
+Pneumonia,quetiapine
+"Pneumonia, Viral",quetiapine
+Overweight,quetiapine
+Combat Disorders,quetiapine
+Emergencies,quetiapine
+Panic Disorder,quetiapine
+Behavioral Symptoms,quetiapine
+Affective Symptoms,quetiapine
+Hot Flashes,quetiapine
+COVID-19,quinapril
+Coronavirus Infections,quinapril
+Ischemia,quinapril
+Chest Pain,quinapril
+Heart Diseases,quinapril
+Myocardial Ischemia,quinapril
+Coronary Artery Disease,quinapril
+Kidney Diseases,quinapril
+"Renal Insufficiency, Chronic",quinapril
+Cardiovascular Diseases,quinapril
+Essential Hypertension,quinapril
+"Diabetes Mellitus, Type 2",quinapril
+Hypotension,quinapril
+Brain Injuries,quinidine
+"Brain Injuries, Traumatic",quinidine
+Restless Legs Syndrome,r(-)-apomorphine
+Psychomotor Agitation,r(-)-apomorphine
+Syndrome,r(-)-apomorphine
+Low Back Pain,r(-)-apomorphine
+Sleep Wake Disorders,r(-)-apomorphine
+Parasomnias,r(-)-apomorphine
+Gastritis,rabeprazole
+Bacterial Infections,rabeprazole
+Sleep Initiation and Maintenance Disorders,rabeprazole
+Sleep Wake Disorders,rabeprazole
+Parasomnias,rabeprazole
+Atrial Fibrillation,rabeprazole
+Thromboembolism,rabeprazole
+Venous Thromboembolism,rabeprazole
+Peptic Ulcer,rabeprazole
+Peptic Ulcer Hemorrhage,rabeprazole
+Hypothyroidism,rabeprazole
+Adenocarcinoma,rabeprazole
+Disease Susceptibility,rabeprazole
+Gastroenteritis,racecadotril
+Feeding and Eating Disorders,raclopride
+Anhedonia,raclopride
+Psychotic Disorders,raclopride
+Mental Disorders,raclopride
+Neurobehavioral Manifestations,raloxifene
+Depression,raloxifene
+Depressive Disorder,raloxifene
+Inflammation,raltegravir
+Fatty Liver,raltegravir
+Metabolic Syndrome,raltegravir
+Syndrome,raltegravir
+Cardiovascular Diseases,raltegravir
+Drug-Related Side Effects and Adverse Reactions,raltegravir
+Coinfection,raltegravir
+"Bone Diseases, Metabolic",raltegravir
+Osteoporosis,raltegravir
+"Hepatitis C, Chronic",raltegravir
+Neurocognitive Disorders,raltegravir
+Non-alcoholic Fatty Liver Disease,raltegravir
+Coronavirus Infections,ramipril
+Ventricular Remodeling,ramipril
+Coronary Artery Disease,ramipril
+Obesity,ramipril
+Myocardial Ischemia,ramipril
+Insulin Resistance,ramipril
+Peripheral Arterial Disease,ramipril
+Peripheral Vascular Diseases,ramipril
+Alzheimer Disease,ramipril
+"Aneurysm, Dissecting",ramipril
+Coronary Vessel Anomalies,ramipril
+Atrial Remodeling,ramipril
+Muscular Dystrophies,ramipril
+"Muscular Dystrophy, Duchenne",ramipril
+Acute Coronary Syndrome,ramipril
+Intermittent Claudication,ramipril
+Coronary Vasospasm,ramipril
+Microvascular Angina,ramipril
+Hypotension,ramipril
+"Hypertension, Pulmonary",ranolazine
+"Angina, Stable",ranolazine
+"Ventricular Dysfunction, Left",ranolazine
+Metabolic Syndrome,ranolazine
+Emergencies,ranolazine
+Nervous System Diseases,ranolazine
+Polyneuropathies,ranolazine
+Peripheral Nervous System Diseases,ranolazine
+Tachycardia,ranolazine
+"Tachycardia, Ventricular",ranolazine
+Mitral Valve Insufficiency,ranolazine
+"Cardiac Complexes, Premature",ranolazine
+Dyspnea,ranolazine
+Chest Pain,ranolazine
+Kidney Diseases,ranolazine
+"Kidney Failure, Chronic",ranolazine
+Peripheral Arterial Disease,ranolazine
+Peripheral Vascular Diseases,ranolazine
+Neuralgia,ranolazine
+Diabetic Neuropathies,ranolazine
+Myocardial Stunning,ranolazine
+Arteriosclerosis,ranolazine
+Depression,rasagiline
+Dyssomnias,rasagiline
+Parasomnias,rasagiline
+Cognitive Dysfunction,rasagiline
+Schizophrenia,rasagiline
+Fatigue,rasagiline
+Retinal Detachment,rasagiline
+Dissociative Disorders,rasagiline
+Cognition Disorders,rasagiline
+Stomach Diseases,rebamipide
+Gastroesophageal Reflux,rebamipide
+Esophagitis,rebamipide
+"Esophagitis, Peptic",rebamipide
+Musculoskeletal Diseases,rebamipide
+Enteritis,rebamipide
+Endometriosis,resveratrol
+Depressive Disorder,resveratrol
+Depression,resveratrol
+Pancreatitis,resveratrol
+Gastrointestinal Diseases,resveratrol
+Digestive System Diseases,resveratrol
+"Diabetes, Gestational",resveratrol
+Acne Vulgaris,resveratrol
+Kidney Diseases,rilmenidine
+"Renal Insufficiency, Chronic",rilmenidine
+Neurocognitive Disorders,rilpivirine
+HIV-Associated Lipodystrophy Syndrome,rilpivirine
+Cardiovascular Diseases,rilpivirine
+Vascular Diseases,rilpivirine
+Cardiovascular Abnormalities,rilpivirine
+Congenital Abnormalities,rilpivirine
+Lipodystrophy,rilpivirine
+Body Weight,rilpivirine
+Body Weight Changes,rilpivirine
+Drug-Related Side Effects and Adverse Reactions,rilpivirine
+Cognitive Dysfunction,rilpivirine
+HIV Seropositivity,rilpivirine
+Inflammation,riluzole
+Fatigue,riluzole
+Memory Disorders,riluzole
+Fragile X Syndrome,riluzole
+Syndrome,riluzole
+Tourette Syndrome,riluzole
+Strabismus,rimexolone
+Altitude Sickness,riociguat
+Sarcoidosis,riociguat
+Schizophrenia Spectrum and Other Psychotic Disorders,risperidone
+Psychomotor Agitation,risperidone
+Body Weight,risperidone
+Drug-Related Side Effects and Adverse Reactions,risperidone
+DiGeorge Syndrome,risperidone
+Fragile X Syndrome,risperidone
+Williams Syndrome,risperidone
+Anorexia,risperidone
+Anorexia Nervosa,risperidone
+Diabetes Mellitus,risperidone
+Aggression,risperidone
+Borderline Personality Disorder,risperidone
+Emergencies,risperidone
+Insulin Resistance,risperidone
+Hyperglycemia,risperidone
+Dystonia,risperidone
+Parkinsonian Disorders,risperidone
+Hyperprolactinemia,risperidone
+Delirium,risperidone
+Tardive Dyskinesia,risperidone
+Hyperkinesis,risperidone
+HIV Seropositivity,ritonavir
+Malnutrition,ritonavir
+Drug-Related Side Effects and Adverse Reactions,ritonavir
+Asymptomatic Infections,ritonavir
+Papilloma,ritonavir
+Cytomegalovirus Infections,ritonavir
+Epstein-Barr Virus Infections,ritonavir
+Inflammation,ritonavir
+Opportunistic Infections,ritonavir
+AIDS-Related Opportunistic Infections,ritonavir
+HIV-Associated Lipodystrophy Syndrome,ritonavir
+Lipodystrophy,ritonavir
+Proteinuria,ritonavir
+Hypercholesterolemia,ritonavir
+AIDS Dementia Complex,ritonavir
+Reinfection,ritonavir
+Muscle Cramp,ropinirole
+Liver Cirrhosis,ropinirole
+Spasm,ropinirole
+Fibrosis,ropinirole
+Bipolar Disorder,ropinirole
+Disease,ropinirole
+Depressive Disorder,ropinirole
+"Depressive Disorder, Major",ropinirole
+Hepatitis,rosiglitazone
+Angina Pectoris,rosiglitazone
+"Angina, Stable",rosiglitazone
+Hepatitis A,rosiglitazone
+Hepatitis C,rosiglitazone
+Schizophrenia,rosiglitazone
+"Hepatitis C, Chronic",rosiglitazone
+"Diabetes Mellitus, Type 1",rosiglitazone
+Polycystic Ovary Syndrome,rosiglitazone
+Hyperlipoproteinemias,rosiglitazone
+Hypertriglyceridemia,rosiglitazone
+Hypersensitivity,rosiglitazone
+Liver Diseases,rosuvastatin
+Fatty Liver,rosuvastatin
+Non-alcoholic Fatty Liver Disease,rosuvastatin
+Reperfusion Injury,rosuvastatin
+"Ventricular Dysfunction, Left",rosuvastatin
+"Arthritis, Psoriatic",rosuvastatin
+Psoriasis,rosuvastatin
+"Hyperlipidemia, Familial Combined",rosuvastatin
+Endocrine System Diseases,rosuvastatin
+Carotid Artery Diseases,rosuvastatin
+ST Elevation Myocardial Infarction,rosuvastatin
+Angina Pectoris,rosuvastatin
+"Angina, Stable",rosuvastatin
+Insulin Resistance,rosuvastatin
+Chest Pain,rosuvastatin
+Hyperlipoproteinemia Type IV,rosuvastatin
+Hyperlipoproteinemia Type V,rosuvastatin
+Apnea,rosuvastatin
+Sleep Apnea Syndromes,rosuvastatin
+"Sleep Apnea, Obstructive",rosuvastatin
+Acute Kidney Injury,rosuvastatin
+"Ischemic Attack, Transient",rosuvastatin
+Cerebrovascular Disorders,rosuvastatin
+"Aneurysm, Dissecting",rosuvastatin
+Coronary Vessel Anomalies,rosuvastatin
+Vascular Diseases,rosuvastatin
+Emergencies,rosuvastatin
+Myocardial Stunning,rosuvastatin
+Cerebral Infarction,rosuvastatin
+"Infarction, Anterior Cerebral Artery",rosuvastatin
+Intracranial Arteriosclerosis,rosuvastatin
+Glaucoma,rosuvastatin
+Immunologic Deficiency Syndromes,rosuvastatin
+Anxiety Disorders,rotigotine
+Hypokinesia,rotigotine
+Depression,rotigotine
+Epilepsy,rufinamide
+Prediabetic State,sacubitril
+Glucose Intolerance,sacubitril
+"Hypertrophy, Left Ventricular",sacubitril
+Atrial Fibrillation,sacubitril
+Recurrence,sacubitril
+"Shock, Cardiogenic",sacubitril
+"Cardiac Output, Low",sacubitril
+Connective Tissue Diseases,sacubitril
+Hypotension,sacubitril
+Diabetes Mellitus,sacubitril
+"Neoplasms, Second Primary",sacubitril
+Cardiotoxicity,sacubitril
+Breast Diseases,sacubitril
+Chagas Disease,sacubitril
+Apnea,sacubitril
+Sleep Apnea Syndromes,sacubitril
+Syndrome,sacubitril
+Mitral Valve Insufficiency,sacubitril
+Ventricular Dysfunction,sacubitril
+Osteoarthritis,sasapyrine
+Liver Diseases,sasapyrine
+Fatty Liver,sasapyrine
+Non-alcoholic Fatty Liver Disease,sasapyrine
+Schizophrenia,sasapyrine
+Psychotic Disorders,sasapyrine
+Schizophrenia Spectrum and Other Psychotic Disorders,sertindole
+Hypoxia,sildenafil
+Fetal Distress,sildenafil
+Meconium Aspiration Syndrome,sildenafil
+Neoplasm Metastasis,sildenafil
+Meniere Disease,sildenafil
+Depression,sildenafil
+Prostatitis,sildenafil
+Pelvic Pain,sildenafil
+Neuralgia,sildenafil
+Diabetic Neuropathies,sildenafil
+"Fatigue Syndrome, Chronic",sildenafil
+Ventricular Dysfunction,sildenafil
+"Ventricular Dysfunction, Left",sildenafil
+Sprains and Strains,sildenafil
+Schizophrenia,sildenafil
+Connective Tissue Diseases,sildenafil
+Rectal Neoplasms,sildenafil
+Angina Pectoris,sildenafil
+Aortic Valve Stenosis,sildenafil
+"Constriction, Pathologic",sildenafil
+Glucose Intolerance,sildenafil
+Muscular Diseases,sildenafil
+"Lung Diseases, Interstitial",sildenafil
+Altitude Sickness,sildenafil
+Spinal Injuries,sildenafil
+Heart Valve Diseases,sildenafil
+Urolithiasis,sildenafil
+Ureteral Calculi,sildenafil
+Ureterolithiasis,sildenafil
+Brain Injuries,simvastatin
+"Brain Injuries, Traumatic",simvastatin
+Insulin Resistance,simvastatin
+Chronic Disease,simvastatin
+"Kidney Failure, Chronic",simvastatin
+Metabolic Diseases,simvastatin
+Glucose Intolerance,simvastatin
+Glucose Metabolism Disorders,simvastatin
+Leukemia,simvastatin
+Precursor Cell Lymphoblastic Leukemia-Lymphoma,simvastatin
+Neutropenia,simvastatin
+Febrile Neutropenia,simvastatin
+Muscle Cramp,simvastatin
+Muscle Weakness,simvastatin
+Spasm,simvastatin
+Muscular Diseases,simvastatin
+Endometriosis,simvastatin
+Fatty Liver,simvastatin
+Pulmonary Emphysema,simvastatin
+Emphysema,simvastatin
+Cognitive Dysfunction,simvastatin
+Periodontal Diseases,simvastatin
+Syndrome,sitagliptin
+"Neoplasms, Adipose Tissue",sitagliptin
+Thyroid Nodule,sitagliptin
+Thyroid Diseases,sitagliptin
+Coronary Artery Disease,sitagliptin
+Myocardial Ischemia,sitagliptin
+Coronary Disease,sitagliptin
+Hyperglycemia,sitagliptin
+ACTH-Secreting Pituitary Adenoma,sitagliptin
+Acromegaly,sitagliptin
+Pituitary ACTH Hypersecretion,sitagliptin
+"Heart Failure, Systolic",sitagliptin
+Systolic Murmurs,sitagliptin
+Foot Ulcer,sitagliptin
+Ketosis,sitagliptin
+Hypertension,sitagliptin
+Metabolic Syndrome,sitagliptin
+Pancreatitis,sitagliptin
+Angina Pectoris,sitagliptin
+"Angina, Unstable",sitagliptin
+Acute Coronary Syndrome,sitagliptin
+Short Bowel Syndrome,sitagliptin
+Inflammation,solifenacin-succinate
+Multiple Sclerosis,solifenacin-succinate
+"Urinary Bladder, Neurogenic",solifenacin-succinate
+Sclerosis,solifenacin-succinate
+Prolapse,solifenacin-succinate
+Pelvic Organ Prolapse,solifenacin-succinate
+"Urinary Incontinence, Stress",solifenacin-succinate
+Urination Disorders,solifenacin-succinate
+Disease,solifenacin-succinate
+Flank Pain,solifenacin-succinate
+Infections,solifenacin-succinate
+Communicable Diseases,solifenacin-succinate
+Urinary Tract Infections,solifenacin-succinate
+Spinal Cord Diseases,solifenacin-succinate
+Hyperkinesis,solifenacin-succinate
+Hypertrophy,solifenacin-succinate
+Sjogren's Syndrome,solifenacin-succinate
+Hand-Foot Syndrome,sorafenib
+Myocardial Infarction,sotalol
+Infarction,sotalol
+"Arrhythmias, Cardiac",sotalol
+Drug-Related Side Effects and Adverse Reactions,sotalol
+Heart Failure,sotalol
+Heart Diseases,sotalol
+"Heart Failure, Diastolic",sotalol
+Opportunistic Infections,stavudine
+AIDS-Related Opportunistic Infections,stavudine
+Hemophilia A,stavudine
+HIV-Associated Lipodystrophy Syndrome,stavudine
+Cardiovascular Diseases,stavudine
+Lipodystrophy,stavudine
+"Sarcoma, Kaposi",stavudine
+Sarcoma,stavudine
+"Meningitis, Cryptococcal",stavudine
+Meningitis,stavudine
+"Fractures, Bone",sufentanil
+Carcinoma in Situ,sufentanil
+"Carcinoma, Ductal",sufentanil
+"Carcinoma, Intraductal, Noninfiltrating",sufentanil
+Emergencies,sufentanil
+Trigeminal Neuralgia,sufentanil
+Neuralgia,sufentanil
+Pressure Ulcer,sufentanil
+Agnosia,sufentanil
+Heart Diseases,sufentanil
+Aortic Valve Stenosis,sufentanil
+Myocardial Ischemia,sufentanil
+Coronary Artery Disease,sufentanil
+Cognitive Dysfunction,sufentanil
+Carcinoma,sufentanil
+"Carcinoma, Hepatocellular",sufentanil
+Abdominal Pain,sufentanil
+Postoperative Cognitive Complications,sufentanil
+Scoliosis,sufentanil
+Confusion,sufentanil
+Arteriovenous Malformations,sufentanil
+Vomiting,sufentanil
+Postoperative Nausea and Vomiting,sufentanil
+Tonsillitis,sufentanil
+Hypertrophy,sufentanil
+Drug-Related Side Effects and Adverse Reactions,sufentanil
+Communicable Diseases,sulfadoxine
+HIV Seropositivity,sulfadoxine
+Stillbirth,sulfadoxine
+Perinatal Death,sulfadoxine
+Pregnancy Complications,sulfadoxine
+Pneumonia,sulfafurazole
+"Pneumonia, Pneumocystis",sulfafurazole
+Schizophrenia Spectrum and Other Psychotic Disorders,sulpiride
+Post-Dural Puncture Headache,sumatriptan
+Wounds and Injuries,sumatriptan
+Tension-Type Headache,sumatriptan
+Headache Disorders,sumatriptan
+"Headache Disorders, Primary",sumatriptan
+Emergencies,sumatriptan
+Cognitive Dysfunction,sumatriptan
+Disease Progression,sumatriptan
+Premenstrual Syndrome,sumatriptan
+Gastrointestinal Neoplasms,sunitinib
+Digestive System Neoplasms,sunitinib
+"Supranuclear Palsy, Progressive",suvorexant
+"Stress Disorders, Traumatic",suvorexant
+"Stress Disorders, Post-Traumatic",suvorexant
+"Sleep Disorders, Circadian Rhythm",suvorexant
+Fibromyalgia,suvorexant
+Myofascial Pain Syndromes,suvorexant
+Hot Flashes,suvorexant
+Panic Disorder,suvorexant
+Diabetes Mellitus,suvorexant
+"Diabetes Mellitus, Type 2",suvorexant
+Inflammation,suvorexant
+Bipolar Disorder,suvorexant
+Prediabetic State,suvorexant
+Sclerosis,suvorexant
+Multiple Sclerosis,suvorexant
+Fatigue,suvorexant
+Sleep Deprivation,suvorexant
+Parkinson Disease,suvorexant
+Depression,suvorexant
+Depressive Disorder,suvorexant
+"Depressive Disorder, Major",suvorexant
+"Osteoarthritis, Hip",tacrine
+Necrosis,tacrine
+"Hypertrophy, Left Ventricular",tacrolimus
+Hypertrophy,tacrolimus
+"Purpura, Schoenlein-Henoch",tacrolimus
+Purpura,tacrolimus
+Insulin Resistance,tacrolimus
+Cardiovascular Diseases,tacrolimus
+Metabolic Syndrome,tacrolimus
+"Anemia, Hemolytic",tacrolimus
+"Anemia, Hemolytic, Autoimmune",tacrolimus
+Proteinuria,tacrolimus
+Virus Diseases,tacrolimus
+Cytomegalovirus Infections,tacrolimus
+Pityriasis,tacrolimus
+Pityriasis Rosea,tacrolimus
+Dandruff,tacrolimus
+Death,tacrolimus
+Hepatitis B,tacrolimus
+Erectile Dysfunction,tacrolimus
+Proctitis,tacrolimus
+Viremia,tacrolimus
+End Stage Liver Disease,tacrolimus
+Polyomavirus Infections,tacrolimus
+Fibrosis,tacrolimus
+Diabetic Nephropathies,tacrolimus
+"Diabetes Mellitus, Type 2",tacrolimus
+"Sarcoma, Kaposi",tacrolimus
+Hemangioendothelioma,tacrolimus
+Hemangioma,tacrolimus
+Kasabach-Merritt Syndrome,tacrolimus
+Neurotoxicity Syndromes,tacrolimus
+Drug-Related Side Effects and Adverse Reactions,tacrolimus
+"Dermatitis, Contact",tacrolimus
+"Dermatitis, Allergic Contact",tacrolimus
+"Dermatitis, Occupational",tacrolimus
+Heart Failure,tacrolimus
+Liver Cirrhosis,tadalafil
+Nephrolithiasis,tadalafil
+Kidney Calculi,tadalafil
+Lower Urinary Tract Symptoms,tadalafil
+Hypotension,tadalafil
+Hypersensitivity,tadalafil
+Vomiting,tadalafil
+Ureteral Calculi,tadalafil
+Ureterolithiasis,tadalafil
+Diabetic Cardiomyopathies,tadalafil
+Connective Tissue Diseases,tadalafil
+Aortic Valve Stenosis,tadalafil
+"Constriction, Pathologic",tadalafil
+Prediabetic State,tadalafil
+Pneumonia,tadalafil
+Respiratory Distress Syndrome,tadalafil
+Parkinson Disease,tadalafil
+Hemorrhage,tamoxifen
+Menstruation Disturbances,tamoxifen
+Menorrhagia,tamoxifen
+Metrorrhagia,tamoxifen
+Cystic Fibrosis,tamoxifen
+Fibrocystic Breast Disease,tamoxifen
+Uterine Hemorrhage,tamoxifen
+Heart Diseases,tamsulosin
+Myocardial Ischemia,tamsulosin
+Coronary Artery Disease,tamsulosin
+Ischemia,tamsulosin
+Choroid Diseases,tamsulosin
+Joint Diseases,tamsulosin
+Ureteral Diseases,tamsulosin
+Renal Colic,tamsulosin
+Emergencies,tamsulosin
+Inflammation,tamsulosin
+Enuresis,tamsulosin
+Thoracic Diseases,tamsulosin
+Nocturia,tamsulosin
+Urinary Bladder Neoplasms,tamsulosin
+Ureteral Obstruction,tamsulosin
+Nail Diseases,tazarotene
+"Endocarditis, Bacterial",tedizolid
+Endocarditis,tedizolid
+Cystic Fibrosis,tedizolid
+Fibrosis,tedizolid
+Carcinoma,telbivudine
+"Carcinoma, Hepatocellular",telbivudine
+Kidney Diseases,telbivudine
+"Renal Insufficiency, Chronic",telbivudine
+Pregnancy Complications,telbivudine
+Infections,telbivudine
+Communicable Diseases,telbivudine
+Viremia,telbivudine
+Atrial Fibrillation,telmisartan
+Respiration Disorders,telmisartan
+Respiratory Tract Diseases,telmisartan
+Stroke,telmisartan
+Inflammation,telmisartan
+Recurrence,telmisartan
+Proteinuria,telmisartan
+Arteriosclerosis,telmisartan
+Myocardial Ischemia,telmisartan
+Coronary Disease,telmisartan
+Glucose Intolerance,telmisartan
+Altitude Sickness,telmisartan
+Obesity,telmisartan
+Myocardial Infarction,telmisartan
+Acute Coronary Syndrome,telmisartan
+Infarction,telmisartan
+Aneurysm,telmisartan
+Aortic Aneurysm,telmisartan
+"Aortic Aneurysm, Abdominal",telmisartan
+HIV Seropositivity,temazepam
+Macular Degeneration,temazepam
+Stomatognathic Diseases,tetracaine
+Dental Pulp Diseases,tetracaine
+Drug-Related Side Effects and Adverse Reactions,tetracaine
+Toothache,tetracaine
+"Pain, Postoperative",tetracaine
+Labor Pain,tetracaine
+Pulpitis,tetracaine
+Inflammation,tetracaine
+Acne Keloid,tetracaine
+Erythema,thalidomide
+Autoimmune Diseases,thalidomide
+Pruritus,thalidomide
+"Neoplasms, Second Primary",thalidomide
+Parapsoriasis,thalidomide
+Uveitis,thalidomide
+Coronary Artery Disease,thalidomide
+Heart Failure,thalidomide
+Malnutrition,thalidomide
+Inflammation,thalidomide
+Post-Dural Puncture Headache,theophylline
+Headache,theophylline
+Wounds and Injuries,theophylline
+Bronchiectasis,theophylline
+Schizophrenia Spectrum and Other Psychotic Disorders,thioridazine
+Disease,tiagabine
+"Phobia, Social",tiagabine
+Epilepsy,tiagabine
+Non-ST Elevated Myocardial Infarction,tirofiban
+No-Reflow Phenomenon,tirofiban
+Shoulder Pain,tizanidine
+Hernia,tizanidine
+"Hernia, Inguinal",tizanidine
+Necrosis,tofacitinib
+Arteritis,tofacitinib
+Takayasu Arteritis,tofacitinib
+Aortic Arch Syndromes,tofacitinib
+Thromboembolism,tofacitinib
+Disease,tofacitinib
+Rheumatic Fever,tofacitinib
+Infections,tofacitinib
+Granulomatosis with Polyangiitis,tofacitinib
+Systemic Vasculitis,tofacitinib
+"Behavior, Addictive",tolcapone
+Cognition Disorders,topiramate
+Cognitive Dysfunction,topiramate
+Hyperandrogenism,topiramate
+Tinnitus,topiramate
+"Hematoma, Subdural",topiramate
+"Hematoma, Subdural, Chronic",topiramate
+Hematoma,topiramate
+"Epilepsy, Rolandic",topiramate
+Emergencies,topiramate
+"Glaucoma, Angle-Closure",topiramate
+Phobic Disorders,topiramate
+"Phobia, Social",topiramate
+Psychomotor Agitation,topiramate
+Restless Legs Syndrome,topiramate
+Cluster Headache,topiramate
+Body Weight,topiramate
+Weight Gain,topiramate
+Vomiting,topiramate
+"Headache Disorders, Secondary",topiramate
+Meniere Disease,topiramate
+Post-Traumatic Headache,topiramate
+Cerebral Palsy,topiramate
+Cardiovascular Diseases,torasemide
+Fibrosis,torasemide
+Tricuspid Valve Insufficiency,torasemide
+Breast Carcinoma In Situ,toremifene
+Cognitive Dysfunction,tramiprosate
+Conjunctivitis,tranilast
+"Conjunctivitis, Allergic",tranilast
+Low Tension Glaucoma,travoprost
+Vitiligo,travoprost
+Eye Diseases,travoprost
+Graves Ophthalmopathy,travoprost
+Thyroid Diseases,travoprost
+Macular Edema,travoprost
+Uveitis,travoprost
+"Uveitis, Anterior",travoprost
+Hyperemia,travoprost
+Dry Eye Syndromes,travoprost
+Keratoconjunctivitis Sicca,travoprost
+Cerebral Infarction,trazodone
+Infarction,trazodone
+Wounds and Injuries,trazodone
+Delirium,trazodone
+Bruxism,trazodone
+Sleep Bruxism,trazodone
+Chronic Pain,trazodone
+Fibromyalgia,trazodone
+Myofascial Pain Syndromes,trazodone
+Substance-Related Disorders,trazodone
+Mental Disorders,trazodone
+Proteinuria,triamterene
+Eczema,triclosan
+Surgical Wound,triclosan
+Wound Infection,triclosan
+Wounds and Injuries,triclosan
+Breast Neoplasms,triclosan
+Inflammation,triclosan
+Aggressive Periodontitis,triclosan
+Aggression,triclosan
+Gastroesophageal Reflux,trimebutine
+Esophagitis,trimebutine
+"Esophagitis, Peptic",trimebutine
+Acute Kidney Injury,trimetazidine
+Heart Diseases,trimetazidine
+Coronary Disease,trimetazidine
+Coronary Artery Disease,trimetazidine
+Myocardial Ischemia,trimetazidine
+Prostatic Neoplasms,trimethoprim
+"Endocarditis, Bacterial",trimethoprim
+Endocarditis,trimethoprim
+Retinal Detachment,trimethoprim
+"Urinary Bladder, Overactive",trimethoprim
+Reinfection,trimethoprim
+Kidney Calculi,trimethoprim
+Nephrolithiasis,trimethoprim
+Calculi,trimethoprim
+Opportunistic Infections,trimethoprim
+Diarrhea,trimethoprim
+"Lupus Erythematosus, Systemic",trimethoprim
+Melioidosis,trimethoprim
+Adenoma,trimethoprim
+Pituitary Neoplasms,trimethoprim
+Pituitary Diseases,trimethoprim
+Thiamine Deficiency,trimethoprim
+Beriberi,trimethoprim
+Encephalitis,trimethoprim
+Prostatic Hyperplasia,trimethoprim
+Hyperplasia,trimethoprim
+Liver Abscess,trimethoprim
+"Liver Abscess, Pyogenic",trimethoprim
+Obesity,trimethoprim
+Diabetic Foot,trimethoprim
+Carcinoma,trimethoprim
+Urinary Bladder Neoplasms,trimethoprim
+Depression,trimipramine
+Dwarfism,triptorelin
+Primary Ovarian Insufficiency,triptorelin
+"Menopause, Premature",triptorelin
+Fatty Liver,triptorelin
+Metabolic Syndrome,triptorelin
+Hypogonadism,triptorelin
+Pelvic Pain,triptorelin
+Aneuploidy,triptorelin
+Gender Dysphoria,triptorelin
+Hemorrhage,urapidil
+Cerebral Hemorrhage,urapidil
+Cerebral Infarction,urapidil
+Gallstones,ursodeoxycholyltaurine
+Cholelithiasis,ursodeoxycholyltaurine
+Cholecystolithiasis,ursodeoxycholyltaurine
+Rupture,valdecoxib
+Inflammation,valdecoxib
+Hyperalgesia,valdecoxib
+Back Pain,valdecoxib
+Low Back Pain,valdecoxib
+Arthritis,valdecoxib
+Sprains and Strains,valdecoxib
+Ankle Injuries,valdecoxib
+Hyperkinesis,valproic-acid
+Substance Withdrawal Syndrome,valproic-acid
+"Depressive Disorder, Major",valproic-acid
+Post-Cardiac Arrest Syndrome,valproic-acid
+Heart Arrest,valproic-acid
+Hypothermia,valproic-acid
+Cerebral Hemorrhage,valproic-acid
+Hemorrhage,valproic-acid
+COVID-19,valproic-acid
+Pneumonia,valproic-acid
+"Pneumonia, Viral",valproic-acid
+Attention Deficit Disorder with Hyperactivity,valproic-acid
+Conduct Disorder,valproic-acid
+Asthma,valproic-acid
+"Stress Disorders, Traumatic",valproic-acid
+Obesity,valproic-acid
+Panic Disorder,valproic-acid
+Opioid-Related Disorders,valproic-acid
+Behavioral Symptoms,valproic-acid
+"Epilepsy, Reflex",valproic-acid
+"Leukemia, T-Cell",valproic-acid
+"Leukemia-Lymphoma, Adult T-Cell",valproic-acid
+Precancerous Conditions,valproic-acid
+Toxoplasmosis,valproic-acid
+"Epilepsy, Rolandic",valproic-acid
+Proteinuria,valsartan
+Coronary Artery Disease,valsartan
+Prediabetic State,valsartan
+Glucose Intolerance,valsartan
+Severe Acute Respiratory Syndrome,valsartan
+Respiratory Distress Syndrome,valsartan
+"Respiratory Distress Syndrome, Newborn",valsartan
+Acute Lung Injury,valsartan
+Coronavirus Infections,valsartan
+Diabetic Angiopathies,valsartan
+"Shock, Cardiogenic",valsartan
+"Cardiac Output, Low",valsartan
+Connective Tissue Diseases,valsartan
+Hypotension,valsartan
+Respiration Disorders,valsartan
+Respiratory Tract Diseases,valsartan
+"Neoplasms, Second Primary",valsartan
+Cardiotoxicity,valsartan
+Breast Diseases,valsartan
+Albuminuria,valsartan
+Chagas Disease,valsartan
+Lymphoma,valsartan
+"Lymphoma, Non-Hodgkin",valsartan
+Prehypertension,valsartan
+Overweight,valsartan
+Apnea,valsartan
+Sleep Apnea Syndromes,valsartan
+Ventricular Dysfunction,valsartan
+"Glomerulonephritis, IGA",valsartan
+Glomerulonephritis,valsartan
+Disease,valsartan
+Inflammation,valsartan
+Depressive Disorder,valsartan
+Depression,valsartan
+"Depressive Disorder, Major",valsartan
+Aneurysm,valsartan
+Aortic Aneurysm,valsartan
+"Aortic Aneurysm, Abdominal",valsartan
+"Cardiomyopathy, Dilated",valsartan
+"Glomerulosclerosis, Focal Segmental",valsartan
+"Glomerulonephritis, Membranous",valsartan
+Nephrosclerosis,valsartan
+"Sleep Apnea, Obstructive",valsartan
+Hypoxia,valsartan
+Ischemic Stroke,valsartan
+Cerebral Infarction,valsartan
+Mitral Valve Insufficiency,valsartan
+Osteoporosis,valsartan
+Vitamin D Deficiency,valsartan
+Hypogonadism,vardenafil
+Dyslipidemias,vardenafil
+Metabolic Syndrome,vardenafil
+Liver Cirrhosis,vardenafil
+Heart Diseases,varenicline
+Coronary Disease,varenicline
+Coronary Artery Disease,varenicline
+Myocardial Ischemia,varenicline
+Depressive Disorder,varenicline
+Depression,varenicline
+"Depressive Disorder, Major",varenicline
+Dyssomnias,varenicline
+Parasomnias,varenicline
+Bipolar Disorder,varenicline
+Mental Disorders,varenicline
+Hyperkinesis,varenicline
+Attention Deficit Disorder with Hyperactivity,varenicline
+Problem Behavior,varenicline
+Disease Susceptibility,varenicline
+Genetic Predisposition to Disease,varenicline
+Pneumonia,varenicline
+Asthma,varenicline
+Cognition Disorders,varenicline
+Hypersensitivity,varenicline
+Dyskinesias,varenicline
+Parkinsonian Disorders,varenicline
+Tardive Dyskinesia,varenicline
+Immunologic Deficiency Syndromes,varenicline
+Hypertension,varenicline
+Substance Withdrawal Syndrome,varenicline
+Disorders of Excessive Somnolence,varenicline
+Sleepiness,varenicline
+Inflammation,varenicline
+Chronic Pain,venlafaxine
+Acute Pain,venlafaxine
+"Stress Disorders, Post-Traumatic",venlafaxine
+Apnea,venlafaxine
+Head and Neck Neoplasms,venlafaxine
+Dementia,venlafaxine
+"Stress Disorders, Traumatic",venlafaxine
+Body Dysmorphic Disorders,venlafaxine
+Substance Withdrawal Syndrome,venlafaxine
+Phobic Disorders,venlafaxine
+Brain Injuries,venlafaxine
+"Brain Injuries, Traumatic",venlafaxine
+Wounds and Injuries,venlafaxine
+Dysthymic Disorder,venlafaxine
+Spinal Cord Injuries,venlafaxine
+Multiple Sclerosis,venlafaxine
+"Multiple Sclerosis, Relapsing-Remitting",venlafaxine
+Sclerosis,venlafaxine
+Osteoarthritis,venlafaxine
+Migraine Disorders,venlafaxine
+Atrioventricular Block,verapamil
+Tinnitus,verapamil
+Coronavirus Infections,verapamil
+Marfan Syndrome,verapamil
+Arachnodactyly,verapamil
+Myocardial Ischemia,verapamil
+Coronary Disease,verapamil
+Metabolic Syndrome,verapamil
+Proteinuria,verapamil
+Heart Diseases,verapamil
+Cardiomyopathies,verapamil
+"Arrhythmias, Cardiac",verapamil
+Tachycardia,verapamil
+"Tachycardia, Ventricular",verapamil
+"Cardiomyopathy, Hypertrophic",verapamil
+"Hypertrophy, Left Ventricular",verapamil
+Hypertrophy,verapamil
+"Pathological Conditions, Anatomical",verapamil
+"Heart Failure, Systolic",verapamil
+Systolic Murmurs,verapamil
+"Cardiomyopathy, Dilated",verapamil
+Kidney Calculi,verapamil
+Nephrolithiasis,verapamil
+Calculi,verapamil
+Keloid,verapamil
+Recurrence,verapamil
+"Vasospasm, Intracranial",verapamil
+Infarction,verapamil
+Hypoglycemia,verapamil
+Premature Birth,verapamil
+"Anxiety, Separation",vilazodone
+Blastomycosis,voriconazole
+Critical Illness,voriconazole
+Cryptococcosis,voriconazole
+"Phobia, Social",vortioxetine
+Hot Flashes,vortioxetine
+Dementia,vortioxetine
+"Stress Disorders, Traumatic",vortioxetine
+"Stress Disorders, Post-Traumatic",vortioxetine
+Diabetes Mellitus,vortioxetine
+"Diabetes Mellitus, Type 2",vortioxetine
+Breast Neoplasms,vortioxetine
+Panic Disorder,vortioxetine
+"Abortion, Spontaneous",warfarin
+"Abortion, Habitual",warfarin
+Atherosclerosis,warfarin
+Calcinosis,warfarin
+Hemoglobinuria,warfarin
+"Hemoglobinuria, Paroxysmal",warfarin
+Aortic Valve Insufficiency,warfarin
+Dementia,warfarin
+Cognitive Dysfunction,warfarin
+Cognition Disorders,warfarin
+Oligohydramnios,warfarin
+Upper Extremity Deep Vein Thrombosis,warfarin
+"Renal Insufficiency, Chronic",warfarin
+Gastrointestinal Hemorrhage,warfarin
+"Hypertension, Portal",warfarin
+"Foramen Ovale, Patent",warfarin
+Vascular Calcification,warfarin
+Coronary Disease,warfarin
+Acute Coronary Syndrome,warfarin
+Hypersplenism,warfarin
+Hemophilia A,zalcitabine
+Trigeminal Neuralgia,zileuton
+Neuralgia,zileuton
+Weight Gain,ziprasidone
+Schizophrenia Spectrum and Other Psychotic Disorders,ziprasidone
+Panic Disorder,ziprasidone
+Mania,ziprasidone
+"Stress Disorders, Traumatic",ziprasidone
+"Stress Disorders, Post-Traumatic",ziprasidone
+"Affective Disorders, Psychotic",ziprasidone
+Recurrence,ziprasidone
+Syndrome,ziprasidone
+Insulin Resistance,ziprasidone
+Diabetes Mellitus,ziprasidone
+"Schizophrenia, Paranoid",ziprasidone
+Heart Diseases,zofenopril-calcium
+"Diabetes Mellitus, Type 2",zofenopril-calcium
+"Supranuclear Palsy, Progressive",zolpidem
+Respiratory Aspiration,zolpidem
+Sleep Apnea Syndromes,zolpidem
+Ataxia,zolpidem
+Psychomotor Disorders,zolpidem
+Heart Failure,zolpidem
+Apnea,zolpidem
+"Sleep Apnea, Obstructive",zolpidem
+Hot Flashes,zolpidem
+Depressive Disorder,zolpidem
+Delirium,zolpidem
+"Fractures, Bone",zolpidem
+Hip Fractures,zolpidem
+Sleep Deprivation,zolpidem
+Acute Coronary Syndrome,zolpidem
+"Sleep Apnea, Central",zolpidem
+Osteoarthritis,zolpidem
+Suicidal Ideation,zolpidem
+Fibromyalgia,zonisamide
+Myofascial Pain Syndromes,zonisamide
+Dyskinesias,zonisamide
+Parkinsonian Disorders,zonisamide

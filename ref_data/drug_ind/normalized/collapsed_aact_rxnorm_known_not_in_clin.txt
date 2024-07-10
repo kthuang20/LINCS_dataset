@@ -1,0 +1,568 @@
+pert_iname,indication
+5-aminolevulinic-acid,Rosacea|Hutchinson's Melanotic Freckle|Lentigo
+ARN-509,Prostatic Neoplasms
+BMS-927711,Migraine Disorders|Migraine with Aura|Migraine without Aura
+IPI-145,"Leukemia, Lymphocytic, Chronic, B-Cell"
+PA-824,Extensively Drug-Resistant Tuberculosis
+TG-101348,Primary Myelofibrosis
+acebutolol,"Angina Pectoris|Hypertension|Myocardial Infarction|Ventricular Fibrillation|Tachycardia, Ventricular|Heart Failure|Heart Diseases|Heart Failure, Diastolic"
+acenocoumarol,"Hemostatic Disorders|Blood Coagulation Disorders|Aneurysm, Dissecting|Stroke"
+acetazolamide,"Seizures|Pulmonary Edema|Vasospasm, Intracranial|Respiratory Insufficiency|Hyperalgesia|Opioid-Related Disorders|Aneurysm|Aortic Aneurysm, Thoracic|Drug-Related Side Effects and Adverse Reactions|Fatigue|Nephrotic Syndrome|Nephrosis|Respiration Disorders|Respiratory Tract Diseases"
+aclidinium,"Bronchial Spasm|Pulmonary Disease, Chronic Obstructive"
+acrivastine,"Rhinitis, Allergic, Perennial|Urticaria"
+acyclovir,"Herpes Zoster Ophthalmicus|AIDS-Related Opportunistic Infections|Epstein-Barr Virus Infections|Encephalitis, Herpes Simplex|Meningitis|Meningitis, Viral|Keratitis|Recurrence|Pneumonia, Viral|Warts|Foot Diseases|Multiple Sclerosis, Relapsing-Remitting"
+adapalene,Hypersensitivity
+adenosine,"Tachycardia, Atrioventricular Nodal Reentry|Tachycardia, Paroxysmal|Wolff-Parkinson-White Syndrome|Nutritional and Metabolic Diseases|No-Reflow Phenomenon|Cardiomyopathy, Hypertrophic|Cardiomyopathy, Dilated|Emergencies|Asthma|Premature Birth|Ventricular Premature Complexes"
+agomelatine,"Ischemic Stroke|Recurrence|Parkinson Disease|Sleep Wake Disorders|Parasomnias|Chronobiology Disorders|Psychotic Disorders|Schizophrenia, Paranoid"
+albendazole,"Clonorchiasis|Echinococcosis|Giardiasis|Hymenolepiasis|Necatoriasis|Opisthorchiasis|Enterobiasis|Parasitic Diseases|Nematode Infections|Intestinal Diseases|Schistosomiasis|Intestinal Diseases, Parasitic|Ascaridiasis|Periodontitis|Chronic Periodontitis|Diarrhea"
+alectinib,"Carcinoma, Non-Small-Cell Lung"
+aliskiren,Hypertension
+alizapride,Breast Neoplasms|Vomiting|Nausea
+allopurinol,"Peripheral Arterial Disease|Peripheral Vascular Diseases|Acute Coronary Syndrome|Angina, Stable|Sarcopenia|Bipolar Disorder|Disease|Kidney Failure, Chronic|Hypertrophy, Left Ventricular|Hypertrophy|Microvascular Angina|Renal Insufficiency|Schizophrenia|Psychotic Disorders|Diabetes Mellitus, Type 1|Urolithiasis|Stroke|Ischemic Stroke"
+alpelisib,"Breast Neoplasms|Breast Neoplasms, Male"
+altretamine,Ovarian Neoplasms
+alvimopan,"Postoperative Complications|Pain, Postoperative|Acute Pain"
+amantadine,"Dystonia|Parkinson Disease, Secondary|Akathisia, Drug-Induced|Ataxia|Cerebellar Ataxia|Parkinsonian Disorders|Ataxia Telangiectasia|Telangiectasis|Paralysis|Cerebral Palsy|Postoperative Cognitive Complications|Cognitive Dysfunction|Dementia|Frontotemporal Dementia|Aphasia, Primary Progressive|Pick Disease of the Brain|Problem Behavior|Delirium|Confusion|Depression|Depressive Disorder|Depressive Disorder, Treatment-Resistant"
+ambrisentan,Heart Failure|Connective Tissue Diseases|Dyspnea
+amfepramone,Obesity
+amiloride,"Ascites|Edema|Heart Failure|Hypokalemia|Polyuria|Polycystic Kidney Diseases|Polycystic Kidney, Autosomal Dominant|Diabetes Insipidus|Diabetes Insipidus, Nephrogenic|Bipolar Disorder|Coronary Vasospasm"
+aminocaproic-acid,Arthritis|Osteoarthritis|Scoliosis|Oral Hemorrhage
+aminoglutethimide,"Cushing Syndrome|Neoplasms, Hormone-Dependent"
+aminosalicylic-acid,Infections|Communicable Diseases|Acquired Immunodeficiency Syndrome|Sexually Transmitted Diseases|Lentivirus Infections|Immunologic Deficiency Syndromes|Immune System Diseases
+amiodarone,"Myocardial Infarction|Infarction|Cardiac Complexes, Premature|Shock, Septic|Shock|Respiratory Insufficiency|Toxemia|Sepsis|Cardiomyopathy, Dilated"
+amitriptyline,"Pain|Chronic Pain|Back Pain|Syndrome|Amputation, Traumatic|Spinal Cord Injuries|Neck Pain|Gastrointestinal Diseases|Digestive System Diseases|Abdominal Pain|Irritable Bowel Syndrome|Diarrhea|Myalgia|Facial Pain|Cerebral Palsy"
+amlexanox,"Dermatitis, Atopic|Rhinitis|Ulcer"
+amlodipine,"Coronary Artery Disease|Atrial Fibrillation|Hypertension, Pregnancy-Induced|COVID-19|Coronavirus Infections|Aortic Valve Stenosis|Kidney Failure, Chronic|Hypertension, Renal|Heart Diseases|Myocardial Ischemia|Albuminuria|Metabolic Diseases|Lipid Metabolism Disorders|Angina, Stable|Ischemia|Inflammation|Systolic Murmurs|Diabetic Nephropathies|Hypoxia|Anxiety Disorders|Fatty Liver|Ischemic Stroke|Cerebral Infarction|Carotid Stenosis|Constriction, Pathologic|Liver Diseases|Non-alcoholic Fatty Liver Disease"
+amodiaquine,"Anemia, Sickle Cell|Malnutrition|Severe Acute Malnutrition"
+amoxapine,Depressive Disorder|Psychophysiologic Disorders
+amrinone,"Cardiac Output, Low|Cardiomyopathy, Dilated|Heart Failure|Shock, Cardiogenic"
+anastrozole,"Breast Carcinoma In Situ|Obesity, Morbid|Weight Loss"
+apixaban,"Antiphospholipid Syndrome|Short Bowel Syndrome|Ankle Fractures|Ankle Injuries|Cognitive Dysfunction|Calcinosis|Pulmonary Infarction|Ventricular Dysfunction|Ventricular Dysfunction, Right|Pulmonary Heart Disease"
+apremilast,Alopecia|Alopecia Areata|Erythema|Erythema Nodosum|Parapsoriasis|Cardiovascular Diseases|Inflammation
+aripiprazole,"Weight Gain|Agnosia|Hyperprolactinemia|Drug-Related Side Effects and Adverse Reactions|Mood Disorders|Parkinson Disease|Cardiovascular Diseases|Hyperlipidemias|Insulin Resistance|Weight Loss|Aggression|Attention Deficit and Disruptive Behavior Disorders|Phobia, Social|Conduct Disorder|Feeding and Eating Disorders|Dyskinesias|Tardive Dyskinesia|Dysthymic Disorder|Cognition Disorders|Dyskinesia, Drug-Induced"
+armodafinil,Sleep Wake Disorders
+aspirin,"Arthritis, Rheumatoid|Fever|Gout|Pain|Rheumatic Fever|Pericarditis|Carotid Artery Diseases|Intracranial Hemorrhages|Brain Ischemia|Renal Artery Obstruction|Essential Hypertension|Gastroesophageal Reflux|Esophagitis, Peptic|Ovarian Hyperstimulation Syndrome|Tachycardia|Tachycardia, Ventricular|Ventricular Premature Complexes|Mood Disorders|Multiple Sclerosis, Relapsing-Remitting|Scleroderma, Systemic|Scleroderma, Diffuse|Glucosephosphate Dehydrogenase Deficiency|Coronary Restenosis|Kidney Failure, Chronic|Respiratory Tract Infections|Dementia|Aortic Valve Disease|Aortic Valve Insufficiency|Insulin Resistance|Diabetes Mellitus, Type 1|Brain Injuries|Brain Injuries, Traumatic|Hematoma, Subdural|Hematoma, Subdural, Chronic|Craniocerebral Trauma|Hematoma|Gastrointestinal Hemorrhage|Dental Caries|Microvascular Angina|Diabetic Nephropathies|Intracranial Embolism|Chagas Disease|Drug-Related Side Effects and Adverse Reactions|Respiration Disorders|Respiratory Tract Diseases|Asthma, Aspirin-Induced|Stroke, Lacunar|Cerebral Small Vessel Diseases|Hypertension, Portal|Fibrosis|Musculoskeletal Pain|Endometriosis|Pelvic Pain|Arthritis|Placenta Diseases|Proteinuria|Thyroiditis|Thyroiditis, Autoimmune|Opioid-Related Disorders|Myocardial Stunning|Urinary Bladder Neoplasms|Hematuria|Sarcoma|Coronary Vessel Anomalies|Hypersplenism"
+atenolol-(+/-),"Atrial Fibrillation|Atrial Flutter|Heart Failure|Myocardial Infarction|Tachycardia, Supraventricular|Ventricular Fibrillation|Tachycardia, Ventricular|Sick Sinus Syndrome|Angina, Stable|Coronary Artery Disease|Myocardial Ischemia|Coronary Disease|Overweight|Insulin Resistance|Metabolic Syndrome|Intracranial Arteriosclerosis|Arteriosclerosis|Stroke|Diabetes Mellitus|Infarction|Kidney Diseases|Diabetic Nephropathies|Diabetes Mellitus, Type 2|Aneurysm|Aortic Aneurysm|Aortic Aneurysm, Abdominal|Rupture|Hypotension|Postoperative Cognitive Complications|Cognitive Dysfunction|Renal Insufficiency, Chronic|Heart Failure, Diastolic|Ischemic Stroke|Cerebral Infarction|Ischemia|Spinal Cord Neoplasms|Spinal Neoplasms"
+atomoxetine,"Stress Disorders, Traumatic|Stress Disorders, Post-Traumatic|Depression|Depressive Disorder|Psychotic Disorders|Dyslexia|Sleep Initiation and Maintenance Disorders|Autism Spectrum Disorder|Asperger Syndrome|Child Development Disorders, Pervasive|Problem Behavior|Impulsive Behavior"
+atorvastatin,"Plaque, Atherosclerotic|Arrhythmias, Cardiac|Osteoporosis|Intracranial Hemorrhages|Angina Pectoris, Variant|Pulmonary Disease, Chronic Obstructive|Prediabetic State|Glucose Intolerance|Metabolic Diseases|Glucose Metabolism Disorders|Lipid Metabolism Disorders|Disease|Alagille Syndrome|Xanthomatosis|Aortic Aneurysm, Abdominal|Mood Disorders|Dementia|Neurodegenerative Diseases|Hyperparathyroidism|Hyperparathyroidism, Secondary|Bronchiectasis|Pseudomonas Infections|Muscular Diseases|Retroperitoneal Fibrosis|Cerebral Small Vessel Diseases|Myotoxicity|Ventricular Remodeling|Infections|Liver Diseases|Intracranial Arteriosclerosis|Acute Kidney Injury|Aortic Coarctation|Anterior Wall Myocardial Infarction|AIDS Dementia Complex|Systolic Murmurs|Myocardial Stunning|Mitochondrial Diseases"
+atracurium,"Respiratory Insufficiency|Paralysis|Postoperative Complications|Syndrome|Delayed Emergence from Anesthesia|Lung Injury|Myoclonus|Agnosia|Intracranial Hypertension|Brain Injuries|Brain Injuries, Traumatic|Hypertension|Postoperative Cognitive Complications|Cognitive Dysfunction"
+avanafil,Erectile Dysfunction
+azathioprine,"Graft vs Host Disease|Multiple Sclerosis|Purpura, Thrombocytopenic, Idiopathic|Pancreatitis|Skin Neoplasms|Cholangitis|Liver Cirrhosis, Biliary"
+azelaic-acid,Skin Manifestations|Hyperpigmentation
+azelastine,"Conjunctivitis, Allergic|Rhinitis, Vasomotor|Asthma|Inflammation"
+bambuterol,Asthma|Bronchial Spasm|Bronchitis|Emphysema|Cough|Acute Disease
+baricitinib,"Arthritis, Rheumatoid"
+bazedoxifene,"Menopause|Disease|Schizophrenia|Mood Disorders|Psychotic Disorders|Depression|Depressive Disorder|Endometriosis|Arthritis, Rheumatoid"
+benazepril,"Diabetic Nephropathies|Heart Failure|Hypertrophy, Left Ventricular|Ventricular Dysfunction, Left|COVID-19|Coronavirus Infections|Albuminuria|Hypertrophy|Proteinuria|Cardiomyopathies|Cardiomyopathy, Dilated|Hypotension"
+bendroflumethiazide,Edema|Heart Failure|Hypertension|Nephrotic Syndrome|COVID-19|Coronavirus Infections
+benzbromarone,"Ventricular Dysfunction, Left|Metabolic Syndrome|Syndrome"
+benzthiazide,Edema|Heart Failure|Hypertension|Nephrotic Syndrome
+benzydamine,"Tooth, Impacted|Postoperative Complications|Pericoronitis|Nausea|Vomiting|Postoperative Nausea and Vomiting"
+benzylpenicillin,"Actinomycosis|Anthrax|Botulism|Diphtheria|Empyema|Erysipelothrix Infections|Escherichia coli Infections|Gonorrhea|Listeriosis|Meningococcal Infections|Pasteurella Infections|Pericarditis|Pneumococcal Infections|Rat-Bite Fever|Respiratory Tract Infections|Salmonella Infections|Staphylococcal Infections|Tetanus|Urinary Tract Infections|Skin Diseases, Bacterial|Rheumatic Fever|Endocarditis, Subacute Bacterial|Bacteremia|Lung Diseases, Obstructive|Pulmonary Disease, Chronic Obstructive"
+betahistine,Meniere Disease
+bezafibrate,"Myocardial Infarction|Infarction|Acute Coronary Syndrome|Coronary Artery Disease|Myocardial Ischemia|Hypercholesterolemia|Plaque, Atherosclerotic"
+bifonazole,Mycoses|Skin Diseases|Foot Dermatoses
+binimetinib,Melanoma
+biperiden,Parkinson Disease|Drug-Related Side Effects and Adverse Reactions
+bisoprolol,"Angina Pectoris|Myocardial Infarction|Tachycardia, Supraventricular|ST Elevation Myocardial Infarction|Non-ST Elevated Myocardial Infarction|Infarction|Kidney Failure, Chronic|Hypertension, Renal|Angina, Stable|Vascular Remodeling|Heart Diseases|Atherosclerosis|Coronary Disease|Myocardial Ischemia|Insulin Resistance|Metabolic Syndrome|Arrhythmias, Cardiac|Tachycardia|Tachycardia, Ventricular|Cardiomyopathy, Hypertrophic|Hypertrophy, Left Ventricular|Hypertrophy|Pathological Conditions, Anatomical|Aortic Valve Stenosis|Constriction, Pathologic|Ventricular Dysfunction|Ventricular Dysfunction, Left|Microvascular Angina|Angina Pectoris, Variant|Coronary Vasospasm|Diabetes Mellitus|Diabetes Mellitus, Type 2|Heart Failure, Systolic|Systolic Murmurs|Heart Failure, Diastolic|Postural Orthostatic Tachycardia Syndrome"
+bopindolol,"Atrial Fibrillation|Edema|Hypertension|Tachycardia, Ventricular"
+bosentan,Pneumonia
+bosutinib,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive"
+brexpiprazole,"Substance-Related Disorders|Psychotic Disorders|Depressive Disorder, Treatment-Resistant"
+budipine,Parkinson Disease
+buflomedil,Peripheral Arterial Disease
+bumetanide,"Ascites|Edema|Hypertension|Kidney Failure, Chronic|Liver Cirrhosis|Nephrotic Syndrome|Pulmonary Edema|Acute Kidney Injury|Drug-Related Side Effects and Adverse Reactions|Diabetes Mellitus"
+bupivacaine,"Pain|Arthritis|Hernia, Abdominal|Internal Hernia|Facies|Retinal Detachment|Vitreoretinopathy, Proliferative|Retinoschisis|Rupture|Diverticulitis|Nausea|Drug Overdose|Pituitary Diseases|Stress Disorders, Traumatic|Depression|Depressive Disorder|Depressive Disorder, Major|Depressive Disorder, Treatment-Resistant|Arteriovenous Fistula|Urinary Incontinence|Enuresis|Urinary Incontinence, Stress|Uterine Cervical Incompetence|Tennis Elbow|Inflammation|Rectal Diseases|Colic|Renal Colic|Tonsillitis|Rectocele|Hypertension|Meningioma|Paralysis|Fibromyalgia|Somatoform Disorders|Arm Injuries|Adenocarcinoma|Intervertebral Disc Degeneration|Intervertebral Disc Displacement|Spondylolisthesis|Spondylosis|Hematoma|Tibial Fractures|Tooth, Impacted|Kidney Neoplasms|Carcinoma, Renal Cell|Arrhythmias, Cardiac|Musculoskeletal Pain|Rheumatic Diseases|Spondylolysis|Joint Diseases|Femoracetabular Impingement|Infertility|Infertility, Male|Gastrointestinal Neoplasms|Crohn Disease|Intestinal Diseases|Inflammatory Bowel Diseases|Gastrointestinal Diseases|Digestive System Diseases|Radius Fractures|Heart Diseases|Intestinal Obstruction|Neck Pain|Obesity|Ventricular Dysfunction|Ventricular Dysfunction, Right|Hand Injuries|Forearm Injuries|Colonic Neoplasms|Rectal Neoplasms|Ileus|Diverticulum|Diverticulitis, Colonic|Constipation|Knee Injuries|Ehlers-Danlos Syndrome|Urinary Retention|Dwarfism|Breakthrough Pain|Pain, Intractable|Trigger Finger Disorder|Uterine Diseases|Prostatic Hyperplasia|Hyperplasia|Arthralgia|Rectal Fistula|Pruritus|Dyspareunia|Wrist Injuries|Finger Injuries|Cystitis|Cystitis, Interstitial|Urologic Diseases|Cryptorchidism|Uterine Prolapse|Bradycardia|Fractures, Multiple|Lymphedema|Scoliosis|Bursitis|Blood Loss, Surgical|Failed Back Surgery Syndrome|Fractures, Compression|Leg Injuries|Delirium|Hip Injuries|Fractures, Closed|Apnea|Sleep Apnea Syndromes|Neuroma|Hyperalgesia|Cervical Intraepithelial Neoplasia|Gallstones|Cholelithiasis|Cholecystolithiasis|Shoulder Impingement Syndrome|Hernia, Hiatal"
+bupropion,"Food Addiction|Dyssomnias|Intestinal Diseases|Inflammatory Bowel Diseases|Parasomnias|Kidney Failure, Chronic|Cognitive Dysfunction|Obesity, Morbid|Mental Disorders|Seizures|Cardiovascular Diseases|Disease Susceptibility|Genetic Predisposition to Disease|Cerebrovascular Disorders|Sleep Wake Disorders|Angina, Unstable|Psychotic Disorders|Behavior, Addictive|Sleep Initiation and Maintenance Disorders|Problem Behavior|Lung Diseases, Obstructive|Pulmonary Disease, Chronic Obstructive|Acquired Immunodeficiency Syndrome|Immunologic Deficiency Syndromes|Suicidal Ideation|Body Weight|Ataxia|Cerebellar Ataxia|Friedreich Ataxia"
+buspirone,Intellectual Disability|Williams Syndrome|Syndrome|Hypothermia
+cabergoline,"Infertility, Female|Acromegaly|Prostatic Neoplasms|Melanoma|Neuroendocrine Tumors|Dumping Syndrome"
+cabozantinib,"Carcinoma, Renal Cell"
+caffeine,"Fatigue|Hernia|Hernia, Inguinal|Kidney Diseases|Renal Insufficiency, Chronic|Scoliosis|Bronchopulmonary Dysplasia|Post-Dural Puncture Headache|Carcinoma, Renal Cell|Gastrointestinal Stromal Tumors|Reperfusion Injury|Cardiovascular Diseases|Brain Injuries|Hemorrhage|Atherosclerosis|Vertigo|Vestibular Diseases|Anxiety Disorders"
+canagliflozin,"Hypertension|Albuminuria|Weight Loss|COVID-19|Insulin Resistance|Hypersensitivity|Hyperuricemia|Heart Failure, Systolic|Systolic Murmurs|Glomerulonephritis|Glomerulonephritis, IGA"
+candesartan,"Diabetic Nephropathies|Heart Failure|Hypertension|Ventricular Dysfunction, Left"
+capsaicin,"Motor Disorders|Syndrome|Diabetes Complications|Alopecia|Alopecia Areata|Renal Insufficiency|Kidney Failure, Chronic|Rhinitis, Allergic|Psoriasis|Labor Pain"
+carbamazepine,"Epilepsy, Tonic-Clonic|Psychotic Disorders|Restless Legs Syndrome|Stress Disorders, Post-Traumatic|Substance Withdrawal Syndrome|Epilepsy, Complex Partial|Erythromelalgia|Epilepsy, Rolandic|Mood Disorders|Asthma"
+carfilzomib,Multiple Myeloma
+carglumic-acid,Hyperammonemia
+carisoprodol,Muscle Cramp|Muscle Rigidity|Muscle Spasticity|Myositis|Pain|Spasm
+carprofen,"Osteoarthritis|Pain, Postoperative"
+carvedilol,"Angina Pectoris|Myocardial Infarction|Lung Diseases|Pulmonary Disease, Chronic Obstructive|Cardiomyopathy, Dilated|Ascites|Peritonitis|Hepatic Encephalopathy|Brain Diseases|Infarction|Sprains and Strains|Univentricular Heart|Varicose Veins|Heart Diseases|Coronary Artery Disease|Myocardial Ischemia|Ischemia|Chagas Cardiomyopathy|Lung Diseases, Obstructive|Alzheimer Disease|Muscular Dystrophies|Muscular Dystrophy, Duchenne|Premature Birth|Tachycardia|Tachycardia, Ventricular|Ventricular Premature Complexes|ST Elevation Myocardial Infarction|Non-ST Elevated Myocardial Infarction|Hypoxia|Renal Insufficiency, Chronic|Heart Failure, Diastolic|Acute Coronary Syndrome|Syndrome"
+cefdinir,"Bronchitis|Escherichia coli Infections|Haemophilus Infections|Klebsiella Infections|Proteus Infections|Sinusitis|Staphylococcal Infections|Streptococcal Infections|Tonsillitis|Skin Diseases, Bacterial|Pneumonia, Bacterial|Moraxellaceae Infections|Pneumonia|Bronchitis, Chronic|Adenoma|Pituitary Neoplasms|Pituitary Diseases|Infections|Communicable Diseases"
+cefoperazone,"Bone Diseases, Infectious|Escherichia coli Infections|Genital Diseases, Female|Haemophilus Infections|Klebsiella Infections|Proteus Infections|Pseudomonas Infections|Salmonella Infections|Staphylococcal Infections|Streptococcal Infections|Serratia Infections|Skin Diseases, Bacterial|Pneumonia, Bacterial|Soft Tissue Infections|Pancreatitis|Pancreatitis, Acute Necrotizing"
+celecoxib,"Dysmenorrhea|Spondylarthropathies|Bile Duct Neoplasms|Cholangiocarcinoma|Wounds and Injuries|Necrosis|Leiomyoma|Sprains and Strains|Crohn Disease|Urethral Stricture|Arteriosclerosis|Coronary Artery Disease|Myocardial Ischemia|Ankle Injuries|Ureteral Calculi|Ureterolithiasis|Calculi|Renal Colic|Radius Fractures|Coronary Disease|Nausea|Constipation|Coronary Restenosis|Heart Diseases|Spinal Stenosis|Constriction, Pathologic|Kidney Calculi|Nephrolithiasis|Intestinal Diseases|Inflammatory Bowel Diseases|Nasal Polyps"
+chlorambucil,Breast Neoplasms|Choriocarcinoma|Ovarian Neoplasms|Testicular Neoplasms|Thrombocytosis|Uveitis
+chlormezanone,Anxiety Disorders|Muscle Spasticity
+chloroquine,"Amebiasis|Lupus Erythematosus, Discoid|Malaria, Avian|Pemphigus|Scleroderma, Systemic|Asymptomatic Diseases|Hepatitis A|Hepatitis, Autoimmune|Hepatitis|Rabies|Recurrence|Hepatitis C|Fetal Growth Retardation|Osteoarthritis|Osteoarthritis, Knee"
+chloroxine,"Scalp Dermatoses|Dermatitis, Seborrheic"
+chlorphenamine,"Rhinitis, Allergic, Perennial|Urticaria|Bronchitis|Hypotension"
+chlorpromazine,Anxiety Disorders|Child Behavior Disorders|Hiccup|Nausea|Tetanus|Attention Deficit and Disruptive Behavior Disorders|Mania|Disease|Bipolar Disorder|Emergencies|Aggression
+chlorthalidone,"Edema|Glomerulonephritis|Heart Failure|Liver Cirrhosis|Nephrotic Syndrome|COVID-19|Coronavirus Infections|Aortic Valve Stenosis|Hypertrophy, Left Ventricular|Aortic Valve Insufficiency|Hypertrophy|Drug-Related Side Effects and Adverse Reactions|Obesity|Metabolic Syndrome|Overweight"
+cholic-acid,Zellweger Syndrome
+cilostazol,"Graft Occlusion, Vascular|Carotid Artery Diseases|Diabetes Mellitus|Diabetes Mellitus, Type 2|Myocardial Infarction|Ischemic Stroke|Intracranial Hemorrhages|Cerebral Hemorrhage|Brain Ischemia|Ischemia|Hemorrhage|Polyneuropathies|Acute Coronary Syndrome|Intracranial Aneurysm|Aneurysm|Raynaud Disease|Myocardial Ischemia|Coronary Disease|Dementia|Dementia, Vascular|Constriction, Pathologic|Kidney Diseases|Diabetic Nephropathies|Heart Diseases|Hyperlipidemias|Hyperlipoproteinemias|Renal Insufficiency, Chronic|Angina, Stable|Diabetes Complications|Syndrome|Hypercholesterolemia|Metabolic Syndrome|Subarachnoid Hemorrhage|Alzheimer Disease|Arteriosclerosis|Arteriosclerosis Obliterans|Intracranial Arteriosclerosis"
+cimetidine,"Duodenal Ulcer|Dyspepsia|Esophagitis, Peptic|Gastroesophageal Reflux|Heartburn|Stomach Ulcer|Urticaria|Zollinger-Ellison Syndrome|Helicobacter Infections|Osteoarthritis|Respiratory Aspiration of Gastric Contents"
+cinoxacin,Escherichia coli Infections|Klebsiella Infections|Proteus Infections|Urinary Tract Infections
+ciprofloxacin,"Bacteroides Infections|Campylobacter Infections|Haemophilus Infections|Klebsiella Infections|Proteus Infections|Staphylococcal Infections|Typhoid Fever|Skin Diseases, Bacterial|Meningitis, Meningococcal|Meningitis|Suppuration|Otitis Media, Suppurative|Endocarditis, Bacterial|Endocarditis|Respiratory Tract Infections|Hypoglycemia|Hyperglycemia|Appendicitis|Pouchitis|Liver Cirrhosis|Kidney Calculi|Nephrolithiasis|Calculi|Bacteriuria|Asthma|Angioedemas, Hereditary|Prostatic Hyperplasia|Hyperplasia|Liver Abscess, Pyogenic|Colitis, Ulcerative|Cholelithiasis|Cholecystolithiasis|Gallstones|Dysentery, Bacillary|Periapical Abscess|Surgical Wound Infection|Ascites|Chronic Periodontitis|Urinary Bladder, Overactive|Wound Infection|Surgical Wound|Ureteral Calculi|Ureterolithiasis"
+citalopram,"Diabetic Neuropathies|Tobacco Use Disorder|Frailty|Amyloidosis|Compulsive Behavior|Psychotic Disorders|Hearing Loss|Deafness|Epilepsy|HIV Seropositivity|Facies|Sinusitis|Facial Pain|Disruptive, Impulse Control, and Conduct Disorders|Pain, Postoperative|Dementia, Vascular|Vascular Diseases|Coronary Artery Disease|Sleep Wake Disorders|Panic Disorder|Brain Injuries, Traumatic|Brain Injuries|Polyneuropathies|Diabetes Mellitus|Gastroesophageal Reflux|Premenstrual Syndrome|Head and Neck Neoplasms|Ischemia|Myocardial Ischemia|Frontotemporal Dementia|Aphasia, Primary Progressive|Pick Disease of the Brain|Asthma|Coronary Disease|Depression, Postpartum|Polycystic Ovary Syndrome|Agoraphobia|Multiple Sclerosis, Relapsing-Remitting|Internet Addiction Disorder|Inflammation|Epilepsy, Temporal Lobe|Heartburn|Myocardial Infarction|Infarction|Chest Pain|Ataxia|Cerebellar Ataxia|Friedreich Ataxia"
+clioquinol,Dermatitis|Folliculitis|Tinea Pedis|Acneiform Eruptions|Lichenoid Eruptions
+clofibrate,Coronary Artery Disease|Hypercholesterolemia|Hyperlipoproteinemias|Hypertriglyceridemia
+clomethiazole,Sleep Initiation and Maintenance Disorders|Parkinson Disease|Psychomotor Agitation|Substance Withdrawal Syndrome
+clomipramine,Depressive Disorder|Pain|Panic Disorder
+clonazepam,"Bipolar Disorder|Dysarthria|Epilepsies, Myoclonic|Epilepsy, Absence|Restless Legs Syndrome|Tic Disorders|Lennox Gastaut Syndrome|Post-Cardiac Arrest Syndrome|Heart Arrest|Hypothermia|Stress Disorders, Traumatic|Stress Disorders, Post-Traumatic|Psychotic Disorders|Phobic Disorders|Phobia, Social|Agoraphobia|Depression|Depressive Disorder|Depressive Disorder, Major|Cerebral Palsy"
+clonidine,"Diarrhea|Dysmenorrhea|Tourette Syndrome|Glaucoma|Pain, Intractable|Sialorrhea|Alcohol-Induced Disorders, Nervous System|Labor Pain|Breakthrough Pain|Hip Dislocation|Developmental Dysplasia of the Hip|Hip Dislocation, Congenital|Femoracetabular Impingement|Frailty|Cognitive Dysfunction|Ataxia|Cerebellar Ataxia|Ataxia Telangiectasia|Telangiectasis|Failure to Thrive|Pulpitis|Catatonia|Depressive Disorder|Depressive Disorder, Major|Bipolar Disorder|Emergencies|Fractures, Closed|Osteomyelitis|Tarsal Coalition|Bursitis|Clubfoot|Talipes|Equinus Deformity|Flatfoot|Foot Deformities|Foot Deformities, Congenital|Exostoses|Leg Length Inequality|Syndactyly|Hand Deformities|Polydactyly|Hand Deformities, Congenital|Congenital Abnormalities|Synovial Cyst|Spinal Stenosis|Intervertebral Disc Degeneration|Intervertebral Disc Displacement|Spondylolisthesis|Spondylosis|Osteoarthritis, Knee|Anterior Cruciate Ligament Injuries|Endometriosis|Vomiting|Tic Disorders|Heart Diseases|Kidney Diseases|Diabetic Nephropathies|Diabetes Mellitus, Type 2|Ankle Fractures|Osteoarthritis|Joint Diseases|Arterial Occlusive Diseases|Heart Failure|Agnosia|Retinal Diseases|Retinopathy of Prematurity|Premature Birth|Infant, Premature, Diseases|Pain, Procedural"
+clotrimazole,"Candidiasis, Cutaneous|Dermatitis, Atopic|Eczema|Skin Diseases|Skin Diseases, Eczematous|Recurrence|Diaper Rash|Renal Insufficiency|Kidney Failure, Chronic"
+clozapine,"Depression|Depressive Disorder|Depressive Disorder, Major|Schizophrenia, Childhood|Substance-Related Disorders|Panic Disorder|Alcoholism|Marijuana Abuse|Congenital Abnormalities|Metabolic Syndrome"
+cobicistat,"HIV-Associated Lipodystrophy Syndrome|Cardiovascular Diseases|Vascular Diseases|Cardiovascular Abnormalities|Congenital Abnormalities|Lipodystrophy|Body Weight|Body Weight Changes|Drug-Related Side Effects and Adverse Reactions|Cognitive Dysfunction|Hepatitis C, Chronic|Coinfection|Bone Diseases|Bone Diseases, Metabolic|Metabolic Diseases|Opioid-Related Disorders|Neurotoxicity Syndromes|AIDS Dementia Complex|HIV Seropositivity"
+cobimetinib,Melanoma
+cromoglicic-acid,"Asthma|Asthma, Exercise-Induced|Bronchial Spasm|Conjunctivitis|Food Hypersensitivity|Rhinitis, Allergic, Perennial|Inflammatory Bowel Diseases|Dyspepsia|Esophagitis|Eosinophilic Esophagitis"
+curcumin,"Prediabetic State|Glucose Intolerance|Cardiovascular Abnormalities|Metrorrhagia|Hemorrhage|Hypersensitivity|Depressive Disorder|Irritable Bowel Syndrome|Polycystic Kidney Diseases|Polycystic Kidney, Autosomal Dominant|Migraine Disorders|Alveolar Bone Loss"
+cyclizine,Dizziness|Motion Sickness|Nausea|Vertigo|Vomiting
+cyclobenzaprine,"Muscle Rigidity|Muscle Spasticity|Myositis|Pain|Tetanus|Syndrome|Somatoform Disorders|Myalgia|Hyperkinesis|Fatigue|Obesity, Morbid"
+cyproheptadine,"Blepharospasm|Cluster Headache|Nelson Syndrome|Pruritus|Rhinitis, Allergic, Perennial|Schizophrenia|Paraparesis, Spastic|Dyskinesias|Feeding and Eating Disorders|Failure to Thrive|Hyperkinesis|Disease|Attention Deficit Disorder with Hyperactivity|Mental Disorders|Problem Behavior|Attention Deficit and Disruptive Behavior Disorders|Neurodevelopmental Disorders"
+cytarabine,Meningeal Neoplasms|Mediastinal Neoplasms
+dabigatran-etexilate,Pulmonary Embolism|Venous Thrombosis|Stroke
+dacarbazine,"Fibrosarcoma|Rhabdomyosarcoma|Carcinoma, Islet Cell|Carcinoma, Medullary|Neoplasm Metastasis"
+dacomitinib,"Carcinoma, Non-Small-Cell Lung"
+dalfampridine,"Gait Disorders, Neurologic|Optic Nerve Diseases|Optic Neuropathy, Ischemic"
+dantrolene,Cerebral Infarction|Cerebral Palsy|Malignant Hyperthermia|Muscle Spasticity|Neuroleptic Malignant Syndrome|Spinal Cord Injuries
+dapsone,"Dermatitis Herpetiformis|Polychondritis, Relapsing|Toxoplasmosis|Leprosy, Lepromatous|AIDS-Related Opportunistic Infections|Dermatitis|Tuberculosis|Leprosy|Obesity|Vasculitis, Leukocytoclastic, Cutaneous|Urticaria|Hypersensitivity"
+darifenacin,"Urinary Incontinence, Urge|Nocturia|Urinary Incontinence|Spinal Cord Injuries"
+darunavir,Asymptomatic Infections|HIV-Associated Lipodystrophy Syndrome|Cardiovascular Diseases|Vascular Diseases|Cardiovascular Abnormalities|Congenital Abnormalities|Lipodystrophy|Body Weight|Body Weight Changes|Drug-Related Side Effects and Adverse Reactions|Papilloma|Cytomegalovirus Infections|Coinfection|Epstein-Barr Virus Infections|Inflammation|Cognitive Dysfunction|Proteinuria|Neurotoxicity Syndromes|AIDS Dementia Complex|HIV Seropositivity
+dasabuvir,"Hepatitis C, Chronic"
+deferiprone,Renal Insufficiency|Anemia|Liver Diseases
+deoxycholic-acid,Lipid Metabolism Disorders
+dequalinium,"Candidiasis|Candidiasis, Vulvovaginal"
+desvenlafaxine,"Anxiety Disorders|Phobia, Social|Dysthymic Disorder|Anhedonia|Breast Neoplasms|Hot Flashes|Opioid-Related Disorders"
+dexfenfluramine,Obesity
+dextromethorphan,"Brain Injuries|Brain Injuries, Traumatic|Bronchitis|Acute Disease|Pain, Postoperative|Anemia, Sickle Cell|Atherosclerosis|Inflammation"
+diacerein,Inflammation|Gout
+diazepam,"Alcohol Withdrawal Delirium|Muscle Spasticity|Panic Disorder|Psychomotor Agitation|Emergencies|Pain, Postoperative|Infertility|Pain|Anus Diseases|Crigler-Najjar Syndrome|Substance Withdrawal Syndrome|Stress Disorders, Traumatic|Stress Disorders, Post-Traumatic|Depression|Depressive Disorder|Substance-Related Disorders|Psychotic Disorders|Mental Disorders|Shared Paranoid Disorder|Seizures, Febrile|Hyperthermia|Fever|Cerebral Palsy|Alcoholism|Wounds and Injuries|Whiplash Injuries"
+diazoxide,"Hypertension, Malignant|Diabetes Mellitus, Type 1|Neuroendocrine Tumors|Pure Autonomic Failure"
+diclofenac,"Arthritis, Juvenile|Photophobia|Athletic Injuries|Kidney Calculi|Nephrolithiasis|Infections|Communicable Diseases|Urinary Tract Infections|Migraine Disorders|Migraine without Aura|Migraine with Aura|Facial Pain|Post-Dural Puncture Headache|Hallux Valgus|Bunion|Respiratory Tract Infections|Prostatic Hyperplasia|Hyperplasia|Pericardial Effusion|Graves Disease|Graves Ophthalmopathy|Glaucoma|Hemorrhoids|Rectal Fistula|Fistula|Infertility, Female|Photosensitivity Disorders|Pericoronitis|Thrombophlebitis|Postoperative Complications|Hypopituitarism|Breakthrough Pain|Multiple Sclerosis|Sclerosis|Seizures, Febrile|Recurrence|Fever|Seizures|Hyperthermia|Macular Edema|Edema|Rupture|Hyperemia|Paresthesia|Chest Pain|Urinary Calculi|Urolithiasis|Calculi|Opioid-Related Disorders|Drug-Related Side Effects and Adverse Reactions|Delirium|Hip Fractures|Tooth, Impacted|Shoulder Pain|Respiratory Insufficiency|Lung Neoplasms|Pleural Neoplasms|Pleural Effusion|Pneumothorax|Respiratory Aspiration|Pharyngitis|Laryngitis"
+dicloxacillin,"Cellulitis|Postoperative Complications|Staphylococcal Skin Infections|Urinary Tract Infections|Wound Infection|Pneumonia, Bacterial|Soft Tissue Infections|Endocarditis, Bacterial|Endocarditis|Dermatitis, Atopic|Dermatitis|Eczema|Arthritis, Infectious|Substance-Related Disorders|Substance Abuse, Intravenous"
+dicoumarol,Pulmonary Embolism|Thromboembolism|Venous Thrombosis
+diethylcarbamazine,Parasitic Diseases|Pulmonary Eosinophilia
+diethylstilbestrol,"Abortion, Spontaneous|Breast Neoplasms|Carcinoma"
+diflunisal,"Arthritis, Rheumatoid|Osteoarthritis|Pain|HIV Infections"
+dihydroergocristine,Postpartum Hemorrhage
+dihydroergotamine,"Cluster Headache|Postpartum Hemorrhage|Hypotension, Orthostatic|Xerostomia"
+dinoprost,Postpartum Hemorrhage|Uterine Inertia|Hemorrhage
+diphenidol,Motion Sickness|Nausea|Vertigo|Vomiting|Ganglion Cysts|Meniere Disease
+dipyridamole,"Coronary Thrombosis|Graft Occlusion, Vascular|Endotoxemia|Arteriosclerosis|Cardiovascular Diseases|Reperfusion Injury|Ischemia|Ischemic Attack, Transient|Brain Ischemia|Wounds and Injuries|Atherosclerosis|Hypertension, Portal|Thrombosis|Venous Thrombosis|Fibrosis|Mania|Coronary Disease|Hypersplenism"
+disopyramide,"Atrial Fibrillation|Atrial Flutter|Tachycardia, Ventricular|Ventricular Premature Complexes|Atrial Premature Complexes"
+disulfiram,Alcohol Drinking|Anxiety Disorders
+donepezil,"Sleepiness|Neurocognitive Disorders|Apnea|Sleep Apnea Syndromes|Sleep Apnea, Obstructive|Kidney Diseases|Kidney Failure, Chronic|Mania|Bipolar Disorder|Depressive Disorder|Postoperative Complications|Mental Disorders|Psychotic Disorders|Amnesia|Multiple Sclerosis, Relapsing-Remitting|Low Back Pain|Diabetic Neuropathies|Back Pain"
+dopamine,"Bradycardia|Cardiac Output, Low|Heart Block|Kidney Diseases|Heart Failure, Diastolic|Pituitary Neoplasms|Prolactinoma|Cardio-Renal Syndrome|Acute Kidney Injury|Delirium|Emergencies|Disruptive, Impulse Control, and Conduct Disorders|Sepsis|Toxemia|Acromegaly|Head and Neck Neoplasms"
+dosulepin,Depressive Disorder
+doxapram,Hypercapnia|Respiratory Hypersensitivity|Substance-Related Disorders|Premature Birth|Hypoxia
+doxazosin,"Urinary Retention|Cardiomyopathies|Cardiomyopathy, Dilated|Urinary Bladder, Overactive|Essential Hypertension|Kidney Diseases|Diabetic Nephropathies|Diabetes Mellitus, Type 2|Rhinitis|Rhinitis, Allergic|Inflammation|Renal Insufficiency, Chronic|Cardiovascular Diseases|Urinary Bladder Neck Obstruction"
+doxepin,"Depressive Disorder|Dermatitis, Atopic|Pain|Pruritus"
+doxorubicin,Testicular Neoplasms|Mediastinal Neoplasms|Obesity
+dronedarone,Fibrosis|Disease Progression|Recurrence
+droperidol,"Pain|Hallux Valgus|Bunion|Pain, Postoperative|Cholecystolithiasis|Cholelithiasis|Gallstones|Breast Neoplasms"
+duloxetine,"Dysthymic Disorder|Frailty|Acute Pain|Intervertebral Disc Degeneration|Bipolar Disorder|Neck Pain|Neuralgia, Postherpetic|Hearing Loss|Deafness|Joint Diseases|Psychotic Disorders|Dementia|Irritable Bowel Syndrome|Panic Disorder|Migraine Disorders|Compulsive Personality Disorder|Obsessive-Compulsive Disorder|Feeding and Eating Disorders|Binge-Eating Disorder|Bulimia|Headache|Headache Disorders|Pelvic Pain"
+ecabet,Ulcer
+econazole,"Candidiasis, Cutaneous|Tinea Versicolor"
+efavirenz,"Nervous System Diseases|Central Nervous System Diseases|Hepatitis B|HIV-Associated Lipodystrophy Syndrome|Cardiovascular Diseases|Fatty Liver|Meningitis, Cryptococcal|Meningitis|Hepatitis C, Chronic"
+eflornithine,Hypertrichosis|Hirsutism
+elvitegravir,"Hepatitis C|Hepatitis C, Chronic|Coinfection|Bone Diseases|Bone Diseases, Metabolic|Hepatitis|Metabolic Diseases|Opioid-Related Disorders|Crush Injuries"
+emedastine,"Conjunctivitis, Allergic|Rhinitis|Rhinitis, Allergic"
+empagliflozin,"Cardiovascular Diseases|Arrhythmias, Cardiac|Coronary Artery Disease|Myocardial Ischemia|Coronary Disease|Wounds and Injuries|Hypertrophy, Left Ventricular|Dumping Syndrome|Diabetic Retinopathy|Albuminuria|Atrial Fibrillation|Obesity, Abdominal|Amyloidosis|Hepatitis A|Hepatitis B|Hepatitis B, Chronic|Hepatitis|Hepatitis, Chronic|Macular Edema|Overweight|Diabetes Complications|Sarcopenia|Weight Loss|Frailty|Glomerulonephritis, IGA"
+emtricitabine,"Neurocognitive Disorders|Sexually Transmitted Diseases|Opportunistic Infections|AIDS-Related Opportunistic Infections|Weight Gain|Cardiovascular Diseases|Dyslipidemias|Proteinuria|Bone Diseases, Metabolic|Bone Diseases|Opioid-Related Disorders|Neurotoxicity Syndromes|Syphilis|Osteoporosis|Fibrosis"
+enalapril,"Bartter Syndrome|Edema|Hypertension, Malignant|Hypertrophy, Left Ventricular|Coronavirus Infections|Hypertension, Pregnancy-Induced|Kidney Failure, Chronic|Chagas Disease|Glomerulonephritis, IGA|Metabolic Syndrome|Syndrome|Hyperhomocysteinemia|Atherosclerosis|Recurrence|Hypotension"
+enoxacin,Escherichia coli Infections|Gonorrhea|Haemophilus Infections|Klebsiella Infections|Proteus Infections|Pseudomonas Infections|Staphylococcal Infections|Urinary Tract Infections
+entecavir,"Inflammation|Fatty Liver|Nephrotic Syndrome|Nephrosis|Glomerulonephritis|Hypertension, Portal|Hypertension|Viremia|Tuberculosis|Arthritis, Rheumatoid|Acidosis|Acidosis, Lactic|Recurrence"
+enzalutamide,Prostatic Neoplasms
+epinastine,Hypersensitivity
+epinephrine,"Airway Obstruction|Bradycardia|Glaucoma, Open-Angle|Heart Block|Stomatognathic Diseases|Dental Pulp Diseases|Drug-Related Side Effects and Adverse Reactions|Periodontitis|Hip Dislocation|Developmental Dysplasia of the Hip|Hip Dislocation, Congenital|Femoracetabular Impingement|Drug Overdose|Cardiac Output, High|Pulmonary Arterial Hypertension|Familial Primary Pulmonary Hypertension|Brain Neoplasms|Osteoarthritis, Hip|Acute Pain|Aneurysm, Dissecting|Varicose Veins|Meningioma|Paralysis|Cerebral Palsy|Acute Coronary Syndrome|Syndrome|No-Reflow Phenomenon|Synovial Cyst|Spinal Stenosis|Spondylosis|Radiculopathy|Cataract|Tooth, Impacted|Kidney Neoplasms|Carcinoma, Renal Cell|Arrhythmias, Cardiac|Nasal Polyps|Pain, Procedural|Trigger Finger Disorder|Gastrointestinal Neoplasms|Crohn Disease|Intestinal Diseases|Inflammatory Bowel Diseases|Gastrointestinal Diseases|Digestive System Diseases|Neuralgia|Shoulder Pain|Abscess|Rib Fractures|Blepharoptosis|Colonic Polyps|Mouth Neoplasms|Laryngitis|Croup|Joint Diseases|Papilloma|Postoperative Hemorrhage|Shoulder Impingement Syndrome|Liver Diseases|End Stage Liver Disease|Liver Cirrhosis|Acute Kidney Injury|Mydriasis|Bacteremia|Colonic Neoplasms|Critical Illness|Pancreatitis|Nervous System Diseases|Peripheral Nervous System Diseases|Hip Injuries|Cicatrix|Nausea|Vomiting|Postoperative Nausea and Vomiting|Gingival Recession|Cervical Intraepithelial Neoplasia|Urinary Incontinence|Urinary Incontinence, Stress|Urinary Retention|Oral Hemorrhage"
+eplerenone,"Heart Failure, Systolic|Heart Diseases|Heart Defects, Congenital|Univentricular Heart|Tetralogy of Fallot|Transposition of Great Vessels|Sleep Apnea Syndromes|Sleep Apnea, Obstructive|Hypertrophy, Left Ventricular|Hypertrophy|Systolic Murmurs|Obesity|Intervertebral Disc Degeneration|Radiculopathy|Back Pain|Low Back Pain|Heart Failure, Diastolic|Ventricular Remodeling|Myocardial Ischemia|Coronary Artery Disease|Ischemia|Chest Pain|Ventricular Dysfunction|Ventricular Dysfunction, Left|Insulin Resistance|Obesity, Abdominal|Hyperaldosteronism|Cardiovascular Diseases|Overweight|Aneurysm|Aortic Aneurysm|Aortic Aneurysm, Abdominal"
+erythromycin,"Acne Vulgaris|Campylobacter Infections|Chancroid|Erythrasma|Gastroenteritis|Gonorrhea|Legionnaires' Disease|Mycoplasma Infections|Staphylococcal Infections|Streptococcal Infections|Syphilis|Urethritis|Whooping Cough|Eye Infections, Bacterial|Surgical Wound Infection|Wound Infection|Eyelid Diseases|Wounds and Injuries|Surgical Wound|Blepharitis|Nasopharyngeal Neoplasms|Adenomatous Polyposis Coli"
+escitalopram,"Depressive Disorder, Major"
+esmolol,"Angina Pectoris|Heart Failure|Tachycardia, Supraventricular|Ventricular Fibrillation|Tachycardia, Ventricular|Intraoperative Awareness|Pain, Postoperative|Acute Coronary Syndrome|Vascular Diseases|Heart Diseases|Hemorrhagic Stroke|Myocardial Ischemia|Constipation|Vomiting|Tinnitus|Reflex, Abnormal|Shock, Cardiogenic|Drug Overdose|Gallstones|Cholelithiasis|Cholecystolithiasis|Cardiomyopathies|Cardiomyopathy, Hypertrophic|Hypertrophy"
+estramustine-phosphate,Prostatic Neoplasms
+etacrynic-acid,"Ascites|Edema|Heart Failure|Hypertension|Kidney Failure, Chronic|Liver Cirrhosis|Nephrotic Syndrome|Pulmonary Edema|Acute Kidney Injury"
+ethylenediaminetetraacetic-acid,"Hypercalcemia|Lead Poisoning|Tachycardia, Ventricular|Manganese Poisoning|Drug-Related Side Effects and Adverse Reactions|Ventricular Fibrillation|Liver Cirrhosis|Fibrosis|Heavy Metal Poisoning"
+etodolac,"Arthritis, Rheumatoid|Osteoarthritis|Pain|Hypersensitivity"
+etoposide,Uterine Neoplasms|Histiocytosis|Cytokine Release Syndrome
+etoricoxib,"Sprains and Strains|Headache|Hallux Valgus|Bunion|Rupture|Ossification, Heterotopic|Ankle Injuries|Contusions|Appendicitis|Ovarian Cysts|Cholecystitis|Fibromyalgia|Myofascial Pain Syndromes|Tendinopathy|Periodontitis|Gout"
+etravirine,"Hepatitis A|Hepatitis C|Hepatitis B|Hepatitis C, Chronic|Hepatitis"
+eugenol,Toothache
+famciclovir,AIDS-Related Opportunistic Infections
+famotidine,"Duodenal Ulcer|Dyspepsia|Stomach Ulcer|Urticaria|Zollinger-Ellison Syndrome|Helicobacter Infections|Heart Diseases|Coronary Disease|Coronary Artery Disease|Myocardial Ischemia|Myocardial Infarction|Acute Coronary Syndrome|Infarction|Heart Defects, Congenital|Ulcer|Esophageal Motility Disorders|Esophageal Spasm, Diffuse|Pneumonia, Aspiration|Peptic Ulcer|Syndrome|Arthritis|Arthritis, Juvenile|Respiratory Aspiration of Gastric Contents"
+fasudil,Myocardial Infarction|ST Elevation Myocardial Infarction|Infarction
+febuxostat,"Renal Insufficiency, Chronic|Coronary Disease|Coronary Artery Disease|Myocardial Ischemia|Urolithiasis|Urinary Calculi|Prehypertension|Inflammation|Ventricular Dysfunction, Left|Metabolic Syndrome|Diabetes Mellitus|Diabetes Mellitus, Type 1"
+felbamate,"Seizures|Epilepsy, Complex Partial|Lennox Gastaut Syndrome"
+felodipine,"Angina Pectoris, Variant|Hypertension|COVID-19|Coronavirus Infections|Hypertrophy, Left Ventricular|Hypertrophy"
+fenoldopam,"Heart Failure|Hypertension, Malignant|Hypertension, Renovascular|Coronary Artery Disease"
+fexofenadine,"Gout|Skin Diseases|Arthritis, Gouty"
+fingolimod,"Nerve Degeneration|Diabetes Mellitus|Diabetes Mellitus, Type 2|Neurobehavioral Manifestations|Depression|Depressive Disorder"
+flavoxate,Urinary Incontinence|Nocturia|Dysuria
+flecainide,"Tachycardia, Ventricular|Arrhythmias, Cardiac|Brugada Syndrome"
+fluconazole,"Candidiasis, Chronic Mucocutaneous|Pneumonia|Urinary Tract Infections|Immunologic Deficiency Syndromes|Lung Diseases, Fungal|Central Nervous System Fungal Infections|Lung Diseases|Bacterial Infections and Mycoses"
+flumatinib,"Leukemia, Myeloid, Chronic-Phase"
+flumazenil,Drug Overdose|Drug-Related Side Effects and Adverse Reactions|Delirium|Hypokinesia|Fistula
+fluorouracil,"Foot Diseases|Bowen's Disease|Neoplasms, Basal Cell|Keloid|Pterygium|Cicatrix|Hypopigmentation|Photosensitivity Disorders|Glaucoma, Open-Angle"
+fluoxetine,"Bulimia|Panic Disorder|Bipolar Disorder|Kidney Failure, Chronic|Substance-Related Disorders|Alcohol-Related Disorders|Premenstrual Dysphoric Disorder|Cytokine Release Syndrome|Sleep Initiation and Maintenance Disorders|Anorexia|Feeding and Eating Disorders|Anorexia Nervosa|Down Syndrome|Self Mutilation|Borderline Personality Disorder|Insulin Resistance|Inflammation|Weight Gain|Recurrence|Kidney Diseases|Multiple Sclerosis, Relapsing-Remitting|Combat Disorders|Bulimia Nervosa"
+fluphenazine,Psychotic Disorders|Schizophrenia Spectrum and Other Psychotic Disorders
+fluspirilene,Psychotic Disorders|Schizophrenia Spectrum and Other Psychotic Disorders
+flutamide,Hirsutism|Premenstrual Syndrome|Premenstrual Dysphoric Disorder
+fluticasone-propionate,"Asthma|Nasal Polyps|Rhinitis, Allergic, Perennial"
+flutrimazole,Dermatomycoses
+fluvoxamine,"Panic Disorder|Depressive Disorder, Major|Mental Disorders"
+folic-acid,"Anemia, Megaloblastic|Cerebral Small Vessel Diseases|Dyslipidemias|Gout|Intestinal Diseases|Inflammatory Bowel Diseases|Osteoarthritis|Feeding and Eating Disorders|Dyspepsia|Infant Nutrition Disorders|Hyperhomocysteinemia|Retinal Diseases|Diabetic Retinopathy|Metabolic Syndrome|Fetal Growth Retardation|Essential Hypertension|Hepatitis A|Hepatitis C|Hepatitis|Urologic Diseases|Acute Kidney Injury|Postpartum Hemorrhage"
+fomepizole,Acidosis|Vision Disorders|Renal Insufficiency|Drug-Related Side Effects and Adverse Reactions
+furosemide,"Pulmonary Edema|Heart Failure, Diastolic|Proteinuria|Hypotension|Diabetic Nephropathies|Kidney Tubular Necrosis, Acute|Necrosis|Apnea|Sleep Apnea Syndromes|Sleep Apnea, Obstructive|Insulin Resistance|Coronary Vasospasm|Ventricular Dysfunction|Ventricular Dysfunction, Right"
+gabapentin,"Phobic Disorders|Osteoarthritis|Sensation Disorders|Shoulder Pain|Subarachnoid Hemorrhage|Hemorrhage|Headache|Hand Injuries|Osteoarthritis, Knee|Arthritis|Necrosis|Urethral Obstruction|Cholecystolithiasis|Cholelithiasis|Gallstones|Diabetes Mellitus, Type 2|Musculoskeletal Diseases|Neoplasms|Colonic Neoplasms|Rectal Neoplasms|Ileus|Diverticulitis|Diverticulum|Diverticulitis, Colonic|Constipation|Facial Pain|Asthma|Failed Back Surgery Syndrome|Urethral Stricture|Tissue Adhesions|Abdominal Pain|Epilepsy, Complex Partial|Puerperal Disorders|Agnosia|Dilatation, Pathologic|Tonsillitis|Fractures, Bone|Fractures, Multiple|Kidney Calculi|Nephrolithiasis|Calculi|Paresthesia|Chest Pain|Keratoconus|Alzheimer Disease|Radiculopathy|Hernia|Tarlov Cysts|Cerebral Palsy|Colitis|Colitis, Ulcerative|Irritable Bowel Syndrome|Cystitis|Cystitis, Interstitial|Prostatitis|Ulcer|Herpes Simplex|Herpes Zoster|Complex Regional Pain Syndromes|Reflex Sympathetic Dystrophy"
+gallopamil,"Arrhythmias, Cardiac"
+ganciclovir,"AIDS-Related Opportunistic Infections|Viremia|Hematologic Diseases|Acute Kidney Injury|Multiple Organ Failure|DNA Virus Infections|Herpesviridae Infections|Pneumonia, Viral"
+gatifloxacin,"Bronchitis|Cystitis|Escherichia coli Infections|Gonorrhea|Haemophilus Infections|Klebsiella Infections|Proteus Infections|Pyelonephritis|Salmonella Infections|Sinusitis|Staphylococcal Infections|Streptococcal Infections|Urinary Tract Infections|Pneumonia, Bacterial|Fever|Typhoid Fever|Hyperthermia"
+gemcitabine,"Lymphohistiocytosis, Hemophagocytic"
+gemfibrozil,"Hypercholesterolemia|Hyperlipoproteinemias|Hypertriglyceridemia|Atherosclerosis|Plaque, Atherosclerotic"
+gemifloxacin,"Bronchitis|Pneumonia, Pneumococcal|Urinary Tract Infections|Gram-Negative Bacterial Infections|Community-Acquired Infections|Gonorrhea"
+genistein,Toxemia|Sepsis
+glasdegib,"Leukemia, Myeloid, Acute"
+glibenclamide,Subarachnoid Hemorrhage|Hemorrhage|Pregnancy in Diabetics|Cardiomegaly|Obesity|Hypertrophy|Carotid Artery Diseases|Coronary Artery Disease|Myocardial Ischemia|Coronary Disease|Hypertension
+gliclazide,"Diabetic Nephropathies|Liver Diseases|Fatty Liver|Non-alcoholic Fatty Liver Disease|Angina Pectoris|Osteoporosis|Bone Diseases, Metabolic"
+glipizide,"Inflammation|Diabetes Mellitus, Type 1|Hyperglycemia|Coronary Artery Disease|Myocardial Ischemia|Coronary Disease"
+gliquidone,"Diabetes Mellitus|Diabetes Mellitus, Type 2"
+glycopyrrolate,"Abnormalities, Drug-Induced|Peptic Ulcer|Respiratory Tract Diseases|Hypotension|Appendicitis|Critical Illness|Nausea|Vomiting|Postoperative Nausea and Vomiting|Coronary Artery Disease|Neoplasms|Urinary Bladder Neoplasms|Urologic Neoplasms|Delirium|Emergence Delirium|Body Weight|Abdominal Neoplasms|Seizures|Hydrocephalus|Epilepsy|Headache|Neurofibromatoses|Urinary Retention|Gallstones|Cholelithiasis|Cholecystolithiasis"
+goserelin-acetate,"Myofibroma|Bulbo-Spinal Atrophy, X-Linked|Atrophy"
+grazoprevir,"Cross Infection|Substance-Related Disorders|Substance Abuse, Intravenous|Cardiovascular Diseases|Coinfection|Metabolic Diseases"
+guanadrel,Hypertension
+guanethidine,Hypertension
+halofantrine,"Malaria, Falciparum|Malaria, Vivax"
+haloperidol,"Child Behavior Disorders|Tourette Syndrome|Substance Withdrawal Syndrome|Hyperkinesis|Depression|Stress Disorders, Traumatic|Stress Disorders, Post-Traumatic|Abdominal Pain|Gastroparesis|Migraine Disorders|Headache|Behavioral Symptoms|Alzheimer Disease|Marijuana Abuse|Postoperative Nausea and Vomiting|Breast Neoplasms|Labor Pain"
+hexachlorophene,Acne Vulgaris|Staphylococcal Skin Infections
+histamine,Urticaria
+hydroflumethiazide,Edema|Glomerulonephritis|Heart Failure|Hypertension|Liver Cirrhosis|Nephrotic Syndrome|Renal Insufficiency
+hydroxyurea,"Carcinoma, Renal Cell|Leukocytosis|Melanoma|Ovarian Neoplasms|Prostatic Neoplasms|Psoriasis|Uterine Neoplasms|Hypereosinophilic Syndrome"
+ibrutinib,"Waldenstrom Macroglobulinemia|Leukemia, Lymphocytic, Chronic, B-Cell|Lymphoma, B-Cell|Lymphoma, Mantle-Cell"
+ibuprofen,"Arthritis, Juvenile|Arthritis, Rheumatoid|Bursitis|Gout|Menorrhagia|Pain|Premenstrual Syndrome|Spondylitis, Ankylosing|Anxiety Disorders|Knee Injuries|Gallbladder Diseases|Leiomyoma|Myofibroma|Adenomyosis|Pain, Procedural|Intervertebral Disc Displacement|Radiculopathy|Drug-Related Side Effects and Adverse Reactions|Pituitary Neoplasms|Pituitary Diseases|Syndrome|Severe Acute Respiratory Syndrome|Rib Fractures|Osteoarthritis, Hip|Lower Urinary Tract Symptoms|Myofascial Pain Syndromes|Fibromyalgia|Somatoform Disorders|Toxemia|Hypertension, Pregnancy-Induced|Kidney Calculi|Otorhinolaryngologic Diseases|Intracranial Hemorrhages|Hematologic Diseases|Humeral Fractures|Urinary Tract Infections|Pelvic Pain|Cardiac Complexes, Premature|HELLP Syndrome|Arthritis|Urethral Stricture|Shoulder Pain|Migraine without Aura|Obesity|Cystitis|Hernia, Inguinal|Influenza, Human|Birth Weight|Nausea|Constipation|Depression|Mycoses|Bacterial Infections|Bacterial Infections and Mycoses|Streptococcal Infections|Infertility|Infertility, Female|Heart Diseases|Myocardial Ischemia|Coronary Artery Disease|Seizures, Febrile|Postoperative Complications|Fractures, Multiple|Intestinal Diseases|Inflammatory Bowel Diseases|Nail Diseases|Nails, Malformed|Rotator Cuff Injuries|Diverticulitis|Obesity, Morbid|Sciatica|Delirium|Hip Fractures|Torticollis|Multiple Sclerosis, Relapsing-Remitting"
+ibutilide,"Atrial Fibrillation|Atrial Flutter|Abnormalities, Drug-Induced"
+ifosfamide,Stomach Neoplasms|Panniculitis
+imatinib,Gastrointestinal Neoplasms|Respiration Disorders|Respiratory Tract Diseases
+imipramine,Attention Deficit Disorder with Hyperactivity|Pain|Panic Disorder|Polyneuropathies
+imiquimod,Foot Diseases|Alopecia|Alopecia Areata|Hyperplasia
+indacaterol,"Pulmonary Emphysema|Bronchitis, Chronic"
+indapamide,Edema|Heart Failure|Nephrotic Syndrome|COVID-19|Coronavirus Infections|Renal Insufficiency
+indinavir,Hemophilia A|HIV-Associated Lipodystrophy Syndrome|Lipodystrophy
+indobufen,"Atherosclerosis|Coronary Artery Disease|Myocardial Ischemia|Gastroesophageal Reflux|Esophagitis, Peptic|Stroke|Ischemic Stroke|Cerebral Infarction|Ischemia"
+indometacin,"Arthritis, Rheumatoid|Bursitis|Osteoarthritis|Pain|Tendinopathy|Sprains and Strains|Ankle Injuries|Macular Edema|Pregnancy Complications|Obstetric Labor Complications|Uterine Cervical Incompetence|Enuresis|Urinary Incontinence|Nocturnal Enuresis|Heat Stress Disorders|Tennis Elbow|Osteoarthritis, Knee|Cataract"
+ingenol-mebutate,"Keratosis, Actinic"
+irbesartan,"Ventricular Dysfunction, Left|Obesity|Coronavirus Infections|Diabetes Mellitus, Type 2|Respiration Disorders|Respiratory Tract Diseases|Obesity, Abdominal|Myocardial Infarction|Infarction|Diabetes Mellitus|Albuminuria|Insulin Resistance|Hypersensitivity|Dyslipidemias|Hypertrophy, Left Ventricular|Hypertrophy|Heart Diseases|Metabolic Syndrome"
+irsogladine,Wounds and Injuries
+isoconazole,Foot Dermatoses|Mycoses|Vaginitis
+isoniazid,"Alcoholism|Diabetes Mellitus, Type 2|Inflammation|Opioid-Related Disorders|Behavior, Addictive|Hepatitis A|Hepatitis|Immunologic Deficiency Syndromes|Kidney Diseases|Kidney Failure, Chronic|Tuberculosis, Spinal|Reinfection|Renal Insufficiency"
+isosorbide-mononitrate,"Cyanosis|Gastroesophageal Reflux|Poisoning|Esophageal Spasm, Diffuse|Heart Diseases|Angina, Unstable|Atherosclerosis|Insulin Resistance|Metabolic Syndrome|Coronary Stenosis|Constriction, Pathologic|Pre-Eclampsia|Obstetric Labor, Premature|Hypertension, Portal|Gastrointestinal Hemorrhage|Hemorrhage|Pulmonary Edema|Edema|Bone Diseases|Diabetes Mellitus|Diabetes Mellitus, Type 2|Stillbirth|Fetal Death|Death"
+isradipine,"Angina Pectoris, Variant"
+itraconazole,"Candidiasis, Chronic Mucocutaneous|Candidiasis, Oral|Candidiasis, Vulvovaginal|Cryptococcosis|Leishmaniasis|Paracoccidioidomycosis|AIDS-Related Opportunistic Infections|Zygomycosis|Graft vs Host Disease|Brain Neoplasms|Neuroblastoma|Wilms Tumor|Retinoblastoma"
+ivacaftor,Acute Disease
+ixabepilone,Breast Neoplasms
+ketanserin,Critical Illness
+ketoprofen,"Arthritis, Rheumatoid|Dysmenorrhea|Temporomandibular Joint Disorders|Temporomandibular Joint Dysfunction Syndrome|Neuralgia|Lymphedema|Sciatica|Agnosia|Tooth Loss"
+ketorolac,"Photophobia|Tendinopathy|Low Back Pain|Hemorrhage|Postpartum Hemorrhage|Hemostatic Disorders|Blood Coagulation Disorders|Postoperative Hemorrhage|Carpal Tunnel Syndrome|Radius Fractures|Tension-Type Headache|Sleep Wake Disorders|Urinary Incontinence|Enuresis|Urinary Incontinence, Stress|Prolapse|Pelvic Organ Prolapse|Brain Neoplasms|Sleep Apnea Syndromes|Sleep Apnea, Obstructive|Musculoskeletal Pain|Hip Dislocation|Developmental Dysplasia of the Hip|Hip Dislocation, Congenital|Paralysis|Cerebral Palsy|Heart Defects, Congenital|Myofascial Pain Syndromes|Fibromyalgia|Syndrome|Somatoform Disorders|Cleft Lip|Necrosis|Ureteral Calculi|Ureterolithiasis|Blindness|Retinal Detachment|Premature Birth|Malocclusion|Coronary Artery Disease|Joint Diseases|Hypertrophy|Anemia, Sickle Cell|Hematologic Diseases|Substance Withdrawal Syndrome|Pelvic Pain|Neoplasms|Colonic Neoplasms|Rectal Neoplasms|Ileus|Diverticulitis|Diverticulum|Diverticulitis, Colonic|Constipation|Vomiting|Migraine with Aura|Migraine without Aura|Hyperopia|Diabetes Mellitus|Diabetes Mellitus, Type 2|Cystitis|Cystitis, Interstitial|Macular Degeneration|Wet Macular Degeneration|Infertility|Infertility, Female|Hernia|Hematologic Neoplasms|Rib Fractures|Fractures, Multiple|Hernia, Abdominal|Internal Hernia|Knee Injuries|Hyperalgesia|Mydriasis|Opioid-Related Disorders|Keratoconus|Hematoma|Otitis Media|Pharyngitis|Gallstones|Cholelithiasis|Cholecystolithiasis"
+ketotifen,Myocardial Infarction|ST Elevation Myocardial Infarction|Infarction|Asthma|Dengue|Pleural Effusion|Fever|Hyperthermia
+labetalol,"Angina Pectoris|Heart Failure|Hypertension, Malignant|Myocardial Infarction|Emergencies|Heart Diseases|Heart Failure, Diastolic|Cerebral Infarction"
+lacosamide,"Epilepsy, Tonic-Clonic|Lennox Gastaut Syndrome|Respiratory Insufficiency"
+lafutidine,Respiratory Aspiration of Gastric Contents
+lamivudine,"Malnutrition|HIV-Associated Lipodystrophy Syndrome|Cardiovascular Diseases|Vascular Diseases|Cardiovascular Abnormalities|Congenital Abnormalities|Body Weight|Body Weight Changes|Drug-Related Side Effects and Adverse Reactions|Renal Insufficiency, Chronic|Weight Gain|Hemophilia A|Nervous System Diseases|Central Nervous System Diseases|Coinfection|Dyslipidemias|Metabolic Diseases|Glucose Metabolism Disorders|Proteinuria|Carcinoma|Immune Reconstitution Inflammatory Syndrome|Meningitis, Cryptococcal|Meningitis|Acidosis|Acidosis, Lactic|Liver Diseases|Hepatitis C|Cardiomyopathies|Osteoporosis"
+lamotrigine,"Lennox Gastaut Syndrome|Depressive Disorder, Major|Asthma|Memory Disorders|Personality Disorders|Borderline Personality Disorder|Cerebral Palsy"
+latanoprost,"Retinal Diseases|Diabetic Retinopathy|Glaucoma, Angle-Closure|Eye Diseases|Graves Ophthalmopathy|Thyroid Diseases|Uveitis|Uveitis, Anterior|Dry Eye Syndromes|Keratoconjunctivitis Sicca|Alopecia|Alopecia Areata"
+ledipasvir,"Insulin Resistance|Lung Diseases|Pulmonary Disease, Chronic Obstructive|Lung Diseases, Interstitial|Heart Failure|Cardiovascular Diseases|Carcinoma, Hepatocellular|Gaucher Disease"
+leflunomide,"Renal Insufficiency|Glomerulonephritis|Renal Insufficiency, Chronic|Glomerulonephritis, IGA|Immunoglobulin G4-Related Disease"
+lenalidomide,COVID-19
+lesinurad,"Kidney Diseases|Renal Insufficiency, Chronic"
+letermovir,Neutropenia
+letrozole,Ovarian Diseases|Eunuchism|Ovarian Cysts
+levalbuterol,Bronchial Spasm
+levamisole,Ascariasis|Trichuriasis|Ascaridiasis
+levetiracetam,"Myoclonic Epilepsy, Juvenile|Intracranial Aneurysm|Aneurysm|Hematoma, Subdural|Hematoma, Subdural, Chronic|Hematoma|Mania|Memory Disorders|Body Dysmorphic Disorders|Spinal Cord Injuries|Spinal Injuries|Tourette Syndrome|Tic Disorders|Pain|Emergencies|Subarachnoid Hemorrhage|Multiple Sclerosis|Renal Insufficiency"
+levobunolol,"Glaucoma, Open-Angle"
+levocetirizine,Vitamin D Deficiency|Hypersensitivity|Pruritus|Otitis|Otitis Media|Otitis Media with Effusion
+levofloxacin,"Chlamydia Infections|Haemophilus Infections|Klebsiella Infections|Legionnaires' Disease|Mycoplasma Infections|Proteus Infections|Pseudomonas Infections|Salmonella Infections|Staphylococcal Infections|Streptococcal Infections|Eye Infections, Bacterial|Soft Tissue Infections|Dry Eye Syndromes|Keratoconjunctivitis Sicca|Pneumonia, Aspiration|Cholangitis|Hypoglycemia|Hyperglycemia|Peptic Ulcer|Head and Neck Neoplasms|Mucositis|Stomatitis|Bronchiectasis|Disease Susceptibility|Substance-Related Disorders|Substance Abuse, Intravenous|Virus Diseases|Urinary Bladder Neoplasms|Cystitis|Critical Illness|Hypersensitivity|Pneumonia, Pneumococcal|Viremia|Eye Injuries, Penetrating|Prostatic Neoplasms|Pleuropneumonia|Pneumonia, Mycoplasma|Carcinoma"
+levomequitazine,"Rhinitis, Allergic, Seasonal|Urticaria|Rhinitis, Allergic"
+levonorgestrel,Pregnancy|Mucositis|Inflammation|Leiomyoma|Myofibroma|Obesity|Thinness|Hot Flashes|Body Weight|Recurrence
+levothyroxine,"Goiter|Hypothyroidism|Myxedema|Thyroid Neoplasms|Thyroiditis, Autoimmune|Thyrotoxicosis"
+lidocaine,"Esophageal Diseases|Tachycardia, Paroxysmal|Tachycardia, Ventricular|Ventricular Premature Complexes|Drug-Related Side Effects and Adverse Reactions|Myocardial Infarction|Ventricular Dysfunction|Congenital Abnormalities|Stomatognathic Diseases|Dental Pulp Diseases|Dyssomnias|Parasomnias|Cardiovascular Diseases|Arrhythmias, Cardiac|Aneurysm, Dissecting|Endophthalmitis|Facial Pain|Headache Disorders|Arteriovenous Fistula|Fistula|Hypotension|Diabetes Complications|Nasopharyngeal Diseases|Nausea|Postoperative Nausea and Vomiting|Facies|Thyroid Neoplasms|Trigger Finger Disorder|Spondylitis|Spondylarthritis|Opioid-Related Disorders|Peripheral Nerve Injuries|Varicose Veins|Cerebrospinal Fluid Leak|Coronary Artery Disease|Aneurysm|Aortic Aneurysm|Aortic Aneurysm, Abdominal|Plaque, Atherosclerotic|Toothache|Keloid|Cicatrix|Hypertrophy|Cicatrix, Hypertrophic|Peripheral Vascular Diseases|Substance-Related Disorders|Pneumonia|Lung Injury|Abdominal Neoplasms|Seizures|Hydrocephalus|Epilepsy|Neurofibromatoses|Necrosis|Alopecia|Epidermal Cyst|Granuloma|Alopecia Areata|Lichen Planus|Prurigo|Granuloma Annulare|Neurodermatitis|Keratoacanthoma|Appendicitis|Asthenia|Multiple Sclerosis|Sclerosis|Acne Vulgaris|Blepharoptosis|Cholecystolithiasis|Cholelithiasis|Gallstones|Arthralgia|Retinal Detachment|Urolithiasis|Muscle Hypotonia|Uterine Neoplasms|Reflex, Abnormal|Rectal Fistula|Rectal Neoplasms|Ileus|Diverticulum|Diverticulitis, Colonic|Constipation|Osteoporotic Fractures|Infertility, Female|Prostatic Hyperplasia|Hyperplasia|Ankle Fractures|Papilloma|Pneumoperitoneum|Nose Deformities, Acquired|Facial Paralysis|Paresis|Cholecystitis|Hallux Valgus|Psychomotor Agitation|Adenocarcinoma|Whiplash Injuries|Constriction, Pathologic|Hernia, Hiatal|Kidney Neoplasms|Joint Dislocations|Shoulder Dislocation|Flushing|Lymphoma, Non-Hodgkin|Pudendal Neuralgia|Tenosynovitis|Myoclonus|Bacteremia|Nerve Compression Syndromes|Charcot-Marie-Tooth Disease|Hereditary Sensory and Motor Neuropathy|Urinary Bladder Neoplasms|Tooth, Impacted|Periodontal Diseases|Critical Illness|Cutis Laxa|Clubfoot|Talipes|Equinus Deformity|Foot Deformities|Acne Keloid|Pelvic Floor Disorders|Cystocele|Uterine Prolapse|Urinary Retention|Brain Injuries|Brain Injuries, Traumatic|Oral Hemorrhage|Hemorrhage"
+linagliptin,"Coronary Artery Disease|Myocardial Ischemia|Coronary Disease|Kidney Failure, Chronic|Polycystic Ovary Syndrome|Syndrome|Diabetic Nephropathies|Osteoporosis"
+linezolid,"Endocarditis, Bacterial|Endocarditis|Critical Illness|Substance-Related Disorders|Substance Abuse, Intravenous|Connective Tissue Diseases|Catheter-Related Infections|Urinary Tract Infections"
+lisinopril,"Myocardial Infarction|Ventricular Dysfunction, Left|Coronary Artery Disease|Ischemia|Heart Failure, Systolic|Systolic Murmurs|Coronavirus Infections|Proteinuria|Intracranial Arteriosclerosis|Heart Diseases|Arteriosclerosis|Ventricular Dysfunction|Glucose Intolerance|Fibrosis|Neoplasm Metastasis|Deglutition Disorders|Glomerulonephritis, IGA"
+lodoxamide,Keratoconjunctivitis
+lomitapide,Hypercholesterolemia
+loperamide,"Colonic Diseases, Functional|Dysentery, Bacillary|Multiple Sclerosis|Multiple Sclerosis, Relapsing-Remitting|Substance Withdrawal Syndrome|Dysentery"
+lopinavir,Malnutrition|Opportunistic Infections|AIDS-Related Opportunistic Infections|HIV-Associated Lipodystrophy Syndrome|Lipodystrophy|Cardiovascular Diseases|Congenital Abnormalities|Dyslipidemias|Metabolic Diseases|Glucose Metabolism Disorders|Proteinuria|Coinfection
+loratadine,"Hypersensitivity|Conjunctivitis, Allergic"
+lorazepam,"Epilepsies, Partial|Sleep Initiation and Maintenance Disorders|Cognition Disorders|Cognitive Dysfunction|Alcohol Drinking|Depression|Alcohol Withdrawal Delirium|Mental Disorders|Mood Disorders|Dyssomnias|Parasomnias|Heart Arrest|Hypothermia"
+lorcaserin,Obesity
+losartan,"Ventricular Dysfunction, Left|Coronary Artery Disease|Ischemia|Respiratory Aspiration|Sleep Wake Disorders|Hypoxia|Pulmonary Emphysema|Emphysema|Bronchitis|Bronchitis, Chronic|Acute Disease|Aortic Valve Stenosis|Psychotic Disorders|Mental Disorders|Disease|Schizophrenia|Depressive Disorder|Depressive Disorder, Major|Bipolar Disorder|Kidney Failure, Chronic|Respiration Disorders|Respiratory Tract Diseases|Hyperaldosteronism|Insulin Resistance|Liver Cirrhosis|Liver Cirrhosis, Alcoholic|Ascites|Hepatitis A|Hepatitis C|Hepatitis C, Chronic|Hepatitis|Hepatitis, Chronic|Glucose Intolerance|Kidney Calculi|Nephrolithiasis|Calculi|Hyperglycemia|Cardiac Output, Low|Systolic Murmurs|Cerebral Infarction|Carotid Stenosis|Atherosclerosis|Heart Diseases|Crohn Disease|Colitis|Colitis, Ulcerative|Ulcer"
+loxoprofen,"Spondylitis|Spondylarthritis|Spondylitis, Ankylosing"
+luliconazole,Tinea cruris
+lumacaftor,Cystic Fibrosis
+lurasidone,Weight Gain|Mania
+macitentan,Ventricular Remodeling
+mannitol-D,Poisoning|Acquired Immunodeficiency Syndrome|HIV Infections|Communicable Diseases|Infections|Cholestasis
+maprotiline,Bipolar Disorder|Bulimia|Duodenal Ulcer|Enuresis|Pain|Panic Disorder|Dysthymic Disorder|Cocaine-Related Disorders
+mazindol,"Obesity|Muscular Dystrophy, Duchenne"
+mebendazole,"Ascariasis|Trichuriasis|Enterobiasis|Parasitic Diseases|Intestinal Diseases, Parasitic|Intestinal Diseases|Malnutrition|Amebiasis|Dysentery, Amebic"
+mecamylamine,"Tourette Syndrome|Hypertension, Malignant|Spinal Cord Injuries|Autonomic Dysreflexia"
+meclizine,Motion Sickness|Drug-Related Side Effects and Adverse Reactions
+mefloquine,"Malaria, Vivax|Parasitic Diseases"
+melatonin,"Seasonal Affective Disorder|Carotid Stenosis|Ischemic Stroke|Cerebral Infarction|Vascular System Injuries|Endotoxemia|Arteriosclerosis|Coronary Artery Disease|Calcinosis|Infertility|Liver Diseases|Dementia|Mood Disorders|Bipolar Disorder|Lennox Gastaut Syndrome|Fetal Growth Retardation|Herpes Simplex|Herpes Genitalis|Hypokinesia|Psychomotor Agitation|Seizures|Seizures, Febrile|Hyperthermia|Epilepsy, Generalized|Osteoporosis, Postmenopausal"
+menadione,Hypoprothrombinemias
+mepacrine,"Giardiasis|Pneumothorax|Malaria, Falciparum"
+mepivacaine,"Pain|Stomatognathic Diseases|Dental Pulp Diseases|Drug-Related Side Effects and Adverse Reactions|Nausea|Vomiting|Postoperative Nausea and Vomiting|Urinary Bladder Neoplasms|Hypertension|Neuroma|Morton Neuroma|Varicose Veins|Arrhythmias, Cardiac|Uterine Diseases|Pulpitis|Pain, Postoperative|Prostatic Neoplasms|Gingival Recession|Arthritis"
+mepyramine,"Conjunctivitis, Allergic|Rhinitis, Allergic, Seasonal|Pruritus|Rhinitis, Allergic, Perennial"
+mercaptopurine,"Leukemia, Lymphocytic, Chronic, B-Cell|Intestinal Diseases|Inflammatory Bowel Diseases|Pancreatitis"
+mestinon,"Abnormalities, Drug-Induced|Myasthenia Gravis|Dysphonia|Hoarseness|Dystonia|Muscle Weakness"
+metamizole,"Aneurysm|Aortic Aneurysm|Aortic Aneurysm, Abdominal|Plaque, Atherosclerotic|Hernia|Pre-Eclampsia|Fever|Colic|Renal Colic|Back Pain|Low Back Pain|Stroke|Ischemic Stroke|Delirium|Hip Fractures|Shoulder Pain|Respiratory Insufficiency"
+metformin,"Peri-Implantitis|Hypoglycemia|Acne Vulgaris|Thyroid Nodule|Nephritis|Lupus Nephritis|Altitude Sickness|Acromegaly|Angina, Unstable|Mood Disorders|Fractures, Bone|Amenorrhea|Albuminuria|Heart Diseases|Thalassemia|beta-Thalassemia|Thiamine Deficiency|Beriberi|Thrombosis|Reperfusion Injury|Ischemia|Metaplasia|Abortion, Habitual|Peripheral Vascular Diseases|Mental Disorders|Ketosis|Gonadal Disorders|Melanosis|Diabetes Complications|Carotid Artery Diseases|Congenital Abnormalities|Lupus Erythematosus, Systemic|Ataxia|Cerebellar Ataxia|Ataxia Telangiectasia|Telangiectasis|Acidosis|Acidosis, Lactic|Masked Hypertension|Hepatic Encephalopathy|Acanthosis Nigricans|Hypertrophy, Left Ventricular|Hypertrophy"
+methazolamide,"Glaucoma, Open-Angle|Glaucoma, Angle-Closure|Hypertension, Pulmonary|Fatigue"
+methimazole,"Goiter|Thyroid Crisis|Substance Withdrawal Syndrome|Goiter, Nodular"
+methocarbamol,"Muscle Rigidity|Myositis|Pain|Tetanus|Hernia|Hernia, Inguinal|Hernia, Ventral|Low Back Pain|Back Pain|Acute Pain|Fractures, Bone|Rib Fractures|Wounds and Injuries"
+methoxsalen,"Vitiligo|Lymphoma, T-Cell, Peripheral"
+methyldopa,Eclampsia
+metoclopramide,"Esophageal Diseases|Substance Withdrawal Syndrome|Angina Pectoris|Angina, Unstable|Myocardial Infarction|ST Elevation Myocardial Infarction|Infarction|Psychomotor Agitation|Pain, Postoperative|Tension-Type Headache|Breast Neoplasms|Premature Birth|Prostatic Neoplasms|Pneumonia|Pneumonia, Aspiration|Stroke"
+metolazone,Edema|Hypertension|Nephrotic Syndrome|COVID-19|Coronavirus Infections|Cardiovascular Diseases
+metoprolol,"Tachycardia, Supraventricular|Cardiomyopathy, Dilated|Hypotension|Nasal Polyps|ST Elevation Myocardial Infarction|Non-ST Elevated Myocardial Infarction|Cystitis|Cystitis, Interstitial|Pelvic Pain|Coronary Artery Disease|Myocardial Ischemia|Angina, Unstable|Lung Diseases, Obstructive|Aortic Valve Insufficiency|Ventricular Remodeling|Arrhythmias, Cardiac|Vascular Diseases|Graves Disease|Eye Diseases|Graves Ophthalmopathy|Drug Overdose|Intracranial Arteriosclerosis|Arteriosclerosis|Ventricular Dysfunction|Ventricular Dysfunction, Left|Metabolic Syndrome|Insulin Resistance|Syncope|Syncope, Vasovagal|Migraine Disorders|Foramen Ovale, Patent|Myocardial Stunning"
+metronidazole,"Amebiasis|Bacteroides Infections|Endocarditis, Bacterial|Meningitis, Bacterial|Puerperal Infection|Parasitic Diseases|Peri-Implantitis|Rabies|Blastocystis Infections|Skin Manifestations|Inflammation|Dysbiosis|Dientamoebiasis|Digestive System Diseases|Gastrointestinal Diseases|Hemorrhage|Asthma|Angioedemas, Hereditary|Peritonitis|Cholecystitis|Acalculous Cholecystitis|Herpes Simplex|Irritable Bowel Syndrome|Abortion, Septic|Dyspepsia|Hypersensitivity|Stomach Ulcer|Duodenal Ulcer|Anemia, Iron-Deficiency|Pancreatitis|Pancreatitis, Acute Necrotizing|Wound Infection|Mucositis|Scleroderma, Systemic|Scleroderma, Diffuse|Sclerosis|Periapical Abscess|Pain, Postoperative|Disease Progression|Thrombosis|Coronary Thrombosis|Surgical Wound"
+mianserin,"Depression|Dyssomnias|Parasomnias|Depressive Disorder|Stress Disorders, Traumatic|Stress Disorders, Post-Traumatic"
+mibefradil,Angina Pectoris|Hypertension
+miconazole,"Candidiasis, Cutaneous|Tinea Versicolor|Dermatitis, Atopic|Eczema|Skin Diseases|Skin Diseases, Eczematous|Recurrence|Diaper Rash|Melanosis|Renal Insufficiency|Kidney Failure, Chronic"
+midodrine,Urinary Incontinence|Hypothermia|Cognitive Dysfunction|Quadriplegia|Vasoplegia|Hepatic Encephalopathy|Gastrointestinal Hemorrhage|Brain Diseases|Hyponatremia
+midostaurin,Hematologic Neoplasms
+miglustat,"Gangliosidosis, GM1"
+milnacipran,"Spinal Diseases|Osteoarthritis|Recurrence|Shoulder Pain|Migraine Disorders|Epilepsy|Migraine with Aura|Migraine without Aura|Lupus Erythematosus, Systemic|Arthritis|Arthritis, Rheumatoid|Sleep Wake Disorders|Parasomnias|Dyssomnias|Osteoarthritis, Knee|Joint Diseases|Chronic Pain|Autistic Disorder|Autism Spectrum Disorder|Asperger Syndrome"
+milrinone,"Drug-Related Side Effects and Adverse Reactions|Pulmonary Edema|Acute Coronary Syndrome|Shock, Cardiogenic"
+mirtazapine,"Malnutrition|Headache|Post-Dural Puncture Headache|Hepatitis C|Hepatitis|Dyspepsia|Bipolar Disorder|Mood Disorders|Stress Disorders, Post-Traumatic|Weight Gain|Stress Disorders, Traumatic|Psychomotor Agitation|Emergence Delirium"
+mitiglinide,Liver Diseases|Hypertension|Masked Hypertension|Overweight
+mitoxantrone,"Pain|Myelitis|Myelitis, Transverse|Nervous System Diseases|Autoimmune Diseases of the Nervous System|Demyelinating Autoimmune Diseases, CNS|Autoimmune Diseases"
+molindone,Psychotic Disorders|Schizophrenia
+moracizine,"Ventricular Fibrillation|Tachycardia, Ventricular"
+moxifloxacin,"Bacteroides Infections|Cystitis|Escherichia coli Infections|Haemophilus Infections|Klebsiella Infections|Proteus Infections|Pseudomonas Infections|Pyelonephritis|Salmonella Infections|Staphylococcal Infections|Streptococcal Infections|Urinary Tract Infections|Premature Birth|Periodontitis|Aggressive Periodontitis|Aggression|Endocarditis, Bacterial|Endocarditis|Retinal Detachment|Body Weight|Microvascular Angina|Metabolic Syndrome|Insulin Resistance|Eye Injuries, Penetrating|Periodontal Pocket|Arrhythmias, Cardiac|Acne Vulgaris|Maxillary Sinusitis|Chronic Periodontitis|Reinfection|Corneal Injuries|Liver Abscess|Liver Abscess, Pyogenic"
+moxonidine,"Kidney Diseases|Diabetic Nephropathies|Metabolic Syndrome|Obesity, Abdominal|Overweight|Schizophrenia|Polycystic Ovary Syndrome|Nervous System Diseases|Autonomic Nervous System Diseases|Reperfusion Injury|Ischemia|Atrial Fibrillation|Recurrence"
+mycophenolate-mofetil,Graft vs Host Disease|Psoriasis
+mycophenolic-acid,"Hypertrophy, Left Ventricular|Hypertrophy|Hepatitis, Autoimmune|Cholangitis|Liver Cirrhosis, Biliary|Reperfusion Injury|Wounds and Injuries|Ischemia|Gastrointestinal Diseases|Digestive System Diseases|Histiocytosis, Sinus|Hepatitis C, Chronic|End Stage Liver Disease|Polyomavirus Infections|Churg-Strauss Syndrome|Polyarteritis Nodosa|Signs and Symptoms, Digestive|Diabetes Mellitus, Type 2|Communicable Diseases|Virus Diseases|Muscular Diseases|Myositis|Eczema|Dermatitis, Atopic|Dermatitis"
+nafamostat,Syndrome
+naftopidil,Prostatic Hyperplasia|Lower Urinary Tract Symptoms|Kidney Calculi|Nephrolithiasis|Calculi
+nalbuphine,Joint Diseases|Acute Pain|Shoulder Pain|Respiratory Insufficiency|Injection Site Reaction
+nandrolone,Anemia|Breast Neoplasms|Endometriosis
+naphazoline,Rhinitis|Sinusitis
+naproxen,"Bursitis|Common Cold|Fever|Pain|Fractures, Bone|Ankle Fractures|Fractures, Closed|Leiomyoma|Myofibroma|Uterine Diseases|Autoimmune Diseases|Disease|Anxiety Disorders|Compulsive Personality Disorder|Obsessive-Compulsive Disorder|Menorrhagia|Sciatica|Wounds and Injuries|Temporomandibular Joint Disorders|Temporomandibular Joint Dysfunction Syndrome|Tennis Elbow|Tension-Type Headache|Headache Disorders|Headache Disorders, Primary|Emergencies|Post-Traumatic Headache|Disease Progression|Premenstrual Syndrome|Delirium|Hip Fractures|Tooth, Impacted"
+nefazodone,"Depressive Disorder|Stress Disorders, Post-Traumatic|Anxiety Disorders|Phobia, Social"
+nefopam,Cholecystitis|Tendon Injuries|Colic|Renal Colic|Agnosia|Ureteral Calculi|Ureterolithiasis|Calculi
+nelarabine,"Leukemia, T-Cell"
+neostigmine,"Abnormalities, Drug-Induced|Urinary Bladder Diseases|Myasthenia Gravis|Urinary Retention|Disease|Appendicitis|Apnea|Sleep Apnea Syndromes|Sleep Apnea, Obstructive|Intestinal Diseases|Postoperative Complications|Paralysis|Sphincter of Oddi Dysfunction|Wounds and Injuries|Lung Diseases|Lung Diseases, Obstructive|Pulmonary Disease, Chronic Obstructive|Respiratory Insufficiency|Mobility Limitation|Coronary Artery Disease|Neoplasms|Urinary Bladder Neoplasms|Urologic Neoplasms|Genital Neoplasms, Female|Genital Neoplasms, Male|Shoulder Pain|Delirium|Emergence Delirium|Body Weight|Ileus|Liver Cirrhosis|Liver Diseases|Fibrosis|Spinal Curvatures|Gallstones|Cholelithiasis|Cholecystolithiasis|Colonic Pseudo-Obstruction"
+nepafenac,"Eye Pain|Macular Degeneration|Retinal Vein Occlusion|Pain, Postoperative|Hyperopia|Uveitis|Pseudophakia|Epiretinal Membrane|Mydriasis"
+neratinib,Breast Neoplasms
+netupitant,Nausea|Vomiting
+nevirapine,"Nervous System Diseases|Central Nervous System Diseases|HIV-Associated Lipodystrophy Syndrome|Insulin Resistance|Cardiovascular Diseases|Sarcoma, Kaposi|Sarcoma|Hypercholesterolemia|Dyslipidemias"
+niacin,Pellagra|Hypertriglyceridemia|Polycystic Ovary Syndrome|Ganglion Cysts|Vertigo|Meniere Disease|Hyperpigmentation|Insulin Resistance|Hypolipoproteinemias|Hypoalphalipoproteinemias|Acne Vulgaris
+nicardipine,"Angina Pectoris, Variant|Angina, Stable|Spinal Stenosis|Hypotension|COVID-19|Coronavirus Infections|Acute Coronary Syndrome|Retrognathia|Prognathism|Malocclusion, Angle Class III|Emergencies"
+niclosamide,Helminthiasis
+nicotinamide,Pellagra|Hypertriglyceridemia|Peripheral Vascular Diseases|Neurobehavioral Manifestations|Polycystic Ovary Syndrome|Schizophrenia|Hyperpigmentation|Arteriosclerosis|Hypolipoproteinemias|Acne Vulgaris|Atherosclerosis|Carotid Artery Diseases
+nicotine,"Colitis, Ulcerative|Substance Withdrawal Syndrome|Heart Diseases|Coronary Disease|Coronary Artery Disease|Myocardial Ischemia|Pain, Postoperative|Alcoholic Intoxication|Problem Behavior|Impulsive Behavior|Cerebrovascular Disorders|Sleep Wake Disorders|Parasomnias|Pancreatic Neoplasms|Stomach Neoplasms|Uterine Cervical Neoplasms|Urinary Bladder Neoplasms|Esophageal Neoplasms|Liver Neoplasms|Pelvic Pain|Psychomotor Agitation|Delirium|Hypersensitivity|Lung Diseases, Obstructive|Immunologic Deficiency Syndromes|Ileus"
+nilotinib,"Leukemia, Myeloid, Accelerated Phase|Leukemia, Myeloid, Chronic-Phase"
+nimesulide,"Infections|Communicable Diseases|Respiratory Tract Infections|Osteoarthritis|Osteoarthritis, Knee|Pharyngitis|Laryngitis"
+nimodipine,COVID-19|Coronavirus Infections|Hypertension|Cognitive Dysfunction|Depression|Depressive Disorder|Cerebral Infarction|Infarction
+nitrendipine,"COVID-19|Coronavirus Infections|Kidney Diseases|Renal Insufficiency, Chronic"
+norfloxacin,"Conjunctivitis, Bacterial|Escherichia coli Infections|Gonorrhea|Haemophilus Infections|Prostatitis|Pseudomonas Infections|Staphylococcal Infections|Urinary Tract Infections|Infections|Communicable Diseases|Hepatorenal Syndrome"
+nortriptyline,"Attention Deficit Disorder with Hyperactivity|Enuresis|Pain|Polyneuropathies|Dementia|Cognitive Dysfunction|Depressive Disorder, Treatment-Resistant|Tinnitus|Migraine Disorders|Brain Injuries|Brain Injuries, Traumatic|Brain Concussion|Post-Concussion Syndrome|Post-Traumatic Headache|Bipolar Disorder|Meniere Disease|Recurrence"
+ofloxacin,"Chlamydia Infections|Corneal Ulcer|Cystitis|Epididymitis|Gonorrhea|Haemophilus Infections|Klebsiella Infections|Otitis Externa|Otitis Media, Suppurative|Proteus Infections|Salmonella Infections|Staphylococcal Infections|Soft Tissue Infections|Dry Eye Syndromes|Keratoconjunctivitis Sicca|Pneumonia, Aspiration|Cholangitis|Hypoglycemia|Hyperglycemia|Peptic Ulcer|Periodontitis|Head and Neck Neoplasms|Mucositis|Stomatitis|Bronchiectasis|Disease Susceptibility|Virus Diseases|Critical Illness|Hypersensitivity|Pneumonia, Pneumococcal|Viremia|Otitis Media with Effusion|Eye Injuries, Penetrating|Prostatic Neoplasms|Pleuropneumonia|Mycoplasma Infections|Pneumonia, Mycoplasma|Carcinoma|Urinary Bladder Neoplasms"
+olanzapine,"Tardive Dyskinesia|Schizophrenia Spectrum and Other Psychotic Disorders|Emergencies|Problem Behavior|Schizophrenia, Childhood|Substance-Related Disorders|Compulsive Personality Disorder|Obsessive-Compulsive Disorder|Alzheimer Disease|Dementia|Overweight|Diabetes Mellitus|Aggression|Attention Deficit and Disruptive Behavior Disorders|Child Development Disorders, Pervasive|Autism Spectrum Disorder|Trichotillomania|Recurrence|Syndrome|Hyperglycemia|Dystonia|Parkinsonian Disorders|Headache|Lung Neoplasms"
+omeprazole,"Zollinger-Ellison Syndrome|Depression|Myocardial Ischemia|Coronary Disease|Heart Diseases|Tinea|Tinea Pedis|Tinea cruris|Gout|Eosinophilic Esophagitis|Laryngopharyngeal Reflux|Sinusitis|Obesity, Morbid|Osteoarthritis|Back Pain|Low Back Pain|Gastroparesis|Osteoporosis|Hip Fractures|Hypoalbuminemia|Stomach Diseases|Anemia, Iron-Deficiency|Inflammation|Hypothyroidism|Intestinal Diseases|Inflammatory Bowel Diseases|Laryngitis|Rotator Cuff Injuries|Opioid-Related Disorders|Respiratory Aspiration of Gastric Contents|Hypersensitivity|Food Hypersensitivity"
+ondansetron,"Cardiac Output, Low|Bipolar Disorder|Inflammatory Bowel Diseases|Eosinophilic Esophagitis|Gastrointestinal Hemorrhage|Weight Loss|Abdominal Pain|Poisoning|Respiratory Distress Syndrome|Respiratory Distress Syndrome, Newborn|Acute Lung Injury|Dehydration|Tourette Syndrome|Tics|Tic Disorders|Headache|Pruritus|Fractures, Bone|Trigeminal Neuralgia|Intestinal Diseases|Marijuana Abuse|Chronic Pain|Cholelithiasis|Cholecystolithiasis|Gallstones|Prostatic Neoplasms|Body Temperature Changes"
+orlistat,Glucose Intolerance|Poisoning|Heart Diseases|Fatty Liver|Non-alcoholic Fatty Liver Disease|Hepatitis A|Hepatitis C|Hepatitis|Bulimia|Binge-Eating Disorder
+ornidazole,Amebiasis|Protozoan Infections|Trichomonas Infections
+orphenadrine,"Muscle Rigidity|Myositis|Pain|Tetanus|Neoplasms|Colonic Neoplasms|Rectal Neoplasms|Ileus|Diverticulitis|Diverticulum|Diverticulitis, Colonic|Constipation|Pain, Postoperative|Muscle Hypotonia"
+otilonium,Irritable Bowel Syndrome|Syndrome
+oxandrolone,Emaciation|Growth Disorders
+oxaprozin,"Arthritis, Juvenile|Arthritis, Rheumatoid|Osteoarthritis"
+oxiconazole,"Candidiasis, Cutaneous|Tinea Versicolor"
+oxybenzone,Photosensitivity Disorders|Sunburn
+oxybuprocaine,Pain
+oxybutynin,"Dysuria|Inflammation|Reflex, Abnormal|Cystitis|Multiple Sclerosis|Spinal Cord Diseases|Sclerosis|Sjogren's Syndrome"
+oxymetazoline,"Sinusitis|Stomatognathic Diseases|Dental Pulp Diseases|Nasal Obstruction|Eclampsia|Pre-Eclampsia|Cardiac Output, High|Pulmonary Arterial Hypertension|Familial Primary Pulmonary Hypertension|Acute Kidney Injury|Cough|Nasal Polyps|Retinal Diseases|Retinopathy of Prematurity|Acute Coronary Syndrome|Myocardial Ischemia|Angina, Stable|Diabetes Mellitus|Influenza, Human|Back Pain|Low Back Pain|Otitis|Otitis Media|Otitis Media with Effusion|Pulpitis|Refractive Errors|Eye Manifestations|Brain Neoplasms|Horner Syndrome|Endotoxemia|Apnea|Sleep Apnea Syndromes|Sleep Apnea, Obstructive|Hypertrophy"
+ozagrel,Ischemic Stroke|Cerebral Infarction|Infarction
+palmitoylethanolamide,Fibromyalgia|Myofascial Pain Syndromes|Skin Diseases|Chronic Pain
+pantoprazole,"Heartburn|Zollinger-Ellison Syndrome|Coronary Artery Disease|Myocardial Ischemia|Coronary Disease|Heart Diseases|Acute Pain|Fractures, Bone|Rib Fractures|Wounds and Injuries|Disease|Stomach Ulcer|Pain, Postoperative|Apnea|Sleep Apnea Syndromes|Sleep Apnea, Obstructive|Sleepiness|Atrial Fibrillation|Embolism|Emergencies|Dysbiosis|Hypothyroidism|Abdominal Pain|Thrombosis|Coronary Thrombosis|Stomach Diseases|Acute Kidney Injury|Kidney Failure, Chronic|Critical Illness|Respiratory Aspiration of Gastric Contents|Pediatric Obesity"
+papaverine,"Angina Pectoris|Arrhythmias, Cardiac|Arterial Occlusive Diseases|Brain Ischemia|Colic|Pulmonary Embolism|Raynaud Disease|Thromboembolism|Kidney Neoplasms|Dysmenorrhea"
+paracetamol,"Pain|Myocardial Infarction|ST Elevation Myocardial Infarction|Infarction|Lung Neoplasms|Knee Injuries|Prolapse|Pelvic Organ Prolapse|Leiomyoma|Myofibroma|Adenomyosis|Pain, Procedural|Temporomandibular Joint Disorders|Temporomandibular Joint Dysfunction Syndrome|Intervertebral Disc Displacement|Rib Fractures|Pulmonary Embolism|Atrial Fibrillation|Thrombosis|Embolism|Venous Thrombosis|Antiphospholipid Syndrome|Tendon Injuries|Heart Block|Hypothermia|Myofascial Pain Syndromes|Fibromyalgia|Somatoform Disorders|Hypertension, Pregnancy-Induced|Stomach Diseases|Hernia, Ventral|Pancreatic Diseases|Post-Dural Puncture Headache|Necrosis|Otorhinolaryngologic Diseases|Intracranial Hemorrhages|Femoral Fractures|Mental Disorders|Urolithiasis|Flank Pain|Gout|Myalgia|Humeral Fractures|Influenza, Human|Colonic Neoplasms|Rectal Neoplasms|Ileus|Diverticulitis|Diverticulum|Diverticulitis, Colonic|Constipation|Liver Neoplasms|HELLP Syndrome|Ankle Injuries|Urethral Stricture|Rheumatic Diseases|Collagen Diseases|Osteoporosis|Chemical and Drug Induced Liver Injury|Alcohol Drinking|Alcohol-Related Disorders|Constriction, Pathologic|Carotid Stenosis|Acalculous Cholecystitis|Cholelithiasis|Cholecystolithiasis|Gallstones|Arthralgia|Psoriasis|Urinary Bladder, Overactive|Lower Urinary Tract Symptoms|Myocardial Ischemia|Coronary Disease|Arteriosclerosis|Breakthrough Pain|Seizures, Febrile|Ureteral Calculi|Ureterolithiasis|Cerebral Palsy|Goiter|Thyroid Neoplasms|Adenoma|Thyroid Nodule|Parathyroid Neoplasms|Hyperplasia|Fractures, Multiple|Calculi|Spondylitis|Spondylarthritis|Spondylitis, Ankylosing|Nail Diseases|Nails, Malformed|Urinary Calculi|Tooth Loss|Sciatica|Acute Coronary Syndrome|Chronic Disease|Muscle Hypotonia|Fractures, Compression|Gingival Recession|Surgical Wound|Body Weight|Body Weight Changes|Postoperative Hemorrhage|Infertility|Infertility, Female|Deglutition Disorders|Airway Obstruction|Oral Hemorrhage|Altitude Sickness"
+paricalcitol,Hyperparathyroidism
+paroxetine,Feeding and Eating Disorders|Migraine Disorders|Flushing|Cardiovascular Diseases|Coronary Artery Disease|Sleep Initiation and Maintenance Disorders|Combat Disorders|Substance-Related Disorders|Irritable Bowel Syndrome|Premenstrual Syndrome|Premenstrual Dysphoric Disorder|Dementia|Syndrome|Suicidal Ideation
+pasireotide,Pancreatic Fistula
+pazopanib,"Carcinoma, Renal Cell|Soft Tissue Neoplasms"
+pemirolast,"Conjunctivitis, Allergic"
+penciclovir,Epstein-Barr Virus Infections
+penfluridol,Psychotic Disorders|Schizophrenia Spectrum and Other Psychotic Disorders
+penicillin-v-potassium,"Bacterial Infections|Diphtheria|Meningitis, Meningococcal|Pasteurella Infections|Pneumococcal Infections|Gram-Positive Bacterial Infections|Actinomycosis|Anthrax|Botulism|Escherichia coli Infections|Gonorrhea|Meningococcal Infections|Otitis Media|Rheumatic Fever|Salmonella Infections|Sinusitis|Spirochaetales Infections|Staphylococcal Infections|Tetanus|Urinary Tract Infections|Skin Diseases, Bacterial|Sepsis|Periodontal Diseases|Peri-Implantitis|Pharyngitis|Tonsillitis|Lyme Disease|Erythema Chronicum Migrans|Glossitis, Benign Migratory|Erythema|Wound Infection|Cellulitis|Emergencies|Erysipelas|Infections|Communicable Diseases"
+pentoxifylline,"Brain Ischemia|Diabetic Angiopathies|Diabetic Neuropathies|Gangrene|Thrombosis|Vasculitis|Malaria, Cerebral|Impotence, Vasculogenic|Stroke|Intervertebral Disc Displacement|Radiculopathy|Hemolysis|Lymphoma|Hodgkin Disease|Osteoradionecrosis|Nephritis|Lupus Nephritis|Irritable Bowel Syndrome|Hepatitis C|Diabetes Mellitus, Type 2|Cerebral Small Vessel Diseases"
+perampanel,"Epilepsies, Partial|Epilepsy, Tonic-Clonic|Seizures"
+perindopril,"Diabetic Nephropathies|Myocardial Infarction|Hypertrophy, Left Ventricular|Ventricular Dysfunction, Left|Kidney Diseases|Renal Insufficiency, Chronic|Infarction|Coronavirus Infections|Hypercholesterolemia|Heart Diseases|Myocardial Ischemia|Coronary Artery Disease|Ischemia|Metabolic Syndrome|Hyperuricemia|Proteinuria|Metabolic Diseases|Lipid Metabolism Disorders|Cerebral Small Vessel Diseases|Renal Insufficiency|Hypotension|Liver Diseases|Fatty Liver|Non-alcoholic Fatty Liver Disease"
+phenazone,Pain
+phenprocoumon,"Heart Diseases|Acute Coronary Syndrome|Atherosclerosis|Coronary Disease|Coronary Artery Disease|Myocardial Ischemia|Aneurysm, Dissecting|Calcinosis|Hemorrhage"
+phensuximide,"Epilepsy, Absence"
+phentermine,Fatty Liver|Non-alcoholic Fatty Liver Disease
+phentolamine,"Extravasation of Diagnostic and Therapeutic Materials|Hypertension, Malignant|Necrosis"
+phenylbutazone,"Arthritis, Gouty"
+phenylbutyrate,Insulin Resistance
+phenylephrine,"Fissure in Ano|Glaucoma, Open-Angle|Pruritus Ani|Tachycardia, Supraventricular|Stomatognathic Diseases|Dental Pulp Diseases|Nasal Obstruction|Eclampsia|Pre-Eclampsia|Cardiac Output, High|Pulmonary Arterial Hypertension|Familial Primary Pulmonary Hypertension|Acute Kidney Injury|Cough|Nasal Polyps|Toothache|Pain, Postoperative|Retinopathy of Prematurity|Diabetes Mellitus|Influenza, Human|Otitis|Otitis Media|Otitis Media with Effusion|Pulpitis|Refractive Errors|Eye Manifestations|Brain Neoplasms|Horner Syndrome|Endotoxemia|Apnea|Sleep Apnea Syndromes|Sleep Apnea, Obstructive|Hypertrophy|Critical Illness"
+phenytoin,"Epilepsy, Tonic-Clonic|Epilepsy, Temporal Lobe|Cognitive Dysfunction|Meningitis, Pneumococcal|Meningitis|Depression|Emergencies|Asthma|Subarachnoid Hemorrhage|Hemorrhage"
+physostigmine,"Abnormalities, Drug-Induced|Glaucoma|Drug-Related Side Effects and Adverse Reactions"
+picolinic-acid,Diabetes Mellitus|Nutritional and Metabolic Diseases
+pilocarpine,"Glaucoma, Angle-Closure|Mydriasis|Anisocoria"
+pimavanserin,Lewy Body Disease|Disease
+pimozide,Huntington Disease|Schizophrenia Spectrum and Other Psychotic Disorders
+pinacidil,Hypertension
+pindolol,"Angina Pectoris|Hypertension|Myocardial Infarction|Heart Failure|Heart Diseases|Heart Failure, Diastolic"
+pioglitazone,"Hepatitis B, Chronic|Liver Cirrhosis|Hepatitis B|Coronavirus Infections|Hypoxia|COVID-19|Retinal Diseases|Diabetic Retinopathy|Angina Pectoris|Angina, Stable|Angina, Unstable|Weight Gain|Nephrolithiasis|Kidney Calculi|Weight Loss|Apnea|Sleep Apnea Syndromes|Sleep Apnea, Obstructive|Schizophrenia|Hypertension, Portal|Ascites|Bipolar Disorder|Body Weight|Coronary Stenosis|Neointima|Carotid Artery Diseases|Neoplasm Metastasis|Kidney Failure, Chronic|Mood Disorders|Ataxia Telangiectasia|Telangiectasis|Osteoporosis"
+piracetam,"Stroke|Infarction, Middle Cerebral Artery|Ischemia|Vertigo|Dizziness"
+pirenzepine,Duodenal Ulcer|Motion Sickness|Nausea|Peptic Ulcer|Stomach Ulcer|Vomiting
+pirfenidone,"Sarcoidosis, Pulmonary|Sarcoidosis|Connective Tissue Diseases|Disease Progression|Acute Kidney Injury"
+pitavastatin,"Hypertriglyceridemia|Myocardial Infarction|Metabolic Diseases|Glucose Metabolism Disorders|Infarction|Acute Coronary Syndrome|Angina, Stable|Glucose Intolerance|Inflammation|Kidney Diseases|Prediabetic State|Heart Failure|Angina Pectoris|Renal Insufficiency, Chronic|Atherosclerosis|Neointima"
+pralatrexate,"Lymphoma, T-Cell, Peripheral"
+pramipexole,"Parasomnias|Chronobiology Disorders|Dyssomnias|Adrenoleukodystrophy|Depressive Disorder, Treatment-Resistant"
+praziquantel,"Clonorchiasis|Intestinal Diseases, Parasitic|Opisthorchiasis|Malaria|Helminthiasis|Disease Susceptibility|Dipetalonema Infections|Acanthocheilonemiasis"
+prazosin,"Prostatic Hyperplasia|Raynaud Disease|Urinary Retention|Suicidal Ideation|Hypertension, Portal|Gastrointestinal Hemorrhage|Hemorrhage|Marijuana Abuse|Rhinitis|Rhinitis, Allergic|Inflammation|Hyperplasia"
+primaquine,Recurrence|Communicable Diseases|Parasitic Diseases
+primidone,"Epilepsies, Partial|Epilepsy, Tonic-Clonic|Tremor"
+probenecid,"Gonorrhea|Gout|Neurosyphilis|Epilepsy|Influenza, Human"
+probucol,"Coronary Artery Disease|Hypercholesterolemia|Ischemic Stroke|Intracranial Hemorrhages|Cerebral Hemorrhage|Brain Ischemia|Ischemia|Hemorrhage|Heart Diseases|Coronary Disease|Myocardial Ischemia|Glomerulonephritis, IGA|Glomerulonephritis|Stroke|Intracranial Arteriosclerosis|Atherosclerosis|Plaque, Atherosclerotic|Coronary Restenosis|Arteriosclerosis|Arteriosclerosis Obliterans|Diabetes Mellitus|Diabetes Mellitus, Type 2|Cerebral Infarction|Infarction"
+procainamide,"Atrial Flutter|Tachycardia, Supraventricular|Tachycardia, Ventricular|Ventricular Premature Complexes|Arrhythmias, Cardiac|Emergencies|Tachycardia|Brugada Syndrome"
+procaine,Pain|Substance Withdrawal Syndrome
+prochlorperazine,Anxiety Disorders|Dementia|Psychotic Disorders|Schizophrenia|Postoperative Nausea and Vomiting
+proguanil,Rabies
+propafenone,"Tachycardia, Supraventricular|Shock, Septic|Shock"
+propranolol,"Angina Pectoris|Heart Failure|Myocardial Infarction|Pheochromocytoma|Ventricular Fibrillation|Tachycardia, Ventricular|Essential Tremor|Hyperthyroidism|Muscle Cramp|Spasm|Surgical Wound Infection|Skin Diseases|Hemangioendothelioma|Peritonitis|Hepatic Encephalopathy|Fractures, Stress|Tremor|Compulsive Personality Disorder|Obsessive-Compulsive Disorder|Acute Kidney Injury|Varicose Veins|Phobia, Social|Inflammation|Graves Disease|Eye Diseases|Graves Ophthalmopathy|Liver Cirrhosis, Alcoholic|Intracranial Arteriosclerosis|Heart Diseases|Atherosclerosis|Coronary Disease|Atrial Fibrillation|Heart Failure, Diastolic|Post-Traumatic Headache|Spinal Cord Neoplasms|Spinal Neoplasms"
+propylthiouracil,Goiter|Thyroid Crisis
+protriptyline,Depressive Disorder
+pyrazinamide,"Hepatitis A|Hepatitis|Tuberculosis, Spinal|Reinfection"
+pyrimethamine,AIDS-Related Opportunistic Infections|Communicable Diseases|HIV Seropositivity|Stillbirth|Perinatal Death|Pregnancy Complications|Fetal Growth Retardation
+quercetin,Diarrhea|Fatigue|Food Hypersensitivity|Headache|Altitude Sickness|Flushing
+quetiapine,"Autistic Disorder|Weight Gain|Fibromyalgia|Myofascial Pain Syndromes|Lewy Body Disease|Schizophrenia Spectrum and Other Psychotic Disorders|Parkinsonian Disorders|Opioid-Related Disorders|COVID-19|Pneumonia|Pneumonia, Viral|Overweight|Combat Disorders|Emergencies|Panic Disorder|Behavioral Symptoms|Affective Symptoms|Hot Flashes"
+quinapril,"Diabetic Nephropathies|Heart Failure|Hypertension|Hypertrophy, Left Ventricular|Ventricular Dysfunction, Left|COVID-19|Coronavirus Infections|Ischemia|Chest Pain|Heart Diseases|Myocardial Ischemia|Coronary Artery Disease|Kidney Diseases|Renal Insufficiency, Chronic|Cardiovascular Diseases|Essential Hypertension|Diabetes Mellitus, Type 2|Hypotension"
+quinidine,"Atrial Fibrillation|Atrial Flutter|Tachycardia, Supraventricular|Malaria, Falciparum|Tachycardia, Ventricular|Brain Injuries|Brain Injuries, Traumatic"
+r(-)-apomorphine,Restless Legs Syndrome|Psychomotor Agitation|Syndrome|Low Back Pain|Sleep Wake Disorders|Parasomnias
+rabeprazole,Zollinger-Ellison Syndrome|Helicobacter Infections|Gastritis|Bacterial Infections|Sleep Initiation and Maintenance Disorders|Sleep Wake Disorders|Parasomnias|Atrial Fibrillation|Thromboembolism|Venous Thromboembolism|Peptic Ulcer|Peptic Ulcer Hemorrhage|Hypothyroidism|Adenocarcinoma|Disease Susceptibility
+racecadotril,Gastroenteritis
+raclopride,Feeding and Eating Disorders|Anhedonia|Psychotic Disorders|Mental Disorders
+raloxifene,Neurobehavioral Manifestations|Depression|Depressive Disorder
+raltegravir,"Inflammation|Fatty Liver|Metabolic Syndrome|Syndrome|Cardiovascular Diseases|Drug-Related Side Effects and Adverse Reactions|Coinfection|Bone Diseases, Metabolic|Osteoporosis|Hepatitis C, Chronic|Neurocognitive Disorders|Non-alcoholic Fatty Liver Disease"
+ramelteon,Sleep Initiation and Maintenance Disorders
+ramipril,"Coronavirus Infections|Ventricular Remodeling|Coronary Artery Disease|Obesity|Myocardial Ischemia|Insulin Resistance|Peripheral Arterial Disease|Peripheral Vascular Diseases|Alzheimer Disease|Aneurysm, Dissecting|Coronary Vessel Anomalies|Atrial Remodeling|Muscular Dystrophies|Muscular Dystrophy, Duchenne|Acute Coronary Syndrome|Intermittent Claudication|Coronary Vasospasm|Microvascular Angina|Hypotension"
+ranolazine,"Hypertension, Pulmonary|Angina, Stable|Ventricular Dysfunction, Left|Metabolic Syndrome|Emergencies|Nervous System Diseases|Polyneuropathies|Peripheral Nervous System Diseases|Tachycardia|Tachycardia, Ventricular|Mitral Valve Insufficiency|Cardiac Complexes, Premature|Dyspnea|Chest Pain|Kidney Diseases|Kidney Failure, Chronic|Peripheral Arterial Disease|Peripheral Vascular Diseases|Neuralgia|Diabetic Neuropathies|Myocardial Stunning|Arteriosclerosis"
+rasagiline,Depression|Dyssomnias|Parasomnias|Cognitive Dysfunction|Schizophrenia|Fatigue|Retinal Detachment|Dissociative Disorders|Cognition Disorders
+rebamipide,"Stomach Diseases|Gastroesophageal Reflux|Esophagitis|Esophagitis, Peptic|Musculoskeletal Diseases|Enteritis"
+regorafenib,"Carcinoma, Hepatocellular|Colorectal Neoplasms|Gastrointestinal Stromal Tumors"
+reserpine,Schizophrenia|Dyskinesias
+resorcinol,Acne Vulgaris|Rosacea
+resveratrol,"Herpes Labialis|Endometriosis|Depressive Disorder|Depression|Pancreatitis|Gastrointestinal Diseases|Digestive System Diseases|Diabetes, Gestational|Acne Vulgaris"
+rilmenidine,"Kidney Diseases|Renal Insufficiency, Chronic"
+rilpivirine,Neurocognitive Disorders|HIV-Associated Lipodystrophy Syndrome|Cardiovascular Diseases|Vascular Diseases|Cardiovascular Abnormalities|Congenital Abnormalities|Lipodystrophy|Body Weight|Body Weight Changes|Drug-Related Side Effects and Adverse Reactions|Cognitive Dysfunction|HIV Seropositivity
+riluzole,Inflammation|Fatigue|Memory Disorders|Fragile X Syndrome|Syndrome|Tourette Syndrome
+rimantadine,"Influenza, Human"
+rimexolone,"Inflammation|Uveitis, Anterior|Strabismus"
+riociguat,Altitude Sickness|Sarcoidosis
+risperidone,Schizophrenia Spectrum and Other Psychotic Disorders|Psychomotor Agitation|Body Weight|Drug-Related Side Effects and Adverse Reactions|DiGeorge Syndrome|Fragile X Syndrome|Williams Syndrome|Anorexia|Anorexia Nervosa|Diabetes Mellitus|Aggression|Borderline Personality Disorder|Emergencies|Insulin Resistance|Hyperglycemia|Dystonia|Parkinsonian Disorders|Hyperprolactinemia|Delirium|Tardive Dyskinesia|Hyperkinesis
+ritonavir,HIV Seropositivity|Malnutrition|Drug-Related Side Effects and Adverse Reactions|Asymptomatic Infections|Papilloma|Cytomegalovirus Infections|Epstein-Barr Virus Infections|Inflammation|Opportunistic Infections|AIDS-Related Opportunistic Infections|HIV-Associated Lipodystrophy Syndrome|Lipodystrophy|Proteinuria|Hypercholesterolemia|AIDS Dementia Complex|Reinfection
+roflumilast,"Pulmonary Disease, Chronic Obstructive"
+ropinirole,"Muscle Cramp|Liver Cirrhosis|Spasm|Fibrosis|Bipolar Disorder|Disease|Depressive Disorder|Depressive Disorder, Major"
+rosiglitazone,"Hepatitis|Angina Pectoris|Angina, Stable|Hepatitis A|Hepatitis C|Schizophrenia|Hepatitis C, Chronic|Diabetes Mellitus, Type 1|Polycystic Ovary Syndrome|Hyperlipoproteinemias|Hypertriglyceridemia|Hypersensitivity"
+rosuvastatin,"Liver Diseases|Fatty Liver|Non-alcoholic Fatty Liver Disease|Reperfusion Injury|Ventricular Dysfunction, Left|Arthritis, Psoriatic|Psoriasis|Hyperlipidemia, Familial Combined|Endocrine System Diseases|Carotid Artery Diseases|ST Elevation Myocardial Infarction|Angina Pectoris|Angina, Stable|Insulin Resistance|Chest Pain|Hyperlipoproteinemia Type IV|Hyperlipoproteinemia Type V|Apnea|Sleep Apnea Syndromes|Sleep Apnea, Obstructive|Acute Kidney Injury|Ischemic Attack, Transient|Cerebrovascular Disorders|Aneurysm, Dissecting|Coronary Vessel Anomalies|Vascular Diseases|Emergencies|Myocardial Stunning|Cerebral Infarction|Infarction, Anterior Cerebral Artery|Intracranial Arteriosclerosis|Glaucoma|Immunologic Deficiency Syndromes"
+rotigotine,Anxiety Disorders|Hypokinesia|Depression
+rufinamide,Epilepsy
+ruxolitinib,Polycythemia Vera|Primary Myelofibrosis
+sacubitril,"Prediabetic State|Glucose Intolerance|Hypertrophy, Left Ventricular|Atrial Fibrillation|Recurrence|Shock, Cardiogenic|Cardiac Output, Low|Connective Tissue Diseases|Hypotension|Diabetes Mellitus|Neoplasms, Second Primary|Cardiotoxicity|Breast Diseases|Chagas Disease|Apnea|Sleep Apnea Syndromes|Syndrome|Mitral Valve Insufficiency|Ventricular Dysfunction"
+safinamide,Parkinson Disease
+sasapyrine,Arthritis|Fever|Pain|Osteoarthritis|Liver Diseases|Fatty Liver|Non-alcoholic Fatty Liver Disease|Schizophrenia|Psychotic Disorders
+selinexor,Multiple Myeloma
+selumetinib,Neurofibromatosis 1
+sertindole,Schizophrenia Spectrum and Other Psychotic Disorders
+sildenafil,"Impotence, Vasculogenic|Hypoxia|Fetal Distress|Meconium Aspiration Syndrome|Neoplasm Metastasis|Meniere Disease|Depression|Prostatitis|Pelvic Pain|Neuralgia|Diabetic Neuropathies|Fatigue Syndrome, Chronic|Ventricular Dysfunction|Ventricular Dysfunction, Left|Sprains and Strains|Schizophrenia|Connective Tissue Diseases|Rectal Neoplasms|Angina Pectoris|Aortic Valve Stenosis|Constriction, Pathologic|Glucose Intolerance|Muscular Diseases|Lung Diseases, Interstitial|Altitude Sickness|Spinal Injuries|Heart Valve Diseases|Urolithiasis|Ureteral Calculi|Ureterolithiasis"
+simvastatin,"Brain Injuries|Brain Injuries, Traumatic|Insulin Resistance|Chronic Disease|Kidney Failure, Chronic|Metabolic Diseases|Glucose Intolerance|Glucose Metabolism Disorders|Leukemia|Precursor Cell Lymphoblastic Leukemia-Lymphoma|Neutropenia|Febrile Neutropenia|Muscle Cramp|Muscle Weakness|Spasm|Muscular Diseases|Endometriosis|Fatty Liver|Pulmonary Emphysema|Emphysema|Cognitive Dysfunction|Periodontal Diseases"
+sitagliptin,"Syndrome|Neoplasms, Adipose Tissue|Thyroid Nodule|Thyroid Diseases|Coronary Artery Disease|Myocardial Ischemia|Coronary Disease|Hyperglycemia|ACTH-Secreting Pituitary Adenoma|Acromegaly|Pituitary ACTH Hypersecretion|Heart Failure, Systolic|Systolic Murmurs|Foot Ulcer|Ketosis|Hypertension|Metabolic Syndrome|Pancreatitis|Angina Pectoris|Angina, Unstable|Acute Coronary Syndrome|Short Bowel Syndrome"
+solifenacin-succinate,"Inflammation|Multiple Sclerosis|Urinary Bladder, Neurogenic|Sclerosis|Prolapse|Pelvic Organ Prolapse|Urinary Incontinence, Stress|Urination Disorders|Disease|Flank Pain|Infections|Communicable Diseases|Urinary Tract Infections|Spinal Cord Diseases|Hyperkinesis|Hypertrophy|Sjogren's Syndrome"
+sorafenib,Hand-Foot Syndrome
+sotalol,"Ventricular Fibrillation|Myocardial Infarction|Infarction|Arrhythmias, Cardiac|Drug-Related Side Effects and Adverse Reactions|Heart Failure|Heart Diseases|Heart Failure, Diastolic"
+stavudine,"Opportunistic Infections|AIDS-Related Opportunistic Infections|Hemophilia A|HIV-Associated Lipodystrophy Syndrome|Cardiovascular Diseases|Lipodystrophy|Sarcoma, Kaposi|Sarcoma|Meningitis, Cryptococcal|Meningitis"
+sufentanil,"Pain|Fractures, Bone|Carcinoma in Situ|Carcinoma, Ductal|Carcinoma, Intraductal, Noninfiltrating|Emergencies|Trigeminal Neuralgia|Neuralgia|Pressure Ulcer|Agnosia|Heart Diseases|Aortic Valve Stenosis|Myocardial Ischemia|Coronary Artery Disease|Cognitive Dysfunction|Carcinoma|Carcinoma, Hepatocellular|Abdominal Pain|Postoperative Cognitive Complications|Scoliosis|Confusion|Arteriovenous Malformations|Vomiting|Postoperative Nausea and Vomiting|Tonsillitis|Hypertrophy|Drug-Related Side Effects and Adverse Reactions"
+sulfadoxine,Communicable Diseases|HIV Seropositivity|Stillbirth|Perinatal Death|Pregnancy Complications
+sulfafurazole,"Chlamydia Infections|Nocardia Infections|Otitis Media|Urinary Tract Infections|Respiratory Tract Fistula|Corneal Ulcer|Trachoma|Pneumonia|Pneumonia, Pneumocystis"
+sulpiride,Schizophrenia Spectrum and Other Psychotic Disorders
+sumatriptan,"Post-Dural Puncture Headache|Wounds and Injuries|Tension-Type Headache|Headache Disorders|Headache Disorders, Primary|Emergencies|Cognitive Dysfunction|Disease Progression|Premenstrual Syndrome"
+sunitinib,Gastrointestinal Neoplasms|Digestive System Neoplasms
+suprofen,Miosis
+suvorexant,"Supranuclear Palsy, Progressive|Stress Disorders, Traumatic|Stress Disorders, Post-Traumatic|Sleep Disorders, Circadian Rhythm|Fibromyalgia|Myofascial Pain Syndromes|Hot Flashes|Panic Disorder|Diabetes Mellitus|Diabetes Mellitus, Type 2|Inflammation|Bipolar Disorder|Prediabetic State|Sclerosis|Multiple Sclerosis|Fatigue|Sleep Deprivation|Parkinson Disease|Depression|Depressive Disorder|Depressive Disorder, Major"
+tacrine,"Alzheimer Disease|Osteoarthritis, Hip|Necrosis"
+tacrolimus,"Hypertrophy, Left Ventricular|Hypertrophy|Purpura, Schoenlein-Henoch|Purpura|Insulin Resistance|Cardiovascular Diseases|Metabolic Syndrome|Anemia, Hemolytic|Anemia, Hemolytic, Autoimmune|Proteinuria|Virus Diseases|Cytomegalovirus Infections|Pityriasis|Pityriasis Rosea|Dandruff|Death|Hepatitis B|Erectile Dysfunction|Proctitis|Viremia|End Stage Liver Disease|Polyomavirus Infections|Fibrosis|Diabetic Nephropathies|Diabetes Mellitus, Type 2|Sarcoma, Kaposi|Hemangioendothelioma|Hemangioma|Kasabach-Merritt Syndrome|Neurotoxicity Syndromes|Drug-Related Side Effects and Adverse Reactions|Dermatitis, Contact|Dermatitis, Allergic Contact|Dermatitis, Occupational|Heart Failure"
+tadalafil,"Impotence, Vasculogenic|Liver Cirrhosis|Nephrolithiasis|Kidney Calculi|Lower Urinary Tract Symptoms|Hypotension|Hypersensitivity|Vomiting|Ureteral Calculi|Ureterolithiasis|Diabetic Cardiomyopathies|Connective Tissue Diseases|Aortic Valve Stenosis|Constriction, Pathologic|Prediabetic State|Pneumonia|Respiratory Distress Syndrome|Parkinson Disease"
+tamoxifen,"Pancreatic Neoplasms|Puberty, Precocious|Hemorrhage|Menstruation Disturbances|Menorrhagia|Metrorrhagia|Cystic Fibrosis|Fibrocystic Breast Disease|Uterine Hemorrhage"
+tamsulosin,Heart Diseases|Myocardial Ischemia|Coronary Artery Disease|Ischemia|Choroid Diseases|Joint Diseases|Ureteral Diseases|Renal Colic|Emergencies|Inflammation|Enuresis|Thoracic Diseases|Nocturia|Urinary Bladder Neoplasms|Ureteral Obstruction
+tazarotene,Nail Diseases
+tedizolid,"Staphylococcal Infections|Streptococcal Infections|Endocarditis, Bacterial|Endocarditis|Cystic Fibrosis|Fibrosis"
+telbivudine,"Carcinoma|Carcinoma, Hepatocellular|Kidney Diseases|Renal Insufficiency, Chronic|Pregnancy Complications|Infections|Communicable Diseases|Viremia"
+telmisartan,"Ventricular Dysfunction, Left|Atrial Fibrillation|Respiration Disorders|Respiratory Tract Diseases|Stroke|Inflammation|Recurrence|Proteinuria|Arteriosclerosis|Myocardial Ischemia|Coronary Disease|Glucose Intolerance|Altitude Sickness|Obesity|Myocardial Infarction|Acute Coronary Syndrome|Infarction|Aneurysm|Aortic Aneurysm|Aortic Aneurysm, Abdominal"
+telotristat,Diarrhea|Malignant Carcinoid Syndrome
+temazepam,Depressive Disorder|Sleep Initiation and Maintenance Disorders|Panic Disorder|HIV Seropositivity|Macular Degeneration
+terbinafine,"Candidiasis, Chronic Mucocutaneous|Tinea Versicolor"
+tetracaine,"Pain|Stomatognathic Diseases|Dental Pulp Diseases|Drug-Related Side Effects and Adverse Reactions|Toothache|Pain, Postoperative|Labor Pain|Pulpitis|Inflammation|Acne Keloid"
+thalidomide,"Behcet Syndrome|Erythema Multiforme|Erythema Nodosum|Leprosy|Erythema|Autoimmune Diseases|Pruritus|Neoplasms, Second Primary|Parapsoriasis|Uveitis|Coronary Artery Disease|Heart Failure|Malnutrition|Inflammation"
+theobromine,Anxiety Disorders
+theophylline,Bradycardia|Bronchial Spasm|Bronchitis|Pulmonary Emphysema|Post-Dural Puncture Headache|Headache|Wounds and Injuries|Bronchiectasis
+thioguanine,"Psoriasis|Leukemia, Myelogenous, Chronic, BCR-ABL Positive|Leukemia, Neutrophilic, Chronic"
+thioridazine,Psychotic Disorders|Schizophrenia Spectrum and Other Psychotic Disorders
+tiabendazole,Dracunculiasis|Larva Migrans|Strongyloidiasis|Trichinellosis
+tiagabine,"Bipolar Disorder|Epilepsies, Partial|Disease|Phobia, Social|Epilepsy"
+ticlopidine,Intracranial Embolism and Thrombosis|Ischemia|Thromboembolism|Venous Thrombosis|Stroke
+tioconazole,"Candidiasis, Vulvovaginal"
+tipiracil,Colorectal Neoplasms
+tirofiban,Thromboembolism|Reperfusion Injury|Non-ST Elevated Myocardial Infarction|No-Reflow Phenomenon
+tivozanib,"Carcinoma, Renal Cell"
+tizanidine,"Muscle Cramp|Muscle Rigidity|Myositis|Spasm|Trigeminal Neuralgia|Shoulder Pain|Hernia|Hernia, Inguinal"
+tofacitinib,Necrosis|Arteritis|Takayasu Arteritis|Aortic Arch Syndromes|Thromboembolism|Disease|Rheumatic Fever|Infections|Granulomatosis with Polyangiitis|Systemic Vasculitis
+tolcapone,"Parkinson Disease|Behavior, Addictive"
+tolnaftate,Tinea Pedis|Tinea Versicolor
+topiramate,"Pain|Spasms, Infantile|Cognition Disorders|Cognitive Dysfunction|Hyperandrogenism|Tinnitus|Hematoma, Subdural|Hematoma, Subdural, Chronic|Hematoma|Epilepsy, Rolandic|Emergencies|Glaucoma, Angle-Closure|Phobic Disorders|Phobia, Social|Psychomotor Agitation|Restless Legs Syndrome|Cluster Headache|Body Weight|Weight Gain|Vomiting|Headache Disorders, Secondary|Meniere Disease|Post-Traumatic Headache|Cerebral Palsy"
+torasemide,"Ascites|Edema|Kidney Failure, Chronic|Liver Cirrhosis|Nephrotic Syndrome|Pulmonary Edema|Acute Kidney Injury|Cardiovascular Diseases|Fibrosis|Tricuspid Valve Insufficiency"
+toremifene,Breast Carcinoma In Situ
+tramiprosate,Cognitive Dysfunction
+tranilast,"Conjunctivitis|Conjunctivitis, Allergic"
+trapidil,"Angina, Stable"
+travoprost,"Low Tension Glaucoma|Vitiligo|Eye Diseases|Graves Ophthalmopathy|Thyroid Diseases|Macular Edema|Uveitis|Uveitis, Anterior|Hyperemia|Dry Eye Syndromes|Keratoconjunctivitis Sicca"
+trazodone,Cerebral Infarction|Infarction|Wounds and Injuries|Delirium|Bruxism|Sleep Bruxism|Chronic Pain|Fibromyalgia|Myofascial Pain Syndromes|Substance-Related Disorders|Mental Disorders
+triamterene,Edema|Hypokalemia|Proteinuria
+triclabendazole,Fascioliasis
+triclosan,Bacterial Infections and Mycoses|Eczema|Surgical Wound|Wound Infection|Wounds and Injuries|Breast Neoplasms|Inflammation|Aggressive Periodontitis|Aggression
+trientine,"Heavy Metal Poisoning, Nervous System"
+trifluoperazine,Anxiety Disorders|Schizophrenia
+triflupromazine,Hiccup|Nausea|Pain|Psychotic Disorders|Vomiting
+trimebutine,"Gastroesophageal Reflux|Esophagitis|Esophagitis, Peptic"
+trimetazidine,Acute Kidney Injury|Heart Diseases|Coronary Disease|Coronary Artery Disease|Myocardial Ischemia
+trimethobenzamide,Nausea|Vomiting
+trimethoprim,"Bronchitis|Escherichia coli Infections|Klebsiella Infections|Proteus Infections|Eye Infections, Bacterial|AIDS-Related Opportunistic Infections|Prostatic Neoplasms|Endocarditis, Bacterial|Endocarditis|Retinal Detachment|Urinary Bladder, Overactive|Reinfection|Kidney Calculi|Nephrolithiasis|Calculi|Opportunistic Infections|Diarrhea|Lupus Erythematosus, Systemic|Melioidosis|Adenoma|Pituitary Neoplasms|Pituitary Diseases|Thiamine Deficiency|Beriberi|Encephalitis|Prostatic Hyperplasia|Hyperplasia|Liver Abscess|Liver Abscess, Pyogenic|Obesity|Diabetic Foot|Carcinoma|Urinary Bladder Neoplasms"
+trimipramine,Depressive Disorder|Depression
+triptorelin,"Dwarfism|Primary Ovarian Insufficiency|Menopause, Premature|Fatty Liver|Metabolic Syndrome|Hypogonadism|Pelvic Pain|Aneuploidy|Gender Dysphoria"
+umeclidinium,"Pulmonary Emphysema|Bronchitis, Chronic"
+urapidil,Hemorrhage|Cerebral Hemorrhage|Cerebral Infarction
+urea,"Ocular Hypertension|Hyperkeratosis, Epidermolytic|Intracranial Hypertension"
+ursodeoxycholyltaurine,Gallstones|Cholelithiasis|Cholecystolithiasis
+valdecoxib,"Arthritis, Rheumatoid|Dysmenorrhea|Rupture|Inflammation|Hyperalgesia|Back Pain|Low Back Pain|Arthritis|Sprains and Strains|Ankle Injuries"
+valproic-acid,"Epilepsy, Complex Partial|Hyperkinesis|Substance Withdrawal Syndrome|Depressive Disorder, Major|Post-Cardiac Arrest Syndrome|Heart Arrest|Hypothermia|Cerebral Hemorrhage|Hemorrhage|COVID-19|Pneumonia|Pneumonia, Viral|Attention Deficit Disorder with Hyperactivity|Conduct Disorder|Asthma|Stress Disorders, Traumatic|Obesity|Panic Disorder|Opioid-Related Disorders|Behavioral Symptoms|Epilepsy, Reflex|Leukemia, T-Cell|Leukemia-Lymphoma, Adult T-Cell|Precancerous Conditions|Toxoplasmosis|Epilepsy, Rolandic"
+valsartan,"Proteinuria|Coronary Artery Disease|Prediabetic State|Glucose Intolerance|Severe Acute Respiratory Syndrome|Respiratory Distress Syndrome|Respiratory Distress Syndrome, Newborn|Acute Lung Injury|Coronavirus Infections|Diabetic Angiopathies|Shock, Cardiogenic|Cardiac Output, Low|Connective Tissue Diseases|Hypotension|Respiration Disorders|Respiratory Tract Diseases|Neoplasms, Second Primary|Cardiotoxicity|Breast Diseases|Albuminuria|Chagas Disease|Lymphoma|Lymphoma, Non-Hodgkin|Prehypertension|Overweight|Apnea|Sleep Apnea Syndromes|Ventricular Dysfunction|Glomerulonephritis, IGA|Glomerulonephritis|Disease|Inflammation|Depressive Disorder|Depression|Depressive Disorder, Major|Aneurysm|Aortic Aneurysm|Aortic Aneurysm, Abdominal|Cardiomyopathy, Dilated|Glomerulosclerosis, Focal Segmental|Glomerulonephritis, Membranous|Nephrosclerosis|Sleep Apnea, Obstructive|Hypoxia|Ischemic Stroke|Cerebral Infarction|Mitral Valve Insufficiency|Osteoporosis|Vitamin D Deficiency"
+vandetanib,Thyroid Neoplasms
+vardenafil,"Impotence, Vasculogenic|Hypogonadism|Dyslipidemias|Metabolic Syndrome|Liver Cirrhosis"
+varenicline,"Heart Diseases|Coronary Disease|Coronary Artery Disease|Myocardial Ischemia|Depressive Disorder|Depression|Depressive Disorder, Major|Dyssomnias|Parasomnias|Bipolar Disorder|Mental Disorders|Hyperkinesis|Attention Deficit Disorder with Hyperactivity|Problem Behavior|Disease Susceptibility|Genetic Predisposition to Disease|Pneumonia|Asthma|Cognition Disorders|Hypersensitivity|Dyskinesias|Parkinsonian Disorders|Tardive Dyskinesia|Immunologic Deficiency Syndromes|Hypertension|Substance Withdrawal Syndrome|Disorders of Excessive Somnolence|Sleepiness|Inflammation"
+venlafaxine,"Attention Deficit Disorder with Hyperactivity|Autistic Disorder|Pain|Fatigue Syndrome, Chronic|Chronic Pain|Acute Pain|Stress Disorders, Post-Traumatic|Apnea|Head and Neck Neoplasms|Dementia|Stress Disorders, Traumatic|Body Dysmorphic Disorders|Substance Withdrawal Syndrome|Phobic Disorders|Brain Injuries|Brain Injuries, Traumatic|Wounds and Injuries|Dysthymic Disorder|Spinal Cord Injuries|Multiple Sclerosis|Multiple Sclerosis, Relapsing-Remitting|Sclerosis|Osteoarthritis|Migraine Disorders"
+verapamil,"Angina Pectoris, Variant|Atrial Flutter|Myocardial Infarction|Tachycardia, Supraventricular|Atrioventricular Block|Tinnitus|Coronavirus Infections|Marfan Syndrome|Arachnodactyly|Myocardial Ischemia|Coronary Disease|Metabolic Syndrome|Proteinuria|Heart Diseases|Cardiomyopathies|Arrhythmias, Cardiac|Tachycardia|Tachycardia, Ventricular|Cardiomyopathy, Hypertrophic|Hypertrophy, Left Ventricular|Hypertrophy|Pathological Conditions, Anatomical|Heart Failure, Systolic|Systolic Murmurs|Cardiomyopathy, Dilated|Kidney Calculi|Nephrolithiasis|Calculi|Keloid|Recurrence|Vasospasm, Intracranial|Infarction|Hypoglycemia|Premature Birth"
+vidarabine,"Chickenpox|Herpes Zoster|Keratoconjunctivitis, Infectious|Keratitis, Herpetic"
+vilazodone,"Anxiety, Separation"
+vismodegib,Skin Neoplasms
+voriconazole,Fusariosis|Blastomycosis|Critical Illness|Cryptococcosis
+vortioxetine,"Phobia, Social|Hot Flashes|Dementia|Stress Disorders, Traumatic|Stress Disorders, Post-Traumatic|Diabetes Mellitus|Diabetes Mellitus, Type 2|Breast Neoplasms|Panic Disorder"
+warfarin,"Coronary Thrombosis|Postoperative Complications|Abortion, Spontaneous|Abortion, Habitual|Atherosclerosis|Calcinosis|Hemoglobinuria|Hemoglobinuria, Paroxysmal|Aortic Valve Insufficiency|Dementia|Cognitive Dysfunction|Cognition Disorders|Oligohydramnios|Upper Extremity Deep Vein Thrombosis|Renal Insufficiency, Chronic|Gastrointestinal Hemorrhage|Hypertension, Portal|Foramen Ovale, Patent|Vascular Calcification|Coronary Disease|Acute Coronary Syndrome|Hypersplenism"
+yohimbine,Erectile Dysfunction|Miosis
+zafirlukast,Asthma
+zalcitabine,Hemophilia A
+zileuton,Trigeminal Neuralgia|Neuralgia
+ziprasidone,"Tourette Syndrome|Weight Gain|Schizophrenia Spectrum and Other Psychotic Disorders|Panic Disorder|Mania|Stress Disorders, Traumatic|Stress Disorders, Post-Traumatic|Affective Disorders, Psychotic|Recurrence|Syndrome|Insulin Resistance|Diabetes Mellitus|Schizophrenia, Paranoid"
+zofenopril-calcium,"Hypertension|Heart Diseases|Diabetes Mellitus, Type 2"
+zolpidem,"Supranuclear Palsy, Progressive|Respiratory Aspiration|Sleep Apnea Syndromes|Ataxia|Psychomotor Disorders|Heart Failure|Apnea|Sleep Apnea, Obstructive|Hot Flashes|Depressive Disorder|Delirium|Fractures, Bone|Hip Fractures|Sleep Deprivation|Acute Coronary Syndrome|Sleep Apnea, Central|Osteoarthritis|Suicidal Ideation"
+zonisamide,Fibromyalgia|Myofascial Pain Syndromes|Dyskinesias|Parkinsonian Disorders

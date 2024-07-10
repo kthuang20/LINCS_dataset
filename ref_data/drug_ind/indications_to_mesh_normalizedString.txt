@@ -1,0 +1,671 @@
+indication	mesh_term	mesh_code
+Parkinson's Disease	Parkinson Disease	D010300
+human immunodeficiency virus (HIV-1)	HIV	D006678
+gastrointestinal parasites		
+breast cancer	Breast Neoplasms	D001943
+prostate cancer	Prostatic Neoplasms	D011471
+mantle cell lymphoma (MCL)	Lymphoma, Mantle-Cell	D020522
+abstinence from alcohol		
+diabetes mellitus	Diabetes Mellitus	D003920
+hypertension	Hypertension	D006973
+glaucoma	Glaucoma	D005901
+rheumatoid arthritis	Arthritis, Rheumatoid	D001172
+leprosy	Leprosy	D007918
+asthma	Asthma	D001249
+peptic ulcer disease (PUD)		
+osteoarthritis	Osteoarthritis	D010003
+deep vein thrombosis (DVT)	Venous Thrombosis	D020246
+sedative	Hypnotics and Sedatives	D006993
+diarrhea	Diarrhea	D003967
+urinary tract infections	Urinary Tract Infections	D014552
+psychosis	Psychotic Disorders	D011618
+acne vulgaris (AV)	Acne Vulgaris	D000152
+vertigo	Vertigo	D014717
+drowsiness		
+acetaminophen overdose		
+wound healing	Wound Healing	D014945
+hyperlipidemia	Hyperlipidemias	D006949
+allergic rhinitis	Rhinitis, Allergic	D065631
+psoriasis	Psoriasis	D011565
+acute myeloid leukemia (AML)	Leukemia, Myeloid, Acute	D015470
+bronchitis	Bronchitis	D001991
+fungal infection	Mycoses	D009181
+pulmonary arterial hypertension (PAH)	Pulmonary Arterial Hypertension	D000081029
+Wilm's tumor	Wilms Tumor	D009396
+genitial herpes		
+hepatitis B	Hepatitis B	D006509
+dermatitis	Dermatitis	D003872
+depression	Depression	D003863
+Wolff-Parkinson-White Syndrome (WPW)	Wolff-Parkinson-White Syndrome	D014927
+spasms	Spasm	D013035
+fatigue	Fatigue	D005221
+hemorrhage	Hemorrhage	D006470
+non-small cell lung cancer (NSCLC)	Carcinoma, Non-Small-Cell Lung	D002289
+anxiety	Anxiety	D001007
+coccidiosis	Coccidiosis	D003048
+cystic hydatid disease		
+allergic conjunctivitis	Conjunctivitis, Allergic	D003233
+corticosteroid-responsive dermatoses		
+muscle relaxant		
+osteoporosis	Osteoporosis	D010024
+vitamin D deficiency	Vitamin D Deficiency	D014808
+benign prostatic hyperplasia (BPH)	Prostatic Hyperplasia	D011470
+contraceptive	Contraceptive Agents	D003270
+bile stimulation		
+nausea	Nausea	D009325
+skin protectant		
+gout	Gout	D006073
+premature labor	Obstetric Labor, Premature	D007752
+chronic obstructive pulmonary disease (COPD)	Pulmonary Disease, Chronic Obstructive	D029424
+migraine headache	Migraine Disorders	D008881
+vitamin E deficiency	Vitamin E Deficiency	D014811
+angina pectoris	Angina Pectoris	D000787
+congenital heart defects	Heart Defects, Congenital	D006330
+estrus	Estrus	D004971
+ovarian cancer	Ovarian Neoplasms	D010051
+irritable bowel syndrome	Irritable Bowel Syndrome	D043183
+postoperative ileus		
+influenza A virus infection		
+myasthenia gravis	Myasthenia Gravis	D009157
+hypotension	Hypotension	D007022
+pain relief		
+dermatitis herpetiformis (DH)	Dermatitis Herpetiformis	D003874
+Lambert-Eaton myasthenic syndrome (LEMS)	Lambert-Eaton Myasthenic Syndrome	D015624
+renal toxicity		
+gram-negative bacterial infections	Gram-Negative Bacterial Infections	D016905
+fibrinolytic bleeding		
+Cushing's syndrome	Cushing Syndrome	D003480
+epilepsy	Epilepsy	D004827
+acute abdominal visceral spasm		
+inflammatory bowel disease	Inflammatory Bowel Diseases	D015212
+ventricular arrhythmias		
+generalized demodicosis		
+aphthous ulcers	Stomatitis, Aphthous	D013281
+cosmetic	Cosmetics	D003358
+xerosis cutis		
+malaria	Malaria	D008288
+onychomycosis	Onychomycosis	D014009
+skin infections		
+respiratory tract infections	Respiratory Tract Infections	D012141
+congestive heart failure	Heart Failure	D006333
+small cell lung cancer	Small Cell Lung Carcinoma	D055752
+acute lymphoblastic leukemia (ALL)	Precursor Cell Lymphoblastic Leukemia-Lymphoma	D054198
+thrombocythemia	Thrombocytosis	D013922
+macular degeneration	Macular Degeneration	D008268
+xerostomia	Xerostomia	D014987
+candidemia	Candidemia	D058387
+conjunctivitis	Conjunctivitis	D003231
+stroke	Stroke	D020521
+cardiac arrythmia	Arrhythmias, Cardiac	D001145
+heparin-induced thrombocytopenia (HIT)		
+schizophrenia	Schizophrenia	D012559
+local anesthetic	Anesthetics, Local	D000779
+scurvy	Scurvy	D012614
+headache	Headache	D006261
+duchenne muscular dystrophy (DMD)	Muscular Dystrophy, Duchenne	D020388
+reverse sedative		
+attention-deficit/hyperactivity disorder (ADHD)	Attention Deficit Disorder with Hyperactivity	D001289
+pneumonia	Pneumonia	D011014
+endotracheal intubation	Intubation, Intratracheal	D007442
+cycloplegia		
+erectile dysfunction	Erectile Dysfunction	D007172
+thrombocytopenia	Thrombocytopenia	D013921
+intra-abdominal infections	Intraabdominal Infections	D059413
+renal cell carcinoma (RCC)	Carcinoma, Renal Cell	D002292
+myelodysplastic diseases (MDS)		
+renal homotransplantation		
+rosacea	Rosacea	D012393
+pelvic inflammatory disease	Pelvic Inflammatory Disease	D000292
+gram-positive bacterial infections	Gram-Positive Bacterial Infections	D016908
+edema	Edema	D004487
+first-aid antibiotic		
+multiple sclerosis	Multiple Sclerosis	D009103
+ulcerative colitis	Colitis, Ulcerative	D003093
+tuberculosis	Tuberculosis	D014376
+peripheral T-cell lymphoma (PTCL)	Lymphoma, T-Cell, Peripheral	D016411
+poison antidote		
+sunscreen lotion		
+chronic lymphocytic leukemia (CLL)	Leukemia, Lymphocytic, Chronic, B-Cell	D015451
+muscle pain	Myalgia	D063806
+lumbago	Low Back Pain	D017116
+cough suppressant	Antitussive Agents	D000996
+pancreas diagnostic agent		
+abrasions		
+first-aid antiseptic		
+Chagas disease	Chagas Disease	D014355
+tinea pedis	Tinea Pedis	D014008
+extrapyramidal symptoms (EPS)		
+mouth inflammation		
+virus herpes simplex (HSV)	Simplexvirus	D018139
+sweet itch		
+celluitis		
+ascariasis	Ascariasis	D001196
+Meniere's disease	Meniere Disease	D008575
+homocystinuria	Homocystinuria	D006712
+intraocular pressure	Intraocular Pressure	D007429
+gastric hypersecretion diagnostic		
+urinary retention	Urinary Retention	D016055
+cutaneous T-cell lymphoma (CTCL)	Lymphoma, T-Cell, Cutaneous	D016410
+cholesterol	Cholesterol	D002784
+bacterial septicemia		
+melanoma	Melanoma	D008545
+constipation	Constipation	D003248
+duodenal ulcer disease		
+internal deoderant		
+non-Hodgkin lymphoma (NHL)	Lymphoma, Non-Hodgkin	D008228
+hepatitis C	Hepatitis C	D006526
+multiple myeloma	Multiple Myeloma	D009101
+chronic myeloid leukemia (CML)	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	D015464
+hypoactive sexual desire disorder	Sexual Dysfunctions, Psychological	D020018
+antiseptic	Anti-Infective Agents, Local	D000891
+shingles	Herpes Zoster	D006562
+neurasthenia	Neurasthenia	D009440
+chest congestion		
+hyperprolactinemia	Hyperprolactinemia	D006966
+mastitis	Mastitis	D008413
+skin ulcer	Skin Ulcer	D012883
+Crohn's disease	Crohn Disease	D003424
+peripheral artery disease (PAD)	Peripheral Arterial Disease	D058729
+protozoan infection	Protozoan Infections	D011528
+Raynaud's disease	Raynaud Disease	D011928
+peripheral nerve block		
+generalized anxiety disorder (GAD)		
+vulvovaginal candidiasis	Candidiasis, Vulvovaginal	D002181
+abdominal pain	Abdominal Pain	D015746
+dyspepsia	Dyspepsia	D004415
+medullary thyroid cancer (MTC)	Thyroid cancer, medullary	C536914
+hyperparathyroidism	Hyperparathyroidism	D006961
+hypocalcemia	Hypocalcemia	D006996
+pancreatitis	Pancreatitis	D010195
+myocardial infarction	Myocardial Infarction	D009203
+blisters	Blister	D001768
+dysentry		
+seizures	Seizures	D012640
+amebiasis	Amebiasis	D000562
+fungicide		
+common cold	Common Cold	D003139
+hyperthyroidism	Hyperthyroidism	D006980
+hyperammonemia	Hyperammonemia	D022124
+ear infections	Otitis	D010031
+pharyngitis	Pharyngitis	D010612
+gonorrhea	Gonorrhea	D006069
+Ehlers-Danlos syndrome (EDS)	Ehlers-Danlos Syndrome	D004535
+premature luteinizing hormone surges		
+gingivitis	Gingivitis	D005891
+sjogren's syndrome	Sjogren's Syndrome	D012859
+cerebral cholesterosis		
+bacterial gill disease		
+meningitis	Meningitis	D008581
+hypermenorrhea	Menorrhagia	D008595
+anesthetic	Anesthetics	D000777
+urinary incontinence	Urinary Incontinence	D014549
+menopause	Menopause	D008593
+bile acid synthesis disorders		
+acquired immunodeficiency syndrome (AIDS)	Acquired Immunodeficiency Syndrome	D000163
+claudication		
+otitis	Otitis	D010031
+testicular carcinoma		
+hairy cell leukemia	Leukemia, Hairy Cell	D007943
+dandruff	Dandruff	D063807
+bacterial vaginosis	Vaginosis, Bacterial	D016585
+hypertriglyceridemia	Hypertriglyceridemia	D015228
+eczema	Eczema	D004485
+infertility	Infertility	D007246
+obsessive compulsive disorder (OCD)	Obsessive-Compulsive Disorder	D009771
+endometriosis	Endometriosis	D004715
+gastrointestinal roundworms		
+liver flukes	Fasciola hepatica	D005210
+respiratory distress syndrome (RDS)	Respiratory Distress Syndrome	D012128
+hyponatremia	Hyponatremia	D007010
+follicular lymphoma	Lymphoma, Follicular	D008224
+scabies	Scabies	D012532
+anemia	Anemia	D000740
+mydriasis	Mydriasis	D015878
+Hodgkin's lymphoma	Hodgkin Disease	D006689
+flea control		
+cystinosis	Cystinosis	D003554
+nicotinism		
+bovine respiratory disease (BRD)		
+premature ejaculation (PE)	Premature Ejaculation	D061686
+transfusional hemosiderosis		
+acute iron intoxication		
+joint inflammation		
+sepsis	Sepsis	D018805
+fever	Fever	D005334
+submental fat		
+central diabetes insipidus	Diabetes Insipidus, Neurogenic	D020790
+Addison's disease	Addison Disease	D000224
+hypercalcemia	Hypercalcemia	D006934
+gastroesophageal reflux disease (GERD)	Gastroesophageal Reflux	D005764
+paralytic ileus	Intestinal Pseudo-Obstruction	D007418
+cardiomyopathy	Cardiomyopathies	D009202
+thrombosis	Thrombosis	D013927
+hypoglycemia	Hypoglycemia	D007003
+contrast agent	Contrast Media	D003287
+hookworm	Ancylostomatoidea	D000723
+equine protozoal myeloencephalitis (EPM)		
+filariasis	Filariasis	D005368
+endogenous uveitis		
+thyroiditis	Thyroiditis	D013966
+senile dementia	Alzheimer Disease	D000544
+rickets	Rickets	D012279
+coronary heart disease	Coronary Disease	D003327
+motion sickness	Motion Sickness	D009041
+metal toxicity		
+labor induction	Labor, Induced	D007751
+chronic venous insufficiency (CVI)		
+coronary artery disease (CAD)	Coronary Artery Disease	D003324
+ventricular tachycardia (VT)	Tachycardia, Ventricular	D017180
+cold sore	Herpes Labialis	D006560
+fescue toxicosis		
+Alzheimer's disease	Alzheimer Disease	D000544
+respiratory depression	Respiratory Insufficiency	D012131
+chronic kidney disease (CKD)	Renal Insufficiency, Chronic	D051436
+colorectal cancer	Colorectal Neoplasms	D015179
+periodontitis	Periodontitis	D010518
+atrial fibrillation (AF)	Atrial Fibrillation	D001281
+dry eye syndrome	Dry Eye Syndromes	D015352
+facial hair reduction		
+Gaucher disease	Gaucher Disease	D005776
+skin lacerations		
+diabetic nephropathy	Diabetic Nephropathies	D003928
+amyotrophic lateral sclerosis (ALS)	Amyotrophic Lateral Sclerosis	D000690
+cardiac arrest	Heart Arrest	D006323
+itching	Pruritus	D011537
+bronchospasm	Bronchial Spasm	D001986
+acute coronary syndrome (ACS)	Acute Coronary Syndrome	D054058
+hypoparathyroidism	Hypoparathyroidism	D007011
+postpartum hemorrhage (PPH)	Postpartum Hemorrhage	D006473
+listeria	Listeria	D008087
+varicose veins	Varicose Veins	D014648
+hypoestrogenism		
+esophageal varices	Esophageal and Gastric Varices	D004932
+amenorrhea	Amenorrhea	D000568
+Paget's disease		
+insomnia	Sleep Initiation and Maintenance Disorders	D007319
+general anaesthetic	Anesthetics, General	D018681
+toothache	Toothache	D014098
+heartburn	Heartburn	D006356
+sinusitis	Sinusitis	D012852
+cerebral vasospasm	Vasospasm, Intracranial	D020301
+hyperuricemia	Hyperuricemia	D033461
+myelofibrosis	Primary Myelofibrosis	D055728
+posttraumatic stress disorder	Stress Disorders, Post-Traumatic	D013313
+hypercholesterolemia	Hypercholesterolemia	D006937
+dyslipidemia	Dyslipidemias	D050171
+androgenetic alopecia	Alopecia	D000505
+esophageal candidiasis		
+seborrheic dermatitis	Dermatitis, Seborrheic	D012628
+ophthalmology diagnostic		
+eye inflammation		
+mycosis	Mycoses	D009181
+megaloblastic anemia	Anemia, Megaloblastic	D000749
+cytomegalovirus retinitis	Cytomegalovirus Retinitis	D017726
+chronic immune thrombocytopenia (ITP)		
+microsporidiosis	Microsporidiosis	D016881
+thiamine deficiency	Thiamine Deficiency	D013832
+restless leg syndrome	Restless Legs Syndrome	D012148
+MRI contrast agent		
+cytomegalovirus (CMV)	Cytomegalovirus	D003587
+bone and joint infections		
+gastric adenocarcinoma		
+cystic ovaries		
+ringworm	Tinea	D014005
+disinfectant	Disinfectants	D004202
+scleroderma		
+acute intermittent porphyria (AIP)	Porphyria, Acute Intermittent	D017118
+diagnostic agent		
+uveal tract inflammation		
+schistosomiasis	Schistosomiasis	D012552
+dyschromia		
+spontaneous preterm birth		
+patent ductus arteriosus (PDA)	Ductus Arteriosus, Patent	D004374
+angioedema	Angioedema	D000799
+actinic keratosis (AK)	Keratosis, Actinic	D055623
+vascular imaging agent		
+keratosis	Keratosis	D007642
+polycystic ovary syndrom (PCOS)		
+statis dermatitis		
+neuroblastoma	Neuroblastoma	D009447
+angiography	Angiography	D000792
+bradycardia	Bradycardia	D001919
+cystic fibrosis	Cystic Fibrosis	D003550
+sunburn	Sunburn	D013471
+portal-systemic encephalopathy (PSE)	Hepatic Encephalopathy	D006501
+ocular hypertension	Ocular Hypertension	D009798
+thyroid cancer	Thyroid Neoplasms	D013964
+osteosarcoma	Osteosarcoma	D012516
+carnitine deficiency		
+peripheral neuropathy	Peripheral Nervous System Diseases	D010523
+myxedema coma		
+enteritis	Enteritis	D004751
+hypothyroidism	Hypothyroidism	D007037
+weight-loss aid		
+bipolar disorder	Bipolar Disorder	D001714
+smoking cessation	Smoking Cessation	D016540
+vernal keratoconjunctivitis (VKC)	Conjunctivitis, Allergic	D003233
+opioid withdrawal		
+lice	Phthiraptera	D008003
+hepatic cirrhosis	Liver Cirrhosis	D008103
+intracranial pressure	Intracranial Pressure	D007427
+vomiting	Vomiting	D014839
+mastocytoma	Mastocytoma	D034801
+pinworm	Enterobius	D004757
+joint pain	Arthralgia	D018771
+skeletal imaging agent		
+primary dysmenorrhea (PD)		
+anorexia	Anorexia	D000855
+sleep cycle support		
+giardiasis	Giardiasis	D005873
+skin depigmentation		
+hemorrhagic cystitis	Cystitis, Hemorrhagic	D000096722
+seasonal affective disorder	Seasonal Affective Disorder	D016574
+bronchial hyperresponsiveness diagnostic		
+gestational choriocarcinoma		
+methemoglobinemia	Methemoglobinemia	D008708
+congenital adrenal hyperplasia	Adrenal Hyperplasia, Congenital	D000312
+gastroparesis	Gastroparesis	D018589
+adrenal diagnostic agent		
+yeast infection		
+hyperglycemia	Hyperglycemia	D006943
+fibromyalgia	Fibromyalgia	D005356
+leishmaniasis	Leishmaniasis	D007896
+hepatocellular carcinoma (HCC)	Carcinoma, Hepatocellular	D006528
+pancreatic cancer	Pancreatic Neoplasms	D010190
+adrenal cortical carcinoma	Adrenocortical Carcinoma	D018268
+urticaria	Urticaria	D014581
+organ rejection		
+gallstones	Gallstones	D042882
+tapeworm	Cestoda	D002589
+hypertrophic gastritis (GHG)	Gastritis, Hypertrophic	D005758
+impetigo	Impetigo	D007169
+anticoagulent	Anticoagulants	D000925
+uremic pruritus		
+eye irritation		
+brittle bone disease	Osteogenesis Imperfecta	D010013
+chronic stable angina	Angina, Stable	D060050
+vascular spasm		
+vasospastic angina		
+colitis	Colitis	D003092
+head and neck squamous cell carcinoma (HNSCC)	Squamous Cell Carcinoma of Head and Neck	D000077195
+idiopathic pulmonary fibrosis (IPF)	Idiopathic Pulmonary Fibrosis	D054990
+primary peritoneal cancer (PPC)		
+blackhead disease		
+tyrosinemia	Tyrosinemias	D020176
+primary biliary cholangitis	Liver Cirrhosis, Biliary	D008105
+vaginal atrophy		
+staphylococcal infections	Staphylococcal Infections	D013203
+lungworms		
+strongyles		
+fascioliasis	Fascioliasis	D005211
+nasal congestion		
+chlamydia	Chlamydia	D002689
+bloating		
+gastrointestinal infections		
+Wilson's disease	Hepatolenticular Degeneration	D006527
+anacidity diagnostic		
+pheochromocytoma	Pheochromocytoma	D010673
+interstitial cystitis (IC)	Cystitis, Interstitial	D018856
+urea cycle disorders	Urea Cycle Disorders, Inborn	D056806
+vitamin K deficiency	Vitamin K Deficiency	D014813
+immune adjuvant		
+Tourette's disorder	Tourette Syndrome	D005879
+polycythemia vera	Polycythemia Vera	D011087
+cataracts	Cataract	D002386
+genital warts	Condylomata Acuminata	D003218
+eye infection	Eye Infections	D015817
+oropharyngeal candidiasis		
+organophosphate poisoning	Organophosphate Poisoning	D062025
+parkinsonism	Parkinsonian Disorders	D020734
+thyroid function diagnostic		
+vitamin B6 deficiency	Vitamin B 6 Deficiency	D026681
+weight-gain aid		
+mesothelioma	Mesothelioma	D008654
+myocardial perfusion imaging (MPI)	Myocardial Perfusion Imaging	D055414
+gastritis	Gastritis	D005756
+jaundice	Jaundice	D007565
+anterior uveitis	Uveitis, Anterior	D014606
+histomoniasis	Protozoan Infections	D011528
+staining agent		
+Zollinger-Ellison syndrome	Zollinger-Ellison Syndrome	D015043
+hyperphenylalaninemia (HPA)	Phenylketonurias	D010661
+bone fracture	Fractures, Bone	D050723
+buruli ulcer	Buruli Ulcer	D054312
+acute lung injury	Acute Lung Injury	D055371
+cavities		
+narcolepsy	Narcolepsy	D009290
+basal cell carcinoma (BCC)	Carcinoma, Basal Cell	D002280
+airsacculitis		
+toxoplasmosis	Toxoplasmosis	D014123
+hyperaldosteronism	Hyperaldosteronism	D006929
+asthenia	Asthenia	D001247
+gastrointestinal stromal tumors (GIST)	Gastrointestinal Stromal Tumors	D046152
+Kimura's disease	Kimura Disease	D000082242
+African trypanosomiasis	Trypanosomiasis, African	D014353
+familial amyloid polyneuropathy (FAP)	Amyloid Neuropathies, Familial	D028227
+spinocerebellar ataxia	Spinocerebellar Ataxias	D020754
+acute promyelocytic leukemia (APL)	Leukemia, Promyelocytic, Acute	D015473
+Non-24-Hour Sleep-Wake Disorder	Sleep Disorders, Circadian Rhythm	D020178
+catheter-related bloodstream infection		
+smallpox	Smallpox	D012899
+glioblastoma	Glioblastoma	D005909
+cholera	Cholera	D002771
+myeloma		
+preservative		
+contact dermatitis	Dermatitis, Contact	D003877
+dyskinesia	Dyskinesias	D020820
+navicular syndrome		
+kidney stones	Kidney Calculi	D007669
+Refetoff syndrome	Thyroid Hormone Resistance Syndrome	D018382
+cutaneous mast cell tumors		
+hemophilia	Hemophilia A	D006467
+hypokalemia	Hypokalemia	D007008
+warts	Warts	D014860
+vitiligo	Vitiligo	D014820
+medulloblastoma	Medulloblastoma	D008527
+mydriasis diagnostic		
+orotic aciduria		
+sleeplessness	Sleep Initiation and Maintenance Disorders	D007319
+bladder cancer	Urinary Bladder Neoplasms	D001749
+endocarditis	Endocarditis	D004696
+abdominal distension		
+coronary artery restenosis		
+renal diagnostic agent		
+glioma	Glioma	D005910
+ankylosing spondylitis	Spondylitis, Ankylosing	D013167
+hepatic injury		
+emphysema	Emphysema	D004646
+Ewing's sarcoma	Sarcoma, Ewing	D012512
+parenchymal neurocysticercosis		
+diverticular disease	Diverticular Diseases	D000076385
+ichthyosis vulgaris	Ichthyosis Vulgaris	D016112
+myeloproliferative neoplasms		
+systemic embolism		
+psoriatic arthritis	Arthritis, Psoriatic	D015535
+tremors	Tremor	D014202
+heart attack	Myocardial Infarction	D009203
+superficial cuts		
+throat inflammation		
+tinea cruris	Tinea cruris	D000084002
+ventricular fibrillation (VF)	Ventricular Fibrillation	D014693
+caudal epidural block		
+tonsillitis	Tonsillitis	D014069
+surgical prophylaxis		
+peroxisomal disorders	Peroxisomal Disorders	D018901
+soft tissue infection	Soft Tissue Infections	D018461
+fish tapeworm infestation		
+arteriosclerosis	Arteriosclerosis	D001161
+small lymphocytic lymphoma (SLL)	Leukemia, Lymphocytic, Chronic, B-Cell	D015451
+vasomotor rhinitis	Rhinitis, Vasomotor	D012223
+malignant hyperthermia (MH)	Malignant Hyperthermia	D008305
+thalassemia	Thalassemia	D013789
+iron overload	Iron Overload	D019190
+nocturnal enuresis	Nocturnal Enuresis	D053206
+erosive esophagitis (EE)		
+hypovolemia	Hypovolemia	D020896
+cerebrovascular insufficiency	Cerebrovascular Disorders	D002561
+central nervous system depression		
+pulmonary embolism (PE)	Pulmonary Embolism	D011655
+tissue adhesive	Tissue Adhesives	D014014
+anaphylactic shock	Anaphylaxis	D000707
+percutaneous coronary intervention (PCI)	Percutaneous Coronary Intervention	D062645
+heterotopic ossification	Ossification, Heterotopic	D009999
+neuroendocrine tumors of pancreatic origin (PNET)		
+adrenogenital syndrome	Adrenogenital Syndrome	D047808
+postherpetic neuralgia	Neuralgia, Postherpetic	D051474
+reproductive synchrony		
+pupil dilation		
+Friedreich's ataxia	Friedreich Ataxia	D005621
+peritonitis	Peritonitis	D010538
+heart block	Heart Block	D006327
+gastrointestinal acidosis		
+histoplasmosis	Histoplasmosis	D006660
+mucositis	Mucositis	D052016
+brain tumors	Brain Neoplasms	D001932
+laryngitis	Laryngitis	D007827
+sciata		
+dysthymic disorder	Dysthymic Disorder	D019263
+whipworm		
+episcleritis	Scleritis	D015423
+cachexia	Cachexia	D002100
+menstrual pain	Dysmenorrhea	D004412
+hydatidiform mole	Hydatidiform Mole	D006828
+nephrotic syndrome	Nephrotic Syndrome	D009404
+fungal keratosis		
+hepatic encephalopathy (HE)	Hepatic Encephalopathy	D006501
+cerebral artery occlusion		
+pyelonephritis	Pyelonephritis	D011704
+nerve gas poisoning		
+acromegaly	Acromegaly	D000172
+dyspareunia	Dyspareunia	D004414
+soft tissue sarcoma (STS)	Sarcoma	D012509
+urethritis	Urethritis	D014526
+hemorrhoids	Hemorrhoids	D006484
+anticoagulation reversal	Anticoagulation Reversal	D000088542
+dizziness	Dizziness	D004244
+dermatomyositis	Dermatomyositis	D003882
+Grave's disease	Graves Disease	D006111
+lymphangioleiomyomatosis	Lymphangioleiomyomatosis	D018192
+punctate keratitis		
+cyanide poisoning		
+urinary frequency		
+chronic respiratory disease		
+onchocerciasis	Onchocerciasis	D009855
+chapped lips		
+irritability		
+astrocytoma	Astrocytoma	D001254
+hip dysplasia	Hip Dislocation	D006617
+Huntington's disease	Huntington Disease	D006816
+refactory angina		
+tinea corporis	Tinea	D014005
+cervical cancer	Uterine Cervical Neoplasms	D002583
+nystagmus		
+cycloplegia diagnostic		
+varicella-zoster virus (VZV)	Herpesvirus 3, Human	D014645
+true histiocytic lymphoma (THL)	Histiocytic Sarcoma	D054747
+aspergillosis	Aspergillosis	D001228
+rhabdomyosarcoma	Rhabdomyosarcoma	D012208
+chicken pox	Chickenpox	D002644
+amblyopia	Amblyopia	D000550
+chronic myelomonocytic leukemia (CMMoL)	Leukemia, Myelomonocytic, Chronic	D015477
+pleural effusion	Pleural Effusion	D010996
+lumbar epidural block		
+oligomenorrhea	Oligomenorrhea	D009839
+Zellweger syndrome	Zellweger Syndrome	D015211
+parathyroid carcinoma	Parathyroid Neoplasms	D010282
+enterocolitis	Enterocolitis	D004760
+celiac disease	Celiac Disease	D002446
+psittacosis	Psittacosis	D009956
+osteomalacia	Osteomalacia	D010018
+acute hypercapnia (AHC)		
+left ventricular systolic dysfunction (LVSD)	Ventricular Dysfunction, Left	D018487
+head injury	Craniocerebral Trauma	D006259
+hypophosphatemia	Hypophosphatemia	D017674
+sitosterolemia	Sitosterolemia	C537345
+bulimia nervosa	Bulimia Nervosa	D052018
+Waldenstrom's macroglobulinemia (WM)	Waldenstrom Macroglobulinemia	D008258
+Leber hereditary optic neuropathy (LHON)	Optic Atrophy, Hereditary, Leber	D029242
+Buerger's disease	Thromboangiitis Obliterans	D013919
+blastomycosis	Blastomycosis	D001759
+cattle grubs		
+retinitis pigmentosa (RP)	Retinitis Pigmentosa	D012174
+exercise-induced bronchoconstriction (EIB)		
+blepharitis	Blepharitis	D001762
+esophageal cancer	Esophageal Neoplasms	D004938
+atherosclerosis	Atherosclerosis	D050197
+ulcerative esophagitis (UE)		
+prostatitis	Prostatitis	D011472
+carcinoid tumors	Carcinoid Tumor	D002276
+cystinuria	Cystinuria	D003555
+gynecologic infections		
+Peyronie's disease	Penile Induration	D010411
+akathisia	Psychomotor Agitation	D011595
+goiter	Goiter	D006042
+non-alcoholic steatohepatitis (NASH)		
+panic disorders	Panic Disorder	D016584
+encephalomyelitis	Encephalomyelitis	D004679
+gastroenteritis	Gastroenteritis	D005759
+precocious puberty	Puberty, Precocious	D011629
+periarthritis	Periarthritis	D010489
+indigestion	Dyspepsia	D004415
+syphilis	Syphilis	D013587
+dermatographism		
+polymenorrhea	Menstruation Disturbances	D008599
+aggressive systemic mastocytosis (ASM)	Mastocytosis, Systemic	D034721
+Cogan's syndrome	Cogan Syndrome	D055952
+trachoma	Trachoma	D014141
+tinea versicolor	Tinea Versicolor	D014010
+spinal injury	Spinal Injuries	D013124
+obesity	Obesity	D009765
+subependymal giant cell astrocytoma (SEGA)	Astrocytoma	D001254
+rhinopharyngitis		
+backache	Back Pain	D001416
+dermatosis	Skin Diseases	D012871
+bursitis	Bursitis	D002062
+mites	Mites	D008925
+throat infections		
+gallbladder disease	Gallbladder Diseases	D005705
+dystonia	Dystonia	D004421
+tendinitis	Tendinopathy	D052256
+trichomoniasis	Trichomonas Infections	D014245
+social anxiety disorder	Phobia, Social	D000072861
+squamous cell carcinoma	Carcinoma, Squamous Cell	D002294
+brainstem glioma		
+genitourinary tract infections		
+tetanus	Tetanus	D013742
+Burkitt's lymphoma	Burkitt Lymphoma	D002051
+gestational trophoblastic disease (GTD)	Gestational Trophoblastic Disease	D031901
+heavy leg syndrome		
+cutaneous candidiasis	Candidiasis, Cutaneous	D002179
+chronic renal failure	Kidney Failure, Chronic	D007676
+tuberous sclerosis complex (TSC)	Tuberous Sclerosis	D014402
+hypereosinophilic syndrome (HES)	Hypereosinophilic Syndrome	D017681
+neurogenic bladder	Urinary Bladder, Neurogenic	D001750
+acute glomerulonephritis (AGN)		
+iritis	Iritis	D007500
+lupus		
+premenstrual syndrome	Premenstrual Syndrome	D011293
+myoma	Myoma	D009214
+ischiadynia		
+endocrine adenoma		
+postpartum endomyometritis		
+renal angiomyolipoma		
+chronic eosinophilic leukemia (CEL)	Pdgfra-Associated Chronic Eosinophilic Leukemia	C580364
+horn flies	Muscidae	D009117
+epicondylitis		
+scarlet fever	Scarlet Fever	D012541
+cyclitis		
+chancroid	Chancroid	D002602
+plague	Plague	D010930
+gender dysphoria	Gender Dysphoria	D000068116
+Kaposi sarcoma	Sarcoma, Kaposi	D012514
+dermatofibrosarcoma protuberans (DFSP)	Dermatofibrosarcoma	D018223
+Lyme disease	Lyme Disease	D008193
+ependymoma	Ependymoma	D004806
+diphtheria	Diphtheria	D004165
+anthrax	Anthrax	D000881
+tularemia	Tularemia	D014406
+erythrasma	Erythrasma	D004894
+brucellosis	Brucellosis	D002006
+retinoblastoma	Retinoblastoma	D012175
+actinomycosis	Actinomycosis	D000196
