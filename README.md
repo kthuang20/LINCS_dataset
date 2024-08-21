@@ -17,4 +17,6 @@ This GitHub repository contains the following jupyter notebooks:
 Other relevant information:
 * The `conn_scores` folder contains the files used to generate the `conn_scores.txt` file used to generate Figure 1b.
 * The `DRH_clin_data` folder contains the DRH datasets datasets used to train and evaluate the model
-* The `ref_data` folder contains the files relevant to the LINCS L1000 dataset and files used to prepare the DRH and clinical trial datasets.
+* The `ref_data` folder contains the files relevant to the LINCS L1000 data and files used to prepare the DRH and clinical trial datasets.
+* The `environment.yml` file specifies the dependencies of the conda environment used for all analyses performed.
+* The `clinical_trials_predictions.txt` file contains the ensemble model's predictions for drug indications in clinical trials data.
