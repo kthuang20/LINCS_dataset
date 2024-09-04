@@ -19,4 +19,4 @@ Other relevant information:
 * The `DRH_clin_data` folder contains the DRH datasets datasets used to train and evaluate the model
 * The `ref_data` folder contains the files relevant to the LINCS L1000 data and files used to prepare the DRH and clinical trial datasets.
 * The `environment.yml` file specifies the dependencies of the conda environment used for all analyses performed.
-* The `clinical_trials_predictions.txt` file contains the ensemble model's predictions for drug indications in clinical trials data.
+* The `model_predictions.txt` file contains the ensemble model's predictions for drug indications in clinical trials data.
